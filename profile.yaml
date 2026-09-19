@@ -1,0 +1,9 @@
+ui_meta:
+  hermes-bots:
+    shape: squircle
+    color: '#8b5cf6'
+    imageKind: shape
+    title: Vera
+    custom: true
+_ui_meta_revisions:
+  hermes-bots: 1

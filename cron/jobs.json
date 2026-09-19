@@ -1,0 +1,144 @@
+{
+  "jobs": [
+    {
+      "id": "435fa92323c0",
+      "name": "Wiki Weekly Lint",
+      "prompt": "You are performing a weekly health check and maintenance lint on the LLM Wiki at /Users/paulmillsaps/Documents/_Obsidian/wiki/.\n\n## Full Lint Checklist\n\nRun every check below. Report findings grouped by severity.\n\n### 1. Log rotation\nCheck log.md line count. If >400 entries, flag for rotation at next opportunity.\n\n### 2. Orphan pages\nUse execute_code to scan all .md files in entities/ and concepts/ and build an inbound link map from [[wikilinks]] across all wiki pages. Pages with zero inbound links are orphans. List them.\n\n### 3. Broken wikilinks\nFind [[links]] that point to pages that don't exist on disk. List file and broken target.\n\n### 4. Index completeness\nEvery page in entities/, concepts/, comparisons/, queries/ should appear in index.md. Flag any missing from index, and any index entries pointing to non-existent files.\n\n### 5. Frontmatter validation\nSample 20+ pages randomly. Check for required fields (title, created, updated, type, tags). Flag violations.\n\n### 6. Stale content\nFind pages whose updated date is >90 days old. Flag for review.\n\n### 7. Page size\nFlag any pages over 200 lines as candidates for splitting.\n\n### 8. Source drift\nFor each file in raw/ with sha256 frontmatter, recompute the hash and flag mismatches.\n\n### 9. Contradictions\nList all pages with contested: true or contradictions: frontmatter.\n\n### 10. Tag audit\nList all tags in use across pages. Flag any not in the Active Tag Vocabulary (entity subtypes: person, company, product, model, framework, dataset, paper, event, other; concept subtypes: technique, architecture, paradigm, metric, license, protocol, other).\n\n### 11. Quality signals\nList pages with confidence: low and pages that cite only a single source but have no confidence field.\n\n## Report Format\n\nProduce a concise report:\n- **Critical** (broken links, missing frontmatter): must fix soon\n- **Warning** (orphans, stale >90 days, oversized pages): should fix\n- **Info** (contested pages, low-confidence, tag violations): awareness\n\nEnd with: total issues by severity, and the recommended next action.\n\n## Important\n- DO NOT delete or archive any files\n- DO NOT bulk-edit pages — only report findings\n- DO update log.md with: ## [YYYY-MM-DD] lint | N issues found\n- DO NOT modify raw/ files (immutable)",
+      "skills": [
+        "llm-wiki"
+      ],
+      "skill": "llm-wiki",
+      "model": null,
+      "provider": null,
+      "provider_snapshot": "nous",
+      "model_snapshot": "meituan/longcat-2.0:free",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * 1",
+        "display": "every monday 9am"
+      },
+      "schedule_display": "every monday 9am",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-09-19T04:43:35.444198-05:00",
+      "next_run_at": "2026-09-21T09:00:00-05:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "last_delivery_unverified": null,
+      "failure_streak": 0,
+      "deliver": "telegram:8624831548",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": "/Users/paulmillsaps/Documents/_Obsidian/wiki"
+    },
+    {
+      "id": "1da953f915bb",
+      "name": "Wiki Vault Ingest (100/day)",
+      "prompt": "You are performing the daily vault-to-wiki ingest. The script at `~/.hermes/scripts/wiki-vault-ingest.py` tracks state in `~/.hermes/scripts/wiki-vault-ingest-state.json`.\n\n## Steps\n\n### 1. Pull latest\n```bash\ncd /Users/paulmillsaps/Documents/_Obsidian && git pull origin main\n```\n\n### 2. Get next batch of 100 vault files\n```bash\npython3 ~/.hermes/scripts/wiki-vault-ingest.py batch 100\n```\n\nIf the output starts with `NO_FILES`, nothing to ingest — log it and stop.\n\n### 3. Start timing\nRecord the start time: `START=$(date +%s)`\n\n### 4. For each file in the batch:\n- Read the vault file directly from its location (e.g., /Users/paulmillsaps/Documents/_Obsidian/AI/filename.md)\n- Extract entities and concepts mentioned\n- Search existing wiki pages (search_files across entities/ and concepts/)\n- Create new pages only if they meet Page Thresholds (2+ source mentions, or central to one source)\n- Update existing pages with new information (bump `updated` date)\n- Ensure bidirectional links (min 2 outbound links per page)\n- Add pages to `index.md` under correct section\n- Do NOT copy files to raw/ — the vault files stay in place\n\n### 5. Record timing and update state\n```bash\nEND=$(date +%s)\nDURATION=$((END - START))\n# Build file:hash pairs\nFILE_ARGS=\"\"\nfor file in <list_of_files>; do\n  HASH=$(python3 -c \"import hashlib; print(hashlib.sha256(open('/Users/paulmillsaps/Documents/_Obsidian/$file','rb').read()).hexdigest())\")\n  FILE_ARGS=\"$FILE_ARGS $file:$HASH\"\ndone\npython3 ~/.hermes/scripts/wiki-vault-ingest.py record $DURATION <file_count> $FILE_ARGS\n```\n\n### 6. Update log.md\nAppend: `## [YYYY-MM-DD] ingest | Vault batch (N files) | <duration>s`\n\n### 7. Commit and push\n```bash\ncd /Users/paulmillsaps/Documents/_Obsidian && git add -A && git commit -m \"Daily vault ingest: N files (${DURATION}s)\" && git push origin main\n```\n\n### 8. Get timing summary\n```bash\npython3 ~/.hermes/scripts/wiki-vault-ingest.py summary\n```\n\nInclude the timing summary in your response to the user. Format:\n```\n📊 Vault Ingest Report\n- Files ingested today: N\n- Duration: Xs\n- Avg batch time: Xs (over N batches)\n- Remaining: N files (~N batches, ~N min projected)\n```\n\n## Important\n- Process files in the order returned by the script (priority-sorted)\n- Skip files that are too short (<100 words) — just log and move on\n- Don't create pages for passing mentions\n- Follow existing conventions from SCHEMA.md\n- Do NOT copy files to raw/ — vault files stay in their original locations",
+      "skills": [
+        "llm-wiki"
+      ],
+      "skill": "llm-wiki",
+      "model": null,
+      "provider": null,
+      "provider_snapshot": "nous",
+      "model_snapshot": "meituan/longcat-2.0:free",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 2 * * *",
+        "display": "0 2 * * *"
+      },
+      "schedule_display": "0 2 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-09-19T04:56:31.069460-05:00",
+      "next_run_at": "2026-09-20T02:00:00-05:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "last_delivery_unverified": null,
+      "failure_streak": 0,
+      "deliver": "telegram:8624831548",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": "/Users/paulmillsaps/Documents/_Obsidian/wiki"
+    },
+    {
+      "id": "373229cd5e7f",
+      "name": "Wiki Batch Report (Telegram)",
+      "prompt": "You are generating a Wiki Vault Ingest batch report. Read the state file at ~/.hermes/scripts/wiki-vault-ingest-state.json and the wiki log at /Users/paulmillsaps/Documents/_Obsidian/wiki/log.md. Produce a concise report with: total files processed, total batches run, average batch duration, remaining files, projected completion time. Format as Telegram-friendly markdown. Include a summary of the latest batch entry from the log. Use the llm-wiki skill if loaded.",
+      "skills": [
+        "llm-wiki"
+      ],
+      "skill": "llm-wiki",
+      "model": null,
+      "provider": null,
+      "provider_snapshot": "nous",
+      "model_snapshot": "meituan/longcat-2.0:free",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "interval",
+        "minutes": 60,
+        "display": "every 60m"
+      },
+      "schedule_display": "every 60m",
+      "repeat": {
+        "times": null,
+        "completed": 1
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-09-19T06:50:37.564074-05:00",
+      "next_run_at": "2026-09-19T07:52:11.268700-05:00",
+      "last_run_at": "2026-09-19T06:52:11.268700-05:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "last_delivery_unverified": null,
+      "failure_streak": 0,
+      "deliver": "telegram:8624831548",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null,
+      "fire_claim": null
+    }
+  ],
+  "updated_at": "2026-09-19T06:52:11.268992-05:00"
+}

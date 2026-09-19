@@ -1,0 +1,990 @@
+{
+  "ingested": {
+    "AI/$200mo is a Waste Try These 3 Claude Code Techniques Instead.md": {
+      "ingested": "2026-09-19",
+      "sha256": "c4ecb3895d8f6964d2def6139a73ec18392af62ff3d19e6afc21a1066d0495d9",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/10 AI Tools That Are Way Better Than Their Reputation Suggests.md": {
+      "ingested": "2026-09-19",
+      "sha256": "94bccb58631d15d3689651d717d13a1ee2c83b5740d11ef58e11b122776a483f",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/10 Claude Code Commands Most Developers Never Use.md": {
+      "ingested": "2026-09-19",
+      "sha256": "8012f5d98a7e6a1a12927eada749f91345a94f8c1b072dfc08ada14c85770a25",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/10 Free AI Tools That Are Genuinely Better Than the Paid Ones.md": {
+      "ingested": "2026-09-19",
+      "sha256": "97833051820710743e87f63b7258ee36b3c5eb05215f35b0f6ad7133b4fc840f",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/10 OpenClaw Use Cases for a Personal AI Assistant.md": {
+      "ingested": "2026-09-19",
+      "sha256": "841d350383b60c003bc91a5e3cdc793a8545feab5145bbe7d52380042e523402",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/10 Tips to Level Up Claude Code 1.md": {
+      "ingested": "2026-09-19",
+      "sha256": "79050c63fcc305de9c3b34b0d3a0199f84964e2d73a5e3fa26ce6a380d85c70d",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/10 Tips to Level Up Claude Code.md": {
+      "ingested": "2026-09-19",
+      "sha256": "73f72cab53c1ce420d98651d310b4bac652f23d08bd8fa16eb9349c9f88c928d",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/12 AI Books Worth Reading in 2026 \u2014 If You Actually Build Things.md": {
+      "ingested": "2026-09-19",
+      "sha256": "6cfb6c47e1a74bf9cb306b6a3c52db8f727e7925bfa4ed7a616580b785eaf37b",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/12 AI Prompt Websites Worth Bookmarking.md": {
+      "ingested": "2026-09-19",
+      "sha256": "d2146ce741401792733eb4f7c5f8dbb0badc37469d9685ad337458b119a6347f",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/12 Claude Code Commands Most Developers Never Use 1.md": {
+      "ingested": "2026-09-19",
+      "sha256": "456a226f9aa231deca5c0c3aa1f69d0230dc01ee75ace9c49f47eaac188f9b74",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/12 Claude Code Commands Most Developers Never Use.md": {
+      "ingested": "2026-09-19",
+      "sha256": "a19a1b752a8e1fe13d62a6f9e1fe50e377e5f34af50c23f6a8f7bc7b9957c16a",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/12 Free AI Websites That Deserve Millions More Users.md": {
+      "ingested": "2026-09-19",
+      "sha256": "753862860791de086eb3ec8ad200f9dd4a32569fed95fb169e60f8d11de79e9f",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/15 AI Websites Every Entrepreneur Should Bookmark \u2014 And Actually Use.md": {
+      "ingested": "2026-09-19",
+      "sha256": "4a19d1d1ca5d387141973deda249bc5bbf2d3ba4385697b568844e6b3e3b7793",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/15 Very Useful AI Study Tools You Never Knew Existed.md": {
+      "ingested": "2026-09-19",
+      "sha256": "673718c1148f7748870db7cd47bfc685913382fa911b6425890baf1bb6dd8621",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/18 Pre-Built Claude Skills That Cover Your Entire Content Workflow!.md": {
+      "ingested": "2026-09-19",
+      "sha256": "a37b759efb74d7dc3314ca9d6bb8d40daa16f41e3df91ccbc5f885f9f2b8b079",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/20 Hidden ChatGPT features most people never use (But should).md": {
+      "ingested": "2026-09-19",
+      "sha256": "dd31a8a32e3a0a2a709721733e5ef008e6e25ec023fea63e07dc9f1462669d28",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/20 Most Important AI Concepts Explained in Just 20 Minute.md": {
+      "ingested": "2026-09-19",
+      "sha256": "8487dbf2391df8de58daf0e54639239abc54d36eb78f6e887bcb641edb8eda18",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/21 Claude Tools That Turn a Chatbot Into a Developer Workspace.md": {
+      "ingested": "2026-09-19",
+      "sha256": "dc946f021f69b8098fe4acdf2addcf9217a7092b5c983600437ca69c8a7d74c1",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/25 Claude Code Tips I Actually Use as an iOS Engineer.md": {
+      "ingested": "2026-09-19",
+      "sha256": "7d65a558e33f1ae45bb4ce1905240aafade5aa55043422495679d48b56c7b002",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/250x Faster Than LibreOffice, Pure Rust Document Parsing Powerhouse anydoc Boosts Document Parsing Speed by Two Orders of Magnitude.md": {
+      "ingested": "2026-09-19",
+      "sha256": "39b6305f6b70b9b296c3679ae5c6ffd37be3de91a58bfdc119c44b06ec9e2bc2",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/27 AI Systems You Can Start Selling in 2026.md": {
+      "ingested": "2026-09-19",
+      "sha256": "500b4883ade16606e492b15a003950e077e3ddaa39fe68444ff15361d83a406b",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/4 Best AI to use as an Executive Assistant for Busy Professionals.md": {
+      "ingested": "2026-09-19",
+      "sha256": "82dfbff97069eaa76249c58a02869ef919ea01a1c6e2dc62632c3806448ab505",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/5 AI Coding Tools Developers Are Using That Nobody Talks About.md": {
+      "ingested": "2026-09-19",
+      "sha256": "735f1a3fdbafad48a5cba39e02f30e931a0535717a619629c1e0d96a2add7f42",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/5 AI Tools That Help You Actually Retain What You Study.md": {
+      "ingested": "2026-09-19",
+      "sha256": "ccb0ea4ec682d34c749aa439feaa77d67f2e8fdc3340463f74574da09d292ff7",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/5 Best AI Document Processing Tools in 2026 (Compared).md": {
+      "ingested": "2026-09-19",
+      "sha256": "f845d48be122affb96d57d0fded1a5bd289ca6cf3b15c3fde00b1f6edba2b685",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/5 Best AI Fact Checkers to Verify Truth in 2026.md": {
+      "ingested": "2026-09-19",
+      "sha256": "572913a1a852de2eeed61eaa68cc2f3100da6c8b6d3fc500fc5d9262e07bb60c",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/5 Books That Made Me Smarter than 99% of People.md": {
+      "ingested": "2026-09-19",
+      "sha256": "790b61d566a2c303b992208db20a841e913dae8952ec5b51d19cbcac8ecdfe2e",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/5 GitHub Action patterns that leaked tokens in 2026.md": {
+      "ingested": "2026-09-19",
+      "sha256": "16e29da217a5d48170c79fbffeeec167baf3eae0cf90ce97cc6f1cf3635ad956",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/5 Hidden Claude Commands That Will Blow Your Mind.md": {
+      "ingested": "2026-09-19",
+      "sha256": "3516ae9ba4129122fc42bffe3052ce9d260c61fd94251ccbecca0d553d61b8fd",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/5 Open-Source Tools That Turn a 32GB Laptop Into a Local AI Powerhouse (Zero Cloud Bills).md": {
+      "ingested": "2026-09-19",
+      "sha256": "b324bb944dbbbbf6ad75f4792a0f34ee5ee488a03a149e9981d1616fbc36cfc7",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/6 Cloud-Based AI Automation Tools for Business Workflows.md": {
+      "ingested": "2026-09-19",
+      "sha256": "b375c77592fd831b93ea9b0501916923fa9b4be972e6deca89af4517b2e9fc82",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/61.9K Stars, Microsoft Open-Sources AI-For-Beginners A Systematic AI Introduction for Complete Beginners.md": {
+      "ingested": "2026-09-19",
+      "sha256": "090c8bd7a82c503a28340d60e75006180e03195949179988e8b9c1e9ead86307",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/7 AI Prompts That Made My Job Search Feel Less Like a Full-Time Nightmare.md": {
+      "ingested": "2026-09-19",
+      "sha256": "9bdfd296a87f43f5a1f9616b323ef4218b6df29cf49971e9a2bc7cf5c13c9420",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/7 Hermes Desktop Techniques That Turn It Into a Proactive AI Employee.md": {
+      "ingested": "2026-09-19",
+      "sha256": "cf6f2eed5bd2451de459cd7d9be401042e1127339639f3ec039e13850d9dbd1b",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/7 Most INSANE Things Created by Kimi K3.md": {
+      "ingested": "2026-09-19",
+      "sha256": "903ee45ef3e56a7403e4da2f0430597cc9a28ed5e4a02e1f5896c7e5b44b06b1",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/7 Things Claude Can Do That Quietly Change How You Work.md": {
+      "ingested": "2026-09-19",
+      "sha256": "d72b5b5f328719522777c0dad353320bbcdd4b688cd234386c1626156d28b6fc",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/8 Claude Code Commands Most Developers Never Use.md": {
+      "ingested": "2026-09-19",
+      "sha256": "188215d4117abeeb21133bb818b8d8594977babe10d3ca4e0a963e50b3fa998b",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/9 Free AI Skills That Feel Like Cheat Codes.md": {
+      "ingested": "2026-09-19",
+      "sha256": "74f1ca422b2f606766fc2cf8433b2b53faffd148ed7df18b89c85cdc89dbbeaf",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/9-layer Agentic RAG Every AI Engineer Should Know Before Shipping an Agent.md": {
+      "ingested": "2026-09-19",
+      "sha256": "6cb74ea96ef8747a6a201589cd2f704185b8260d8579d1586c05501f58845ed4",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/A Lock Icon Did More for Trust Than Our $6,000 Security Audit.md": {
+      "ingested": "2026-09-19",
+      "sha256": "466a1ba8cc754daca9c3b37e8a7c8f5eb24865ef94b742aaba34ebc1a9cc5574",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/A Playdate with Agents.md": {
+      "ingested": "2026-09-19",
+      "sha256": "664436b225c8351a74405059650ca489be5a5bebe7ed431335052b3b5ea44fa3",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/A YouTuber Just Did More for Self-Hosted AI Than a Decade of Open Source.md": {
+      "ingested": "2026-09-19",
+      "sha256": "ce722790dff5829796e80f7b0e6a8afd69f4fad09f062559e26406d1419f005b",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/A circuit breaker for coding agents.md": {
+      "ingested": "2026-09-19",
+      "sha256": "0fc4f6a6c23a6ebde7d8d36ba22b91f9b85fe5e60f7b258bb86740e670bdcb49",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/A free Graph  RAG system that works with real data.md": {
+      "ingested": "2026-09-19",
+      "sha256": "93aac0591227da56f76999dbfcf3e6d4f5370e5790fadecff3a52f1707e05589",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/AI Coding Agents Are Changing Software Engineering.md": {
+      "ingested": "2026-09-19",
+      "sha256": "c083d76ace897d59cca3d5d9592c4b4b43f3eee57e41bf10bf5f47922968170d",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/AI Concepts That Finally Made AI Click for Me.md": {
+      "ingested": "2026-09-19",
+      "sha256": "04adc75e124885113762198a798b3e3b70a81b034140ea90cc6b226bfa286c69",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/AI Model Training Services \u2014 Top Tried & Tested Agencies Worth Hiring in 2026.md": {
+      "ingested": "2026-09-19",
+      "sha256": "76787ad282cc4d5d8c9e5e355725993175faa5becdaa00030be93b184bb2db0b",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/AI Profile.md": {
+      "ingested": "2026-09-19",
+      "sha256": "742a3f221f38801695a33e331c21f8dfffeacd91559c48e4df5f80bdd9870d43",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/AI Trading Tools Are Becoming Impossible To Ignore.md": {
+      "ingested": "2026-09-19",
+      "sha256": "3b1bcdf92f7f3ba89a248ff7724c7e7a16256debf640acc3e51e8e16b7ab327a",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/AI agentic based auto trading.md": {
+      "ingested": "2026-09-19",
+      "sha256": "df2ba54721f6828702270c620913aab063b765c981d771689a3fe8054df79b38",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/AI-Native Engineering Timing the Market or Time in the Market.md": {
+      "ingested": "2026-09-19",
+      "sha256": "5b9eb57e2b5f819b33b4c223f37ae05fcd566ec5df849d39cf1d21671105c580",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/AI_For_Accountants_02_Bookkeeping Automation.md": {
+      "ingested": "2026-09-19",
+      "sha256": "4cea76c5129540f0002a5d707b0e587180570aa59fb41983265e74a4382809b3",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Adventures in Claude Code land.md": {
+      "ingested": "2026-09-19",
+      "sha256": "06ddf2617a9efd5426cad01303f697d66c6c047a1934e7e22202cdbd2ef7eeef",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Agent RuleZ A Deterministic Policy Engine for AI Coding Agents.md": {
+      "ingested": "2026-09-19",
+      "sha256": "538c9e0e2de5d134beb346a9e71b07c70cd2b5ef8e2c1f73441cb4897bf2cda2",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/AgentGateway \u2014 For MCP implementation 1.md": {
+      "ingested": "2026-09-19",
+      "sha256": "756d22e42b28792c3d4ea503d872cb6bc9d0e77596ed29de3b2cc5b3074db9e5",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/AgentGateway \u2014 For MCP implementation.md": {
+      "ingested": "2026-09-19",
+      "sha256": "15980e6e4ef53ca4e8e983e6454c92abbb1f24857ed69c60f4324809f3c1de16",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/AgentGrove v0.1.42 a full database tree inside your agent workspace.md": {
+      "ingested": "2026-09-19",
+      "sha256": "ac4f76ee0456d4744abbc288b19a5dd1e6687a5597826aca51d4afd20b075854",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Agentic coding with a local LLM on macOS explained easy.md": {
+      "ingested": "2026-09-19",
+      "sha256": "a7870e694a4c7fcd1e163266398425b3c87c5c005d12575595f2239a778a6483",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/AirLLM Was Just the Beginning \u2014 Meet the 3 Tools That Make Local AI Even Simpler in 2026.md": {
+      "ingested": "2026-09-19",
+      "sha256": "e369149957bb04b529879bb80c71a958b1917e9088bcd1c06a789d0b3214d8b6",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Best AI Document Processing Tools in 2026 Top 5 Compared for Developers and Engineering Teams.md": {
+      "ingested": "2026-09-19",
+      "sha256": "95e6a548e056b02578595ede4fa0f5ca1955f99f0907c0fe87961e5962688369",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Best Tools for Dividend Investors in 2026 (The 5 You Actually Need).md": {
+      "ingested": "2026-09-19",
+      "sha256": "682cedda2dfee22de748bb8010ca59a4e3f3a6ab92e26e373d3c492dc89d3f75",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Beyond ChatGPT 4 Hidden-Gem Open Source AI Projects You Can Use Today.md": {
+      "ingested": "2026-09-19",
+      "sha256": "b5f5bfc75fc731079e048e9e67b0c02b73a69911c6345f3894b06a0d8b166702",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Beyond Simple Retrieval Building RAG Systems That Actually Work in Production.md": {
+      "ingested": "2026-09-19",
+      "sha256": "0b99c79f46e415e3f63e9d5b998b00739ae53ba7e678d1ba445a54056e4c8748",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Beyond catastrophic forgetting how to build an LLM-Wiki for the long game.md": {
+      "ingested": "2026-09-19",
+      "sha256": "d79ff99b5198a440d4bb525b12a810ce2038a6ff9c5b32c05895c062c8af8315",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Bluesky vs Substack Notes.md": {
+      "ingested": "2026-09-19",
+      "sha256": "e8724df42ee96c40614d0af00f183188a49653b0b2dd813271090ba308d220f6",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Build Better AI Agents Guide Them With Deterministic Checks, Not Just Prompts.md": {
+      "ingested": "2026-09-19",
+      "sha256": "ba98a5aebe4d70215da29de631a398f266e7aeecab9e2de4ab6d2ac683cedc59",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Build Reliable AI The RAG Patterns Every AI Engineer Needs to Know.md": {
+      "ingested": "2026-09-19",
+      "sha256": "b44a8574e49c3c4dc4c59f740daeec4f3fff11ff226cf0d6b82bae0af81a8384",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Build Your Own Multi-Agent System.md": {
+      "ingested": "2026-09-19",
+      "sha256": "d7a5b4b07883791327195238a4aa02f78d10f3abc3f6a81b933fcb75de243f8c",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Build a Local Code Review & Refactoring Assistant with OpenClaw & Ollama.md": {
+      "ingested": "2026-09-19",
+      "sha256": "ae90a46ce949bae2f9db70055f0c3e4830c8907cf015fb45b9b10acf99fd17b1",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Build a Personal RAG System Without the Infrastructure Using Claude Cowork and Obsidian.md": {
+      "ingested": "2026-09-19",
+      "sha256": "9efcd429817569629a534b477a7655486a797e50ca2eef7a62dd4f669d76a4b1",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Build your own AI MOVIES Shot by Shot \u2014 FREE & LOCAL!.md": {
+      "ingested": "2026-09-19",
+      "sha256": "c75bdaafcd48d1661bf63a8ee9ffff3e99ae18bfd6ef64c9eb9ec5ff91a53eb4",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Building Smarter AI Agents 7 Game-Changing RAG Strategies That Actually Work.md": {
+      "ingested": "2026-09-19",
+      "sha256": "a597e775e078b9289edd617e73dbbf413b369239d61657da0de7f3cf51283d35",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Building a Local AI Assistant A Step-by-Step Guide to Self-Hosting with Ollama, Open WebUI, and Qdrant.md": {
+      "ingested": "2026-09-19",
+      "sha256": "4774c775356fb73caac7dfd2c8ff1044e28fc26de12995d27e1baa651441e5d9",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Building an LLM From Scratch \u2014 1-7 Mastering the fundamentals.md": {
+      "ingested": "2026-09-19",
+      "sha256": "b4db36a0339f23762efcc3790eb7dce10aff41ecf3feaf6e326fe4b238c69b40",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Building an LLM From Scratch \u2014 2-7 Data Preparation (Embeddings).md": {
+      "ingested": "2026-09-19",
+      "sha256": "e1ba7bced29d2d368769c777f7844dbe874f55ba1cd42b2bc65aa79273e86aba",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Building an LLM From Scratch \u2014 3-7 Self-Attention Mechanisms.md": {
+      "ingested": "2026-09-19",
+      "sha256": "c675424388f5a6bf1e9524693b0bd80d80c6a1864ec0f64ae6423627c5af3d43",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Building an LLM From Scratch \u2014 4-7 Building The Multi-head Self-Attention Class In PyTorch.md": {
+      "ingested": "2026-09-19",
+      "sha256": "693324017910eb289e17fd76e130dba8f6442ffc251081228c2cd7c428a1928e",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Building an LLM From Scratch \u2014 5-7 Adding Causal Masking And Dropout.md": {
+      "ingested": "2026-09-19",
+      "sha256": "8c2162ad9eca7b6d0c323062ac6402611aeba8dfa56f8b33183fc10eb15be59a",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Building an LLM From Scratch \u2014 6-7 Coding The GPT Class.md": {
+      "ingested": "2026-09-19",
+      "sha256": "6f309addb9dee02f917c6594529783db194f245eaed7ed865c1e52b931311b92",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Building an LLM From Scratch \u2014 67 Coding The GPT Class.md": {
+      "ingested": "2026-09-19",
+      "sha256": "05426cac2a33ef104756a8a044244322394a29e07771753e3b013718d6dbaf38",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Building an LLM From Scratch \u2014 7-7 Pre-training the model.md": {
+      "ingested": "2026-09-19",
+      "sha256": "34edb970f3a937718d465bca47038fb8443abb944ff38512a01453402d57e1ff",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Building an LLM From Scratch.md": {
+      "ingested": "2026-09-19",
+      "sha256": "734a3539a911725ec4823cc15f453fdb00ca030e3f99dd5600be12aadbefc79d",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Building production RAG pipelines that actually work.md": {
+      "ingested": "2026-09-19",
+      "sha256": "b63119d56cd386f6abb4256d0194a0c5f8580580e98f910d7b504e7b93e131fb",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Building the Ultimate $1,600 Dual-GPU Workstation for Local AI Inference.md": {
+      "ingested": "2026-09-19",
+      "sha256": "51a1a791a141ebfce22aea06cdba8fa70ee06dbee9d81c466621e4d17d1c6efb",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Can AI Now Have a Sense of Time.md": {
+      "ingested": "2026-09-19",
+      "sha256": "c345a798f2d99db8fe9a186e630a07e145c888eb5b22f059f0bd2e42c943a436",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/ChatGPT vs Gemini for Coding I Built a Real App, Then Checked My Experience Against the Evidence.md": {
+      "ingested": "2026-09-19",
+      "sha256": "fbac665497e9af031bb800f8c3fb73d7ece92af8e4a8b5e9568e60519f84aca4",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Claude Desktop + Ollama How to Run Open Models Locally and in the Cloud.md": {
+      "ingested": "2026-09-19",
+      "sha256": "26d3a39b5ed1942049e3939b7d20b64da8ee7522a54e4bd24654e4ed0e85a749",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Coding Agent Index 2026 \u2014 Benchmarking Full Agent Stacks (Model + Harness).md": {
+      "ingested": "2026-09-19",
+      "sha256": "b86e8d9a78953388985bffd3dca48b6afaf281637f36ed0595c6736e108653c3",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Cut Claude Code Bills 60% by Routing to DeepSeek and Groq.md": {
+      "ingested": "2026-09-19",
+      "sha256": "8bc2644ad77a3200f163eb4442619e35787548c04c42ac4699074b33fa80f3d6",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Day 1 AI-Powered Personal Finance Companion From Scratch.md": {
+      "ingested": "2026-09-19",
+      "sha256": "54cefca48bfc48824e6b40e51e9f367db07616cd566ee4ec3de19a3b725735a3",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Designing a Personal AI Assistant Telegram + Open WebUI + Qwen 14B 1.md": {
+      "ingested": "2026-09-19",
+      "sha256": "33f9c4440a5e13d55ead3dab8270536ccd573298094dd12c0e36d21c2d6f2d6f",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Designing a Personal AI Assistant Telegram + Open WebUI + Qwen 14B.md": {
+      "ingested": "2026-09-19",
+      "sha256": "7793d39e3a2c6b6c97e03c9e010e13eb4d971ed342c434254b6273984d980d84",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Designing a Production RAG System What Nobody Tells You.md": {
+      "ingested": "2026-09-19",
+      "sha256": "52575fc276db32c8c80551148e9a9515088ac4fe1089fe5891a4e334d4925965",
+      "last_processed": "2026-09-19T05:30:00"
+    },
+    "AI/Developers welcome \ud83d\udc4b.md": {
+      "ingested": "2026-09-19",
+      "sha256": "4f6d46424214c3f88f8514704daeab3754b10cf668585b1399de743662485dff",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Eight Agentic Tools Worth Your Time Before the Year Ends 1.md": {
+      "ingested": "2026-09-19",
+      "sha256": "20b5034ff1f15b0ad37d3da018393bfb262d435de5e305c8e7ea4924c88337c9",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Eight Agentic Tools Worth Your Time Before the Year Ends.md": {
+      "ingested": "2026-09-19",
+      "sha256": "36bdd17cde90afdecc7730e032374de73232adc8bdb2685a6746428282f67e72",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Engram Adding memory to your AI agents (Claude Code, OpenCode).md": {
+      "ingested": "2026-09-19",
+      "sha256": "0771a4e147712b47314505c9d675130ed79d47de476998f240a569d6e4d1f5da",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Everything You Need To Know About Local AI Models, From 8 To 128GB.md": {
+      "ingested": "2026-09-19",
+      "sha256": "7a11cebca2a36dafd98699152d71e4b08b7e55fbb26a1d9f72250198c74c7269",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Exploratory Document Analysis\u2026 is this a thing.md": {
+      "ingested": "2026-09-19",
+      "sha256": "e76ef576b3861234cc224e980179e8e6b40bcf28d6681e1477826e8520ca459f",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Explore the world of artificial intelligence with online courses from MIT.md": {
+      "ingested": "2026-09-19",
+      "sha256": "14cefdedf46a554f47534d8dfe4e384f45f2a53a159ea3d16bd56782d1e609c6",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Fireworks AI, the AI infrastructure company, quietly launched a coding subscription.md": {
+      "ingested": "2026-09-19",
+      "sha256": "35327453a89166f4da019713ae16ab3a0745c8c151a050edb4e48496bc25de0d",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Free bitcoin processing for all \ud83e\udd11.md": {
+      "ingested": "2026-09-19",
+      "sha256": "2e04bb24ed8f67cf9231ce45c67d49dce7d17e307c60781b34a54979651e796f",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/GLM-5.3 is Here The New Open-Weight AI Model Dominating Coding and Cybersecurity.md": {
+      "ingested": "2026-09-19",
+      "sha256": "63eb44db3377be714dd107082aba329e7e661f4064105918e2cb9d2669380261",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Get your private app or your AI online in 3 simple steps.md": {
+      "ingested": "2026-09-19",
+      "sha256": "7e54347eb0cc3b988e3805e4084f14e4e9cef82aab876bb39dd8c928a9e83ad6",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/GitHub Trending January 6, 2026 \u2014 The Great Coding Agent Race \ud83c\udfc1.md": {
+      "ingested": "2026-09-19",
+      "sha256": "b287044051f7b438b7635d9347a47339260a0ec634ffe2d508519a670a39de6b",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Google Just Quietly Dropped an AI Model That Changes Everything for Developers.md": {
+      "ingested": "2026-09-19",
+      "sha256": "571cc33583937aec1a7e54fcb70890f6a92d3883539d00827a6e3e5883ecac2a",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Google is back at it again. Here are 10 AI tools worth your attention.md": {
+      "ingested": "2026-09-19",
+      "sha256": "1651a9b579ea78b68a7de3e30a3eec3b2740d0c80fa5df521c4291572edc6119",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Grok 4.6 Is The Best Model Ever Made.md": {
+      "ingested": "2026-09-19",
+      "sha256": "87e42e35f1f7038b676ec0b7eee0a68f43f5503e208ce3252a97b432955d96cf",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Grok Build The Fourth Contender in the AI Coding Agent Race.md": {
+      "ingested": "2026-09-19",
+      "sha256": "fbe6e78f489c30d38f3943be634b2fb7a0f7e1241ba7e3e9c70f76964aa3e415",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Hermes Agent The Open-Source AI Agent That Actually Remembers What It Learned Yesterday.md": {
+      "ingested": "2026-09-19",
+      "sha256": "8158442eaad11b3b509039347bdf84de1c8cd42f3217e3505239a3db0b0b3f92",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Hermes Agent on Proxmox Full-Access Setup with OpenRouter and Telegram.md": {
+      "ingested": "2026-09-19",
+      "sha256": "311f5e76c2a90b0655ce2eab5333b83daaffdf115e0b9ba7461c4dd3918ca992",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How I Built a Chatbot that Crushed ChatGPT with Zero Cost AI Tools.md": {
+      "ingested": "2026-09-19",
+      "sha256": "cf97d7ebb68f8a31283200a2538c52e1dd2eb6cbfc7d8dccc873279c60d936a3",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How I Built a Personal AI Research Assistant Using LLMs to Organize My Daily Academic Work.md": {
+      "ingested": "2026-09-19",
+      "sha256": "d81e37e65ec775aa436f71f53cf2e80d6d735cb5f752df8e3cb802ab792c4728",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How I Built a RAG Pipeline That Actually Works in Production.md": {
+      "ingested": "2026-09-19",
+      "sha256": "3b175f1e5b28be80dd42ebe13b02eadda841ca47b0a0d24641a1da52741bab2b",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How I Gave My Local AI Coding Agent a Perfect Semantic Memory (And You Can Too).md": {
+      "ingested": "2026-09-19",
+      "sha256": "f9158ca44a2836f417b2d343b33611f4aad2daf73adc920af9c417e5adfaf18f",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How I Made $100 on a Sunday While Watching Netflix.md": {
+      "ingested": "2026-09-19",
+      "sha256": "027a0f8b2476414272921b5c7443d2bdd9c93e2823a153a42554c9f9343b5689",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How I Rebuilt a RAG System that Actually Works.md": {
+      "ingested": "2026-09-19",
+      "sha256": "26e8062f182f42d9cddf93d5863822af4c6aa38f0d24e6238b22987b74bd97fd",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How I Used AI to Write, Test, and Deploy My App Automatically.md": {
+      "ingested": "2026-09-19",
+      "sha256": "b9092144a8b37198cf8efb7aab85303a62ffe133d4ab3d2147006928a35710e5",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How I use daily notes.md": {
+      "ingested": "2026-09-19",
+      "sha256": "ff198ad6f9cd2d49d2e225ffad408971a49bf6f01ae98b27163099277d68de53",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How Perplexity Built Their Search Engine 1.md": {
+      "ingested": "2026-09-19",
+      "sha256": "48d1155f69a0b4b8baee4ab46b36ad1be51697531a8595c21e941e0b4c6e406f",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How Perplexity Built Their Search Engine.md": {
+      "ingested": "2026-09-19",
+      "sha256": "10350a231b0305543ab41a92f3e0d0e91c57f0bdc5ea4db09f20dfb875885ef7",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How To Add Right-Click Option to Open Code Editor from Folder.md": {
+      "ingested": "2026-09-19",
+      "sha256": "26e60e397ffe0550d7249e8e5f6f50a4583790b174275d931f933884b1334f88",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How To Build A Reliable AI-Based Structured Data Extraction Pipeline.md": {
+      "ingested": "2026-09-19",
+      "sha256": "7034d7659156b3ae46d0a60161e75ce0ce17d6117d88a9a87449cdf3ca6cebc4",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How To Get Near Unlimited Free Access To The Frontier AI Models.md": {
+      "ingested": "2026-09-19",
+      "sha256": "40be797f8b805edd3c110ed1aac34d6ac04966ea6e936a2d9034cc4739cae6b3",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How To Handle Secrets.md": {
+      "ingested": "2026-09-19",
+      "sha256": "6ca96ae62eb9b74a7fef459b6d0026c10ff7af2790e04e6c4f8d2fb1758068da",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How to Build a Production-Ready Ticketing System with AI.md": {
+      "ingested": "2026-09-19",
+      "sha256": "f4e7759ff4ae487e6efe46af3d6527da9b61a33b17d5ec12bf26e87504111e60",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How to Build a Research Radar That Watches the Literature for You Every Day Without Writing a Line of Code.md": {
+      "ingested": "2026-09-19",
+      "sha256": "119638bf9b177a2c77d30daa11d93b5971218c896953476180884402b2cbd6c9",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How to Build an AI Animation Factory That Runs 247.md": {
+      "ingested": "2026-09-19",
+      "sha256": "66dc5823c59dfb9f710aa1f7f789029b151da0e42fabd9f9b9855fd7a211dd2c",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How to Go from One Backtest to Hundreds \u2014 and Find the Strategy the Market Is Hiding.md": {
+      "ingested": "2026-09-19",
+      "sha256": "32b20ef9769ae5a1b743da82942c7bc92f6152ca0d8dd192f8793030c404f828",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How to Make AI-Built Software Prove Itself.md": {
+      "ingested": "2026-09-19",
+      "sha256": "57e69de8369416fd148830881cf42b48dfdb8075346e3231d6a6f96593b0705b",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How to Turn a Book Into an AI Skill You Come Back To.md": {
+      "ingested": "2026-09-19",
+      "sha256": "781dba1854a4be42200994b9ea1798ee2d12bedc41a255d8f92827b4abee88f7",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How to Use AI for Language Learning Better Prompts, Better Results.md": {
+      "ingested": "2026-09-19",
+      "sha256": "ac772a7e3d48c3ae7dd789feed92a1f055168f3c855a80ece26007e7b272daf3",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Built a Desktop App for AI Coding That Runs Any Model \u2013 Including Free and Local.md": {
+      "ingested": "2026-09-19",
+      "sha256": "b37da8a60e93a0cbc47b4888612968321f581f696d1644025ccd8ed172e5481e",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Built a Full-Stack AI-Driven Blog and News Website Boilerplate.md": {
+      "ingested": "2026-09-19",
+      "sha256": "31054efe563a832d9fef7ab94ae5ed695f9d5d0bb464f0b3a0dab9e43bbce85e",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Built a Private Offline AI Assistant on My Laptop \u2014 No ChatGPT, No Cloud, No API Bills.md": {
+      "ingested": "2026-09-19",
+      "sha256": "7b2f1ff0dfbe2faf75de853d57ddde88febf7375a6ca697f3595c20750953a8e",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Built the Capture Feature Obsidian Was Missing \u2014 and Bear and DEVONthink Got It Too.md": {
+      "ingested": "2026-09-19",
+      "sha256": "0a8c367c8e9d0b90beb7e4394c1fc5211dcad2d289bff48f1cbaf63d25e51d2f",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Designed an AI Memory System Using 2,500-Year-Old Buddhist Psychology.md": {
+      "ingested": "2026-09-19",
+      "sha256": "6f1677c85261e87313241cada766e24a814578516dfcd4634f55dee38927ee0c",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Finally Have My Dream Local AI Stack (and it runs on AMD).md": {
+      "ingested": "2026-09-19",
+      "sha256": "f3c5b21c2a9d9e9d6aa313b07e4c7bf5109a38b93428daa8f48414ffbee76860",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Found 1,600 Free Claude Skills. Here Are the 50 Built for Content Creators!.md": {
+      "ingested": "2026-09-19",
+      "sha256": "b78110c862d3cf4667ee0fc46846e6ce9c29fdcc36d5b3e60110b660c4ca5b96",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Found a Better Way to Use Free AI Coding Models.md": {
+      "ingested": "2026-09-19",
+      "sha256": "49134e0ea5a68b315cea72ac2482ced88ce65287ef33b9e2132c81968a68b83a",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Love Swing Trading. I Hated Running It. So I Built a Machine That Does It for Me.md": {
+      "ingested": "2026-09-19",
+      "sha256": "007ed3c799047ebafeb8836757b21ebb7bc439ad2cfff9144c41c04bfc8853ed",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Made $30,000 With One Website (And No Product).md": {
+      "ingested": "2026-09-19",
+      "sha256": "41a190a7d876242ec08991b437e5623061f7af7ba22e0924a30418a80d8a9d17",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Open-Sourced the Skills That Run My AI Fleet.md": {
+      "ingested": "2026-09-19",
+      "sha256": "5364f4590304e8f48d95588ee3e389b810a58679de22630eaf8d19306c9d888e",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Ranked 14 AI Models. This Is The AI Tier List You Need To Know About Now.md": {
+      "ingested": "2026-09-19",
+      "sha256": "4f516a12e2dd88810f687ba20daf0f665a9a9cbc2cb057b6ea58b9bc31145bdc",
+      "last_processed": "2026-09-19T11:16:29"
+    },
+    "AI/I Rebuilt My Obsidian Workflow With 5 New Plugins (2026 Setup).md": {
+      "ingested": "2026-09-19",
+      "sha256": "ba195ddace5599df040237c3174547c77c747c0f35da7e545c395bd317dd2295",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Replaced My $500mo Marketing Agency with a $2 N8N Automation (Claude Did the Strategy).md": {
+      "ingested": "2026-09-19",
+      "sha256": "b0e254512d19b789ac6cfe993e13323644cd5b07ead4f8a45bd700c7f8d54557",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Scrolled My Phone While My AI Agent Worked. Big Mistake.md": {
+      "ingested": "2026-09-19",
+      "sha256": "4faafb71df9ed9523d9e047911dc18124006529b07667eeda88354520f91d87c",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Stopped Rewriting Prompts and Built My Own ChatGPT Command System.md": {
+      "ingested": "2026-09-19",
+      "sha256": "26cb7b0f40d39e3e542b45ba9a25435999b0e8cd769b421a69a3cdf59ff036cb",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Tested 100 AI Tools. These 12 Are Actually Worth Using.md": {
+      "ingested": "2026-09-19",
+      "sha256": "0d98899b2203567f034af4e2f79600811ea72cbfa62f91b1f3f3feadc60e947c",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Tested 20+ LLMs for Coding Tasks \u2014 Only 5 Actually Worked 1.md": {
+      "ingested": "2026-09-19",
+      "sha256": "c9921bd56d95fd0c787ead30e99d1170d0460b9a15e44a402df724e1019eea1b",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Tested 20+ LLMs for Coding Tasks \u2014 Only 5 Actually Worked.md": {
+      "ingested": "2026-09-19",
+      "sha256": "e6729bcf7802dc409e574df5c46f79339bdbe29fb36b894a5257963483109cbd",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Tested Gemma 4 Against Claude and GPT-5.6 Sol. The Truth.md": {
+      "ingested": "2026-09-19",
+      "sha256": "07cd706ecb13d52e5ccf6517d8b9da185290652961dd3f50924aebc3e5b9b284",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Thought I Knew Claude Code. Then I Learned How Advanced Users Actually Run It.md": {
+      "ingested": "2026-09-19",
+      "sha256": "b8ce6d3c7567e1aeab19993536b908224776eb7e3e419eb85c5a757be67861bc",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Tried 8 AI Study Tools After Talking to Students About How They Actually Use AI.md": {
+      "ingested": "2026-09-19",
+      "sha256": "866efee3e59a1eeb15b3a5ec6ace21eb3a24b041721caaa24d4644e03132f56a",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Tried Way Too Many AI Models for My Personal Agent.md": {
+      "ingested": "2026-09-19",
+      "sha256": "816e6c31052774bf887318006f6f0a0a9f78894c16d0c0f2039d0e8e9c2591a9",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Was Wrong Free Local LLMs Can Go Round-for-Round With Claude and ChatGPT on Real-World Tasks.md": {
+      "ingested": "2026-09-19",
+      "sha256": "46f095acd857d267513f13372ec326c71b720744fc98f2159b8d99ea63148841",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I thought I would have more ideas 1.md": {
+      "ingested": "2026-09-19",
+      "sha256": "2d429030d21ab8561812917f78f1765f97be75ce78d959754e40debdbabb8858",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I thought I would have more ideas.md": {
+      "ingested": "2026-09-19",
+      "sha256": "920b6ec8d73bd39442e1c0a762830efbbb95b0c23a4f691412e7f29279efeecd",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/If You Use Claude, You Need This Simple Folder System.md": {
+      "ingested": "2026-09-19",
+      "sha256": "2f5cd24b33c17490a282b1a05f0cf3166ea61849408041e3402b2372d1b7db2a",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/It Felt Like Having a Personal AI Engineer Running on My Laptop 4 days with OpenClaw.md": {
+      "ingested": "2026-09-19",
+      "sha256": "642d48d021a275aa061717f42a1f763e9c7cd0db186e5eb00f5a64685ebf7641",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/LLM Gateways Explained Why You Need One and How to Configure LiteLLM (End-to-End Guide).md": {
+      "ingested": "2026-09-19",
+      "sha256": "4a681bfcaed64e4f7f737ccd72631cc6fba0cc27ce1868fcb5881dece0fbafe7",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Local Agents Hermes vs OpenClaw.md": {
+      "ingested": "2026-09-19",
+      "sha256": "8399136fc77bc389021162fd30687fad89b8f9d094add3a53ac04951721772d5",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Mark Cuban Just Confirmed the Absurdity and Grim Reality of the AI Bubble.md": {
+      "ingested": "2026-09-19",
+      "sha256": "0781f47b0fb97eb9d2e6795381ae570bc30d81d8d86c3002208a8db9c4eead06",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Mastering Agentic Skills The Complete Guide to Building Effective Agent Skills.md": {
+      "ingested": "2026-09-19",
+      "sha256": "00eddad3b22a9a374a4b22df225a0464997d3ea2637661d7a467591e4c04f888",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Meet OpenCode The AI Agent That Does Your Dev Work While You Grab Coffee \u2615.md": {
+      "ingested": "2026-09-19",
+      "sha256": "5f3ea48aa4eab5ff2162d70cc7641a3b66c46ea61aea3fbcd9e4632379084637",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Mixture-of-Experts (MoE) LLMs.md": {
+      "ingested": "2026-09-19",
+      "sha256": "c9df9bdcdf906aaf92aba6cff75d66e52ad9205eb38c08a551eb0391ef245268",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/12 AI tools everyone\u2019s talking about \u2014 the actual step-by-step, and which ones are worth it.md": {
+      "ingested": "2026-09-19",
+      "sha256": "05983730c31e3d500409588f7729fd41587792a0af312ec664f436aa6273dcaf",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/AGENTS.md Is Not a Persona \u2014 It\u2019s a Constitution Written in Scars 1.md": {
+      "ingested": "2026-09-19",
+      "sha256": "79fd3de9a8f9c563445b01b611a0588538a52e9a118266b0960be9e01c8c6f17",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/AGENTS.md Is Not a Persona \u2014 It\u2019s a Constitution Written in Scars.md": {
+      "ingested": "2026-09-19",
+      "sha256": "c3de5c280ccc10dedfadfe45c4470dd40107de9637d42f58212efbbb6535b2a4",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/AI\u2019s secret sauce RAG, ICL & LoRA spelled out.md": {
+      "ingested": "2026-09-19",
+      "sha256": "8526d9b1d334e960a992075effdcf9bf959447b1283326da52698491277569e5",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Andrej Karpathy\u2019s Fix for LLM Memory Works on Code Too.md": {
+      "ingested": "2026-09-19",
+      "sha256": "ba60f2db1aa9347bf3015491f551b1c2daa5bde1da0a19c3dd3d0a0ec0236f4d",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/DeveloPassion\u2019s Newsletter 216 \u2014 My AI Assistant Is Turning Into an Operating System.md": {
+      "ingested": "2026-09-19",
+      "sha256": "252dba4d9b49c4a2ccf23eb0b2636a722517e17b99c81dc895d076f84df75902",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Don\u2019t Read Another Article About AI. Try This Instead 1.md": {
+      "ingested": "2026-09-19",
+      "sha256": "ba726cc62d7fa4329648f2ec6d82baa4c6d1dc169190fcb0bc63338d53e79c8e",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Don\u2019t Read Another Article About AI. Try This Instead.md": {
+      "ingested": "2026-09-19",
+      "sha256": "f513be9e8326d858eb4b170a198216dd4d05122f5567edef6b00c56bcacc03ab",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/FemtoClaw I Built the World\u2019s Smallest AI Assistant on a $4 Chip.md": {
+      "ingested": "2026-09-19",
+      "sha256": "4c38d440d566a0f2549216eac87d842bba26ea39cefab1bb9561e89eb98e8264",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/How to make $10kMonth in 365 days with \u201cAI\u201d.md": {
+      "ingested": "2026-09-19",
+      "sha256": "ca81d88c8ebfef8fd8eb4575017b418b01540b493d9133431e2aab34a0c258ad",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Built a 16-Slide Pitch Deck in 5 Minutes Using AI \u2014 Here\u2019s How.md": {
+      "ingested": "2026-09-19",
+      "sha256": "047eff68ec169ad8c607e8fb5d61ce54fd5f6f13cdab9794a1a1f7340e014f4f",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Built a Utility Tools Website Using 4 Different AI Coding Agents. Here\u2019s What Nobody Tells You.md": {
+      "ingested": "2026-09-19",
+      "sha256": "7809f533ebccb280ab589741c2f254624d841e3feb812182fdba9f1ca1488e59",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Don\u2019t Trust AI Coding Agents by Default \u2014 Here\u2019s the 8-Layer Claude Code Setup That Earns It \ud83d\udee0\ufe0f.md": {
+      "ingested": "2026-09-19",
+      "sha256": "454143410789be8530fb94e4bcd40c6085e3a562c85f53585b0f1fa1b8a87c03",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Let AI Organize My Notes. Here\u2019s What I Got Wrong.md": {
+      "ingested": "2026-09-19",
+      "sha256": "db1abff9c31e40a60feafcdbd1a4d05c96dc5ec77aab0d580a2de3118edff10a",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Spent 1 Month Watching AI Agents Write Code in Production. Here\u2019s What Nobody Tells You.md": {
+      "ingested": "2026-09-19",
+      "sha256": "bdf8ce78d052f128e22a7619e546b9cef1f0f076b1c51ddeb98b5044f14d3ec6",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Stopped Paying for AI Tokens \u2014 Here\u2019s the Exact 3090 + Ollama + LiteLLM Setup.md": {
+      "ingested": "2026-09-19",
+      "sha256": "b019f5c6ae36e84449371b34f5924f7241896781b9d27b69c008fd7aa5de0784",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Stopped Paying for AI \u2014 Here\u2019s the Free Local Setup That Replaced It.md": {
+      "ingested": "2026-09-19",
+      "sha256": "35f23e8f239a065d4d7a9b0798ab11ad70f179a2af7c4720ec998bafab9a62b2",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Switched My LLM Gateway and Got 50x Faster. Here\u2019s What Nobody Tells You\u2026.md": {
+      "ingested": "2026-09-19",
+      "sha256": "b5d924a7d24aa21af2f847c1cc0f7997f2fa994d751cb7cc0be59ac8839e9a49",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Taught AI to Think Like Warren Buffett \u2014 And It Found 5 Stocks He\u2019d Actually Buy.md": {
+      "ingested": "2026-09-19",
+      "sha256": "273e5d4d75e22b2c02d26d4af6d1db127da965e8c5657a4a074134b1d4937285",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I Tested 5 AI Tools for 30 Days \u2014 Here\u2019s What Actually Worked.md": {
+      "ingested": "2026-09-19",
+      "sha256": "a45792da09d1f0ea319522684c3682845b02abb92a4b43677879dab073323dca",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I have China\u2019s Kimi AI system instructions and jailbroke it.md": {
+      "ingested": "2026-09-19",
+      "sha256": "68279f3e888448e9e976c0a88af377c90629f63ddac4964e8238bb869dbcab04",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/If 79% of Experts Can\u2019t Beat Index-Based Trading, Why Would AI Be Any Different.md": {
+      "ingested": "2026-09-19",
+      "sha256": "a49576ff8b133a0339b750f3c3c845f5ddd798248a1622419a9d9decfce2436a",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I\u2019ll Instantly Know A Writer Used ChatGPT When I See This.md": {
+      "ingested": "2026-09-19",
+      "sha256": "1d24416aaa736b8842bff44e08966ccef7db44e081833a982708d43014a7e959",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/I\u2019m Sorry, But GBrain Was Not Made For You.md": {
+      "ingested": "2026-09-19",
+      "sha256": "ed32788c441f94ade6bf1b2266fa8ab5bc5287dcb727aa16f3ea94b2b3555f4d",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Jetbrains\u2019 Mellum2 is the best low resources local coding agent LLM.md": {
+      "ingested": "2026-09-19",
+      "sha256": "9ca730a650a7b4e0d8c9247af87b57189884f7137f2ae9a4b975a5615812ae2b",
+      "last_processed": "2026-09-19T11:22:25"
+    },
+    "AI/Building PocketPilot A Personal Finance AI\u200a\u2014\u200aHere\u2019s What I Learned.md": {
+      "ingested": "2026-09-19",
+      "sha256": "b9b6e2d4fd2e49c692e10e759ccc78f416ba714da709d7fd9ad781776b3ef4eb",
+      "last_processed": "2026-09-19T11:28:54"
+    },
+    "AI/I Ranked 14 AI Models. This Is The AI Tier List You Need To Know ABout Now.md": {
+      "ingested": "2026-09-19",
+      "sha256": "4f516a12e2dd88810f687ba20daf0f665a9a9cbc2cb057b6ea58b9bc31145bdc",
+      "last_processed": "2026-09-19T11:24:36"
+    },
+    "AI/I Tried to Replace Cursor with Neovim for 2 Weeks\u200a\u2014\u200aHere\u2019s Why I Switched Back.md": {
+      "ingested": "2026-09-19",
+      "sha256": "a5189e1a41fe59c53b17a1b323af335df7f8a32198ec2bef2d07b4b721b72f4f",
+      "last_processed": "2026-09-19T11:28:54"
+    }
+  },
+  "timing": {
+    "batches": [
+      {
+        "timestamp": "2026-09-19T05:54:27",
+        "file_count": 100,
+        "duration_seconds": 1554.0,
+        "note": "First hash-based batch; per-file hashes not recorded"
+      },
+      {
+        "timestamp": "2026-09-19T06:32:12",
+        "file_count": 100,
+        "duration_seconds": 1640.0,
+        "note": "Hash-based batch; per-file hashes recorded directly by subagent"
+      }
+    ]
+  }
+}
