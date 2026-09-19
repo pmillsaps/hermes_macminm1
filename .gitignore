@@ -1,0 +1,30 @@
+# Secrets / tokens / passwords
+auth.json
+*.auth.json
+*.lock
+nous_auth.json
+vault/
+
+# Runtime state
+state.db*
+kanban.db*
+projects.db
+processes.json
+gateway_state.json
+spawn-ledger.json
+
+# Logs & cache
+logs/
+cache/
+*.log
+
+# Node / build artifacts
+node_modules/
+*.pyc
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Large binary caches
+models_dev_cache.json
