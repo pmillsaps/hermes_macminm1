@@ -1,7 +1,7 @@
 # Hermes Backup Manifest
 
-**Generated:** 2026-09-20 03:00:02
-**Host:** Paul’s Mac mini
+**Generated:** 2026-09-20 16:42:02
+**Host:** Vera
 **Source:** `/Users/paulmillsaps/.hermes`
 
 ## Included

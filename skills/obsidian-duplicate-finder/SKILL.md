@@ -24,16 +24,24 @@ regardless of where they live in the folder tree. Writes the results to
 
 ## Workflow
 
-1. Walk the vault (`~/Documents/_Obsidian/` or `$OBSIDIAN_VAULT_PATH`) for all `.md` files.
-2. Group by base name, stripping common suffixes: ` 1`, ` 2`, ` - Copy`.
-3. For groups with 2+ files, compare content using `difflib.SequenceMatcher`.
-4. Record groups where the best pair has ≥90% similarity.
-5. Write results to `0-ToDo/Duplicate File Checks.md` (in the vault root).
+1. **Pull the latest from git first**:
+```bash
+cd /Users/paulmillsaps/Documents/_Obsidian && git pull origin main
+```
+2. Walk the vault (`~/Documents/_Obsidian/` or `$OBSIDIAN_VAULT_PATH`) for all `.md` files.
+3. Group by base name, stripping common suffixes: ` 1`, ` 2`, ` - Copy`.
+4. For groups with 2+ files, compare content using MD5 first, then `difflib.SequenceMatcher`.
+5. Record groups where the best pair has ≥90% similarity.
+6. Write results to `0-ToDo/Duplicate File Checks.md` (in the vault root).
    - Header: `# Duplicate File Checks`
    - Each group separated by `---`
    - HTML comment `<!-- Similarity: XX.XX% -->` above each group
    - Each file as a `[[wikilink]]` with path (no `.md`) for disambiguation
    - Blank line between entries within a group
+7. Commit and push the results:
+```bash
+cd /Users/paulmillsaps/Documents/_Obsidian && git add -A && git commit -m "Duplicate file check: N duplicate groups found" && git push origin main
+```
 
 ## Key implementation notes
 

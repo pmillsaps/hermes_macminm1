@@ -124,7 +124,7 @@
       "schedule_display": "0 3 * * *",
       "repeat": {
         "times": null,
-        "completed": 0
+        "completed": 1
       },
       "enabled": true,
       "state": "scheduled",
@@ -132,8 +132,8 @@
       "paused_reason": null,
       "created_at": "2026-09-19T06:54:41.235908-05:00",
       "next_run_at": "2026-09-21T03:00:00-05:00",
-      "last_run_at": null,
-      "last_status": null,
+      "last_run_at": "2026-09-20T03:00:04.746448-05:00",
+      "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
       "last_delivery_unverified": null,
@@ -149,14 +149,14 @@
         "kind": "on_time"
       },
       "fire_claim": {
-        "at": "2026-09-20T03:00:02.814203-05:00",
-        "by": "PaulsMacMinim1.home.local:663:4b3e4aca431040628182d1d299fca8a7"
+        "at": "2026-09-20T16:42:02.337195-05:00",
+        "by": "Vera.home.local:3157:8110af18b60e4412b22b24f7beb16c36"
       }
     },
     {
       "id": "0bb2b18eb2bd",
       "name": "Run the obsidian-duplicate-finder skill: scan ~/Do",
-      "prompt": "Run the obsidian-duplicate-finder skill: scan ~/Documents/_Obsidian for duplicate markdown files and write results to 0-ToDo/Duplicate File Checks.md",
+      "prompt": "Run the obsidian-duplicate-finder skill: scan ~/Documents/_Obsidian for duplicate markdown files and write results to 0-ToDo/Duplicate File Checks.md. Pull the latest from git first, then run the scan script at ~/.hermes/scripts/obsidian-duplicate-scan.py, then commit and push the results.",
       "skills": [],
       "skill": null,
       "model": null,
@@ -178,16 +178,16 @@
       "schedule_display": "0 4 * * *",
       "repeat": {
         "times": null,
-        "completed": 0
+        "completed": 1
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-19T07:02:30.939492-05:00",
-      "next_run_at": "2026-09-20T04:00:00-05:00",
-      "last_run_at": null,
-      "last_status": null,
+      "next_run_at": "2026-09-21T04:00:00-05:00",
+      "last_run_at": "2026-09-20T04:03:02.878946-05:00",
+      "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
       "last_delivery_unverified": null,
@@ -195,8 +195,15 @@
       "deliver": "telegram:8624831548",
       "origin": null,
       "enabled_toolsets": null,
-      "workdir": null
+      "workdir": null,
+      "last_dispatch": {
+        "scheduled_at": "2026-09-20T04:00:00-05:00",
+        "dispatched_at": "2026-09-20T04:00:02.831714-05:00",
+        "lateness_seconds": 2.8,
+        "kind": "on_time"
+      },
+      "fire_claim": null
     }
   ],
-  "updated_at": "2026-09-20T03:00:02.814963-05:00"
+  "updated_at": "2026-09-20T16:42:02.337428-05:00"
 }
