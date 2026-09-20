@@ -49,7 +49,7 @@
     {
       "id": "1da953f915bb",
       "name": "Wiki Vault Ingest (100/day)",
-      "prompt": "You are performing the daily vault-to-wiki ingest. The script at `~/.hermes/scripts/wiki-vault-ingest.py` tracks state in `~/.hermes/scripts/wiki-vault-ingest-state.json`.\n\n## Steps\n\n### 1. Pull latest\n```bash\ncd /Users/paulmillsaps/Documents/_Obsidian && git pull origin main\n```\n\n### 2. Get next batch of 100 vault files\n```bash\npython3 ~/.hermes/scripts/wiki-vault-ingest.py batch 100\n```\n\nIf the output starts with `NO_FILES`, nothing to ingest — log it and stop.\n\n### 3. Start timing\nRecord the start time: `START=$(date +%s)`\n\n### 4. For each file in the batch:\n- Read the vault file directly from its location (e.g., /Users/paulmillsaps/Documents/_Obsidian/AI/filename.md)\n- Extract entities and concepts mentioned\n- Search existing wiki pages (search_files across entities/ and concepts/)\n- Create new pages only if they meet Page Thresholds (2+ source mentions, or central to one source)\n- Update existing pages with new information (bump `updated` date)\n- Ensure bidirectional links (min 2 outbound links per page)\n- Add pages to `index.md` under correct section\n- Do NOT copy files to raw/ — the vault files stay in place\n\n### 5. Record timing and update state\n```bash\nEND=$(date +%s)\nDURATION=$((END - START))\n# Build file:hash pairs\nFILE_ARGS=\"\"\nfor file in <list_of_files>; do\n  HASH=$(python3 -c \"import hashlib; print(hashlib.sha256(open('/Users/paulmillsaps/Documents/_Obsidian/$file','rb').read()).hexdigest())\")\n  FILE_ARGS=\"$FILE_ARGS $file:$HASH\"\ndone\npython3 ~/.hermes/scripts/wiki-vault-ingest.py record $DURATION <file_count> $FILE_ARGS\n```\n\n### 6. Update log.md\nAppend: `## [YYYY-MM-DD] ingest | Vault batch (N files) | <duration>s`\n\n### 7. Commit and push\n```bash\ncd /Users/paulmillsaps/Documents/_Obsidian && git add -A && git commit -m \"Daily vault ingest: N files (${DURATION}s)\" && git push origin main\n```\n\n### 8. Get timing summary\n```bash\npython3 ~/.hermes/scripts/wiki-vault-ingest.py summary\n```\n\nInclude the timing summary in your response to the user. Format:\n```\n📊 Vault Ingest Report\n- Files ingested today: N\n- Duration: Xs\n- Avg batch time: Xs (over N batches)\n- Remaining: N files (~N batches, ~N min projected)\n```\n\n## Important\n- Process files in the order returned by the script (priority-sorted)\n- Skip files that are too short (<100 words) — just log and move on\n- Don't create pages for passing mentions\n- Follow existing conventions from SCHEMA.md\n- Do NOT copy files to raw/ — vault files stay in their original locations",
+      "prompt": "You are performing the daily vault-to-wiki ingest. The script at `~/.hermes/scripts/wiki-vault-ingest.py` tracks state in `~/.hermes/scripts/wiki-vault-ingest-state.json`.\n\n## Steps\n\n1. Pull latest:\n```bash\ncd /Users/paulmillsaps/Documents/_Obsidian && git pull origin main\n```\n\n2. Get next batch of 100 vault files:\n```bash\npython3 ~/.hermes/scripts/wiki-vault-ingest.py batch 100\n```\n\nIf the output starts with `NO_FILES`, nothing to ingest — log it and stop.\n\n3. For each file in the batch:\n   - Read the vault file\n   - Extract entities and concepts mentioned\n   - Search existing wiki pages (search_files across entities/ and concepts/)\n   - Create new pages only if they meet Page Thresholds (2+ source mentions, or central to one source)\n   - Update existing pages with new information (bump `updated` date)\n   - Ensure bidirectional links (min 2 outbound links per page)\n   - Add pages to `index.md` under correct section\n\n4. Update state:\n```bash\npython3 ~/.hermes/scripts/wiki-vault-ingest.py record <duration_seconds> <file_count>\n```\n\n5. Commit and push:\n```bash\ncd /Users/paulmillsaps/Documents/_Obsidian && git add -A && git commit -m \"Daily vault ingest: N files\" && git push origin main\n```\n\n6. Update log.md with the batch results.\n\n7. Go back to step 2 until NO_FILES is returned.\n\n## CRITICAL: Report Only at Completion\n- DO NOT send any report or summary after individual batches\n- Only send a final summary when ALL files have been processed (NO_FILES returned)\n- The final summary should include: total files processed, total batches, total time, new entities/concepts created, pages updated, and average files/min rate\n- If NO_FILES on first run, report \"No files to ingest — wiki is up to date.\"",
       "skills": [
         "llm-wiki"
       ],
@@ -73,33 +73,92 @@
       "schedule_display": "0 2 * * *",
       "repeat": {
         "times": null,
-        "completed": 0
+        "completed": 1
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-19T04:56:31.069460-05:00",
-      "next_run_at": "2026-09-20T02:00:00-05:00",
+      "next_run_at": "2026-09-21T02:00:00-05:00",
+      "last_run_at": "2026-09-20T02:16:42.078195-05:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: Response remained truncated after 4 continuation attempts",
+      "last_delivery_error": null,
+      "last_delivery_unverified": null,
+      "failure_streak": 1,
+      "deliver": "telegram:8624831548",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": "/Users/paulmillsaps/Documents/_Obsidian/wiki",
+      "last_dispatch": {
+        "scheduled_at": "2026-09-20T02:00:00-05:00",
+        "dispatched_at": "2026-09-20T02:00:02.804616-05:00",
+        "lateness_seconds": 2.8,
+        "kind": "on_time"
+      },
+      "fire_claim": null
+    },
+    {
+      "id": "52f7947599a3",
+      "name": "Hermes Config & Skills Backup",
+      "prompt": "",
+      "skills": [],
+      "skill": null,
+      "model": null,
+      "provider": null,
+      "provider_snapshot": null,
+      "model_snapshot": null,
+      "base_url": null,
+      "script": "hermes-backup.sh",
+      "no_agent": true,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 3 * * *",
+        "display": "0 3 * * *"
+      },
+      "schedule_display": "0 3 * * *",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-09-19T06:54:41.235908-05:00",
+      "next_run_at": "2026-09-21T03:00:00-05:00",
       "last_run_at": null,
       "last_status": null,
       "last_error": null,
       "last_delivery_error": null,
       "last_delivery_unverified": null,
       "failure_streak": 0,
-      "deliver": "telegram:8624831548",
+      "deliver": "local",
       "origin": null,
       "enabled_toolsets": null,
-      "workdir": "/Users/paulmillsaps/Documents/_Obsidian/wiki"
+      "workdir": "/Users/paulmillsaps/.hermes-backup-repo",
+      "last_dispatch": {
+        "scheduled_at": "2026-09-20T03:00:00-05:00",
+        "dispatched_at": "2026-09-20T03:00:02.752466-05:00",
+        "lateness_seconds": 2.8,
+        "kind": "on_time"
+      },
+      "fire_claim": {
+        "at": "2026-09-20T03:00:02.814203-05:00",
+        "by": "PaulsMacMinim1.home.local:663:4b3e4aca431040628182d1d299fca8a7"
+      }
     },
     {
-      "id": "373229cd5e7f",
-      "name": "Wiki Batch Report (Telegram)",
-      "prompt": "You are generating a Wiki Vault Ingest batch report. Read the state file at ~/.hermes/scripts/wiki-vault-ingest-state.json and the wiki log at /Users/paulmillsaps/Documents/_Obsidian/wiki/log.md. Produce a concise report with: total files processed, total batches run, average batch duration, remaining files, projected completion time. Format as Telegram-friendly markdown. Include a summary of the latest batch entry from the log. Use the llm-wiki skill if loaded.",
-      "skills": [
-        "llm-wiki"
-      ],
-      "skill": "llm-wiki",
+      "id": "0bb2b18eb2bd",
+      "name": "Run the obsidian-duplicate-finder skill: scan ~/Do",
+      "prompt": "Run the obsidian-duplicate-finder skill: scan ~/Documents/_Obsidian for duplicate markdown files and write results to 0-ToDo/Duplicate File Checks.md",
+      "skills": [],
+      "skill": null,
       "model": null,
       "provider": null,
       "provider_snapshot": "nous",
@@ -112,23 +171,23 @@
       "monitor_state": null,
       "context_from": null,
       "schedule": {
-        "kind": "interval",
-        "minutes": 60,
-        "display": "every 60m"
+        "kind": "cron",
+        "expr": "0 4 * * *",
+        "display": "0 4 * * *"
       },
-      "schedule_display": "every 60m",
+      "schedule_display": "0 4 * * *",
       "repeat": {
         "times": null,
-        "completed": 1
+        "completed": 0
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
-      "created_at": "2026-09-19T06:50:37.564074-05:00",
-      "next_run_at": "2026-09-19T07:52:11.268700-05:00",
-      "last_run_at": "2026-09-19T06:52:11.268700-05:00",
-      "last_status": "ok",
+      "created_at": "2026-09-19T07:02:30.939492-05:00",
+      "next_run_at": "2026-09-20T04:00:00-05:00",
+      "last_run_at": null,
+      "last_status": null,
       "last_error": null,
       "last_delivery_error": null,
       "last_delivery_unverified": null,
@@ -136,9 +195,8 @@
       "deliver": "telegram:8624831548",
       "origin": null,
       "enabled_toolsets": null,
-      "workdir": null,
-      "fire_claim": null
+      "workdir": null
     }
   ],
-  "updated_at": "2026-09-19T06:52:11.268992-05:00"
+  "updated_at": "2026-09-20T03:00:02.814963-05:00"
 }

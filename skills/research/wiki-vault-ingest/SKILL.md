@@ -121,18 +121,28 @@ Set up two cron jobs for ongoing maintenance:
 
 ## Pitfalls
 
-- **Verify state after subagent runs** — check that `ingested` dict is populated and `duration_seconds` is reasonable (1000-2000s per 100 files). Subagents may skip state recording or corrupt timing with timestamps (values in the millions indicate a timestamp was stored as duration).
-- **Filename Unicode normalization** — vault files often contain smart quotes (`'`), em-dashes (`—`), or hair spaces (`\u200a`). Normalize filenames before matching against hash lists, or use case-insensitive fallback.
-- **Index.md truncation risk** — when inserting into large index files, use `patch` for targeted insertions rather than `write_file` (which can truncate). If write_file truncates, restore via `git checkout` and retry with patch.
-- **Duplicate detection across slug variants** — entities like `perplexity` vs `perplexity-ai` or `codex` vs `codex-cli` may already exist under different slugs. Always search before creating.
-- **Subagent template markers** — when delegating to subagents, never pass template markers like `<duration_seconds>`. Substitute real values before dispatch.
+- **State reset is destructive** — clearing the `ingested` dict re-processes every file. Confirm scope with the user before resetting. A "state-only reset" preserves existing wiki pages but still re-reads all 2,000+ vault files.
+- **Verify script results** — after running any ingest script, check `git status` for modified files and spot-check 2–3 pages to confirm actual changes. Scripts can complete "successfully" with 0 pages modified if matching logic is wrong.
+- **Mechanical vs. LLM confusion** — a fast Python script that bumps dates is NOT equivalent to LLM ingest that extracts entities. Be explicit about which method you're using and what the user can expect.
+- **`@url:` wrapper in vault files** — some Obsidian exports wrap source URLs as `source: "@url:`https://...`"`. Fix with regex before or after ingest: `re.sub(r'source:\s*"@url:`([^`]+)`"', r'source: "\1"', content)`.
+- **Verify state after subagent runs** — check that `ingested` dict is populated and `duration_seconds` is reasonable. Subagents may skip state recording or hit token limits without producing output.
+- **Filename Unicode normalization** — vault files often contain smart quotes (`'`), em-dashes (`—`), or hair spaces (`\u200a`). Normalize filenames before matching against hash lists.
+- **Index.md truncation risk** — when inserting into large index files, use `patch` for targeted insertions rather than `write_file` (which can truncate).
+- **Subagent template markers** — never pass template markers like `<duration_seconds>` to subagents. Substitute real values before dispatch.
 
-## Timing Benchmarks
+## Timing Expectations
 
-| Batch Size | Avg Duration | Notes |
-|---|---|---|
-| 100 files | ~26 min | First batch includes setup overhead |
-| 100 files | ~27 min | Steady state (hash-based, no copying) |
+Report realistic rates — users project completion from these numbers.
+
+| Method | Duration (100 files) | Rate | Creates new pages? |
+|---|---|---|---|
+| Mechanical script (text matching) | 5–30s | 200–1,200/min | No |
+| LLM file-by-file (tool calls) | 15–30 min | 3–7/min | Yes |
+| Subagent delegation | Variable | N/A | Yes |
+
+**Critical:** Mechanical scripts are fast but shallow — they only update existing pages by matching slugs. They do not perform entity extraction or create new pages. Claiming a fast rate for work that wasn't actually done (e.g., "5,000 files/min" for a script that only bumped dates) misleads the user about completeness.
+
+**Recommendation:** Use mechanical scripts for bulk source-reference updates. Use LLM-based ingest for genuine content analysis and new page creation. Always verify results with `git status` and spot-check pages before committing.
 
 ## State Recovery
 
