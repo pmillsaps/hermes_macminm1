@@ -27,16 +27,16 @@
       "schedule_display": "every monday 9am",
       "repeat": {
         "times": null,
-        "completed": 0
+        "completed": 1
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-19T04:43:35.444198-05:00",
-      "next_run_at": "2026-09-21T09:00:00-05:00",
-      "last_run_at": null,
-      "last_status": null,
+      "next_run_at": "2026-09-28T09:00:00-05:00",
+      "last_run_at": "2026-09-21T09:03:12.405504-05:00",
+      "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
       "last_delivery_unverified": null,
@@ -44,12 +44,19 @@
       "deliver": "telegram:8624831548",
       "origin": null,
       "enabled_toolsets": null,
-      "workdir": "/Users/paulmillsaps/Documents/_Obsidian/wiki"
+      "workdir": "/Users/paulmillsaps/Documents/_Obsidian/wiki",
+      "last_dispatch": {
+        "scheduled_at": "2026-09-21T09:00:00-05:00",
+        "dispatched_at": "2026-09-21T09:00:07.714181-05:00",
+        "lateness_seconds": 7.7,
+        "kind": "on_time"
+      },
+      "fire_claim": null
     },
     {
       "id": "1da953f915bb",
       "name": "Wiki Vault Ingest (100/day)",
-      "prompt": "You are performing the daily vault-to-wiki ingest. The script at `~/.hermes/scripts/wiki-vault-ingest.py` tracks state in `~/.hermes/scripts/wiki-vault-ingest-state.json`.\n\n## Steps\n\n1. Pull latest:\n```bash\ncd /Users/paulmillsaps/Documents/_Obsidian && git pull origin main\n```\n\n2. Get next batch of 100 vault files:\n```bash\npython3 ~/.hermes/scripts/wiki-vault-ingest.py batch 100\n```\n\nIf the output starts with `NO_FILES`, nothing to ingest — log it and stop.\n\n3. For each file in the batch:\n   - Read the vault file\n   - Extract entities and concepts mentioned\n   - Search existing wiki pages (search_files across entities/ and concepts/)\n   - Create new pages only if they meet Page Thresholds (2+ source mentions, or central to one source)\n   - Update existing pages with new information (bump `updated` date)\n   - Ensure bidirectional links (min 2 outbound links per page)\n   - Add pages to `index.md` under correct section\n\n4. Update state:\n```bash\npython3 ~/.hermes/scripts/wiki-vault-ingest.py record <duration_seconds> <file_count>\n```\n\n5. Commit and push:\n```bash\ncd /Users/paulmillsaps/Documents/_Obsidian && git add -A && git commit -m \"Daily vault ingest: N files\" && git push origin main\n```\n\n6. Update log.md with the batch results.\n\n7. Go back to step 2 until NO_FILES is returned.\n\n## CRITICAL: Report Only at Completion\n- DO NOT send any report or summary after individual batches\n- Only send a final summary when ALL files have been processed (NO_FILES returned)\n- The final summary should include: total files processed, total batches, total time, new entities/concepts created, pages updated, and average files/min rate\n- If NO_FILES on first run, report \"No files to ingest — wiki is up to date.\"",
+      "prompt": "You are performing the daily vault-to-wiki ingest. This is a MECHANICAL process — no LLM reasoning per file.\n\n## Steps\n\n1. Pull latest:\n```bash\ncd /Users/paulmillsaps/Documents/_Obsidian && git pull origin main\n```\n\n2. Run the mechanical ingest script:\n```bash\npython3 ~/.hermes/scripts/wiki-vault-reingest.py 2>&1\n```\n\nThe script will:\n- Read all unprocessed vault files\n- Match them against existing wiki pages by slug\n- Bump `updated` dates and add source references\n- Track state in ~/.hermes/scripts/wiki-vault-ingest-state.json\n- Print progress per batch\n\n3. If the script outputs `NO_FILES`, nothing to ingest — log it and stop.\n\n4. After the script completes, commit and push:\n```bash\ncd /Users/paulmillsaps/Documents/_Obsidian && git add -A && git commit -m \"Daily vault ingest: N files processed\" && git push origin main\n```\n\n5. Update log.md with the batch results (append entry with file count, duration, pages updated).\n\n## CRITICAL: Report Only at Completion\n- DO NOT send any report or summary during processing\n- Only send a final summary when the script finishes\n- The final summary should include: total files processed, total pages updated, total duration, rate (files/min)\n- If NO_FILES on first run, report \"No files to ingest — wiki is up to date.\"\n\n## Important\n- This is a mechanical script — do NOT add per-file LLM analysis\n- Do NOT create new wiki pages — only update existing ones with source references\n- The script handles all matching and state tracking automatically",
       "skills": [
         "llm-wiki"
       ],
@@ -73,15 +80,15 @@
       "schedule_display": "0 2 * * *",
       "repeat": {
         "times": null,
-        "completed": 2
+        "completed": 3
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-19T04:56:31.069460-05:00",
-      "next_run_at": "2026-09-22T02:00:00-05:00",
-      "last_run_at": "2026-09-21T02:19:39.698835-05:00",
+      "next_run_at": "2026-09-23T02:00:00-05:00",
+      "last_run_at": "2026-09-22T02:06:03.446135-05:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -92,9 +99,9 @@
       "enabled_toolsets": null,
       "workdir": "/Users/paulmillsaps/Documents/_Obsidian/wiki",
       "last_dispatch": {
-        "scheduled_at": "2026-09-21T02:00:00-05:00",
-        "dispatched_at": "2026-09-21T02:00:07.536592-05:00",
-        "lateness_seconds": 7.5,
+        "scheduled_at": "2026-09-22T02:00:00-05:00",
+        "dispatched_at": "2026-09-22T02:00:24.739660-05:00",
+        "lateness_seconds": 24.7,
         "kind": "on_time"
       },
       "fire_claim": null
@@ -124,15 +131,15 @@
       "schedule_display": "0 3 * * *",
       "repeat": {
         "times": null,
-        "completed": 2
+        "completed": 3
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-19T06:54:41.235908-05:00",
-      "next_run_at": "2026-09-22T03:00:00-05:00",
-      "last_run_at": "2026-09-20T16:42:04.045225-05:00",
+      "next_run_at": "2026-09-23T03:00:00-05:00",
+      "last_run_at": "2026-09-21T03:00:09.964914-05:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -143,14 +150,14 @@
       "enabled_toolsets": null,
       "workdir": "/Users/paulmillsaps/.hermes-backup-repo",
       "last_dispatch": {
-        "scheduled_at": "2026-09-21T03:00:00-05:00",
-        "dispatched_at": "2026-09-21T03:00:07.631250-05:00",
-        "lateness_seconds": 7.6,
+        "scheduled_at": "2026-09-22T03:00:00-05:00",
+        "dispatched_at": "2026-09-22T03:00:24.866472-05:00",
+        "lateness_seconds": 24.9,
         "kind": "on_time"
       },
       "fire_claim": {
-        "at": "2026-09-21T03:00:07.682365-05:00",
-        "by": "Vera.home.local:11780:ff52cbe783e04b3891409eeca6b6c5e1"
+        "at": "2026-09-22T03:00:24.919442-05:00",
+        "by": "Vera.home.local:668:23a307bfd4b84a8ea0290207e056778a"
       }
     },
     {
@@ -178,15 +185,15 @@
       "schedule_display": "0 4 * * *",
       "repeat": {
         "times": null,
-        "completed": 1
+        "completed": 3
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-19T07:02:30.939492-05:00",
-      "next_run_at": "2026-09-21T04:00:00-05:00",
-      "last_run_at": "2026-09-20T04:03:02.878946-05:00",
+      "next_run_at": "2026-09-22T04:00:00-05:00",
+      "last_run_at": "2026-09-21T15:36:45.391322-05:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -197,13 +204,13 @@
       "enabled_toolsets": null,
       "workdir": null,
       "last_dispatch": {
-        "scheduled_at": "2026-09-20T04:00:00-05:00",
-        "dispatched_at": "2026-09-20T04:00:02.831714-05:00",
-        "lateness_seconds": 2.8,
+        "scheduled_at": "2026-09-21T04:00:00-05:00",
+        "dispatched_at": "2026-09-21T04:00:07.641039-05:00",
+        "lateness_seconds": 7.6,
         "kind": "on_time"
       },
       "fire_claim": null
     }
   ],
-  "updated_at": "2026-09-21T03:00:07.683031-05:00"
+  "updated_at": "2026-09-22T03:00:24.919936-05:00"
 }
