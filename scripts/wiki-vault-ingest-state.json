@@ -8107,10 +8107,9 @@
       "pages_updated": 1
     },
     "Hardware/The Great Decoupling why the future of high-speed AI Inference belongs to dedicated Silicon, not GPUs.md": {
-      "ingested": "2026-09-19",
-      "sha256": "a970ec130f629f6368aaa3bf669ba50b3df6cee621865fcc04cbaf54ddc3dfb2",
-      "last_processed": "2026-09-21T02:17:45.222919",
-      "pages_updated": 2
+      "ingested": "2026-09-23",
+      "sha256": "56b4c63836333c468eb279425426df646ba9345b61f1776b1fb5d766751ef52f",
+      "last_processed": "2026-09-23T17:23:52.222415"
     },
     "Hardware/The Model Router Running a Team of Local LLMs Instead of One Big One.md": {
       "ingested": "2026-09-19",
@@ -12685,10 +12684,9 @@
       "pages_updated": 0
     },
     "0-ToDo/Duplicate File Checks.md": {
-      "ingested": "2026-09-19",
-      "sha256": "bb9c9af0fc55b116e152bdc3622a3b47e5232f61a8a8478e8f89ecc17b86c346",
-      "last_processed": "2026-09-21T02:17:45.222919",
-      "pages_updated": 0
+      "ingested": "2026-09-23",
+      "sha256": "a02a62f3ed25c8be3e975f16d119c81f6cee2b77923856b807e26d2ef5e47c53",
+      "last_processed": "2026-09-23T17:23:52.428970"
     },
     "0-ToDo/Free inference.md": {
       "ingested": "2026-09-19",
@@ -13363,34 +13361,3999 @@
       "ingested": "2026-09-21"
     },
     "0-ToDo/Hot GitHub Repos.md": {
-      "ingested": "2026-09-22",
-      "sha256": -5506662115985518621,
-      "last_processed": "2026-09-22T02:00:41.989783",
-      "pages_updated": 0
+      "ingested": "2026-09-23",
+      "sha256": "63e2c9144affcce346f7b365d1f5f5165bcc70bc1a327138a869ec6a9e9f0407",
+      "last_processed": "2026-09-23T17:21:52.060096"
     },
     "MCP/Stop Building AI Apps for Every Idea. Start Building MCP Servers Part 7.md": {
       "ingested": "2026-09-23",
-      "sha256": -6134162921175799820,
-      "last_processed": "2026-09-23T02:01:18.078489",
-      "pages_updated": 0
+      "sha256": "bdb5b28bf6b08f8809e3c0c3976b50792325359712e83a577b640b6ea04bf89d",
+      "last_processed": "2026-09-23T17:21:52.051298"
     },
     "Local AI Setup/Should You Self-Host Inference.md": {
       "ingested": "2026-09-23",
-      "sha256": -5857931367017156055,
-      "last_processed": "2026-09-23T02:01:18.081441",
-      "pages_updated": 3
+      "sha256": "357781ff533ffa0b35aaded671dc36c388d802dd0abd62f9c528bd2626dcc9a4",
+      "last_processed": "2026-09-23T17:21:52.053115"
     },
     "Obsidian/LLM Wiki Obsidian Claude Tutorial.md": {
       "ingested": "2026-09-23",
-      "sha256": -2868678113170962754,
-      "last_processed": "2026-09-23T02:01:18.082278",
-      "pages_updated": 1
+      "sha256": "064536c44c80ad06d82a51da414d613c9cae8ce370d2149cf317fa59aba4e039",
+      "last_processed": "2026-09-23T17:21:52.061326"
     },
     "Obsidian/The Complete Guide to Obsidian Automation \u2014 From Templates to an AI Operating System.md": {
       "ingested": "2026-09-23",
-      "sha256": 6419455133593436380,
-      "last_processed": "2026-09-23T02:01:18.097132",
+      "sha256": "b40af73fae2e6626dd6e00717bc937b6d1cc4462145b9e559f5398788a69e663",
+      "last_processed": "2026-09-23T17:21:52.074369"
+    },
+    "Agents/Eight Agentic Tools Worth Your Time Before the Year Ends.md": {
+      "ingested": "2026-09-23",
+      "sha256": "36bdd17cde90afdecc7730e032374de73232adc8bdb2685a6746428282f67e72",
+      "last_processed": "2026-09-23T17:23:52.216424"
+    },
+    "Coursiv/Managing Personal Finances With AI/Coursiv_Managing_Personal_Finances_With_AI_01_Financial Clarity Essentials.md": {
+      "ingested": "2026-09-23",
+      "sha256": "63fee13068a93e51342899c0f1fd49f87afbec804901697f55c9af321bdfbf97",
+      "last_processed": "2026-09-23T17:23:52.243390"
+    },
+    "Coursiv/Managing Personal Finances With AI/Coursiv_Managing_Personal_Finances_With_AI_02_Building Your Budget.md": {
+      "ingested": "2026-09-23",
+      "sha256": "b91e1d6e2cc1121afbd678847efce28faadf4570d8621c239dd4c37cffee5430",
+      "last_processed": "2026-09-23T17:23:52.262213"
+    },
+    "Coursiv/Managing Personal Finances With AI/Coursiv_Managing_Personal_Finances_With_AI_03_Analyzing Spending Behavior.md": {
+      "ingested": "2026-09-23",
+      "sha256": "5764aa3239a34a179133a48bba585cf3f8ee6b2f7cddbb0d2a113030d6fa9e28",
+      "last_processed": "2026-09-23T17:23:52.283346"
+    },
+    "Coursiv/Managing Personal Finances With AI/Coursiv_Managing_Personal_Finances_With_AI_04_Comparing Financial Options.md": {
+      "ingested": "2026-09-23",
+      "sha256": "616a4c81462c0609bb3afa2f2441c80ac6f34b77c6a3b0d79897f8934c7a01da",
+      "last_processed": "2026-09-23T17:23:52.301713"
+    },
+    "Coursiv/Managing Personal Finances With AI/Coursiv_Managing_Personal_Finances_With_AI_05_Strategic Debt Repayment.md": {
+      "ingested": "2026-09-23",
+      "sha256": "22947d6b34ba3756fcce6f0968ad41e3a28d8888d0b50cdb99e0c39a65fea210",
+      "last_processed": "2026-09-23T17:23:52.321498"
+    },
+    "Coursiv/Managing Personal Finances With AI/Coursiv_Managing_Personal_Finances_With_AI_06_Personalized Savings Plans.md": {
+      "ingested": "2026-09-23",
+      "sha256": "650f2bf9e22e1110d20f2cc4c3355af529cc69d0f90ff74f088ac55debc696c7",
+      "last_processed": "2026-09-23T17:23:52.341510"
+    },
+    "Coursiv/Managing Personal Finances With AI/Coursiv_Managing_Personal_Finances_With_AI_07_Learning Investment Concepts.md": {
+      "ingested": "2026-09-23",
+      "sha256": "7940937f1429bc7a97e83cc8f4dcba3d585f4c9c42a883130edf3aad5610bacc",
+      "last_processed": "2026-09-23T17:23:52.361706"
+    },
+    "Coursiv/Managing Personal Finances With AI/Coursiv_Managing_Personal_Finances_With_AI_08_Scenario Planning.md": {
+      "ingested": "2026-09-23",
+      "sha256": "4d30b56d8c18b5a8a58174d0e98e64c112d7462a0c5f2cd6a31e85a29212127c",
+      "last_processed": "2026-09-23T17:23:52.381532"
+    },
+    "Coursiv/Managing Personal Finances With AI/Coursiv_Managing_Personal_Finances_With_AI_09_Confident Decision-Making.md": {
+      "ingested": "2026-09-23",
+      "sha256": "2e075641c19f066f4df6854cddf1f6a7e307a274236633871b031a40b125c377",
+      "last_processed": "2026-09-23T17:23:52.401926"
+    },
+    "Local AI Setup/How to Run a Claude-Like AI Locally Using Ollama.md": {
+      "ingested": "2026-09-23",
+      "sha256": "1415fb870c83cc5456c7ab0153e6b408594648dd3b289564594230f09c51b65c",
+      "last_processed": "2026-09-23T17:23:52.405563"
+    },
+    "Business Ideas/27 AI Systems You Can Start Selling in 2026.md": {
+      "ingested": "2026-09-23",
+      "sha256": "d1b004fc6beb81a008ec9400fdba9b9651560a1c042e1ccce5d8efbab06108db",
+      "last_processed": "2026-09-23T17:23:52.409441"
+    },
+    "Education/Top 10 AI Repositories If You Want to Become God-Level at AI.md": {
+      "ingested": "2026-09-23",
+      "sha256": "a317127e6783d6efc7d14aa1317bc600c77a1094e55bcda5629f4c279cdb04ba",
+      "last_processed": "2026-09-23T17:23:52.417913"
+    },
+    "Design/12 Copy-Paste AI Image Prompts That Make Your Product Look Like It Has a $5,000 Design Team.md": {
+      "ingested": "2026-09-23",
+      "sha256": "07a53303cdefacd8454c5e3f9ae322c3d819397f374208ef2cef116b88801a88",
+      "last_processed": "2026-09-23T17:23:52.423226"
+    },
+    "AI/10 Crazy Things Claude Can Do That Most ChatGPT Users Don\u2019t Know About.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6915434116303345099,
+      "last_processed": "2026-09-24T02:01:28.512072",
+      "pages_updated": 0
+    },
+    "AI/7 Ways to Make $500Month With GPT-6 Astra.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4802011279360570269,
+      "last_processed": "2026-09-24T02:01:28.512524",
+      "pages_updated": 0
+    },
+    "AI/AI Can Copy Your Content. It Still Can\u2019t Copy What You Know.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6933738679840772376,
+      "last_processed": "2026-09-24T02:01:28.513036",
+      "pages_updated": 0
+    },
+    "AI/AI Daily Digest \u2014 June 20, 2026 AI Talent Exodus, AA-Briefcase, OpenAI Astral.md": {
+      "ingested": "2026-09-24",
+      "sha256": 725156315215660123,
+      "last_processed": "2026-09-24T02:01:28.513364",
+      "pages_updated": 0
+    },
+    "AI/Anthropic Built an \u2018Evil\u2019 Claude. It Acts Normal But It\u2019s A Monster.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8110027634277085195,
+      "last_processed": "2026-09-24T02:01:28.514010",
+      "pages_updated": 0
+    },
+    "AI/Anthropic Studied How People Actually Use Claude. The Findings Were Surprising.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6922846991827961020,
+      "last_processed": "2026-09-24T02:01:28.514690",
+      "pages_updated": 0
+    },
+    "AI/Anthropic Will Lose the AI Race here is 10 Reasons why.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2123177482618620949,
+      "last_processed": "2026-09-24T02:01:28.515166",
+      "pages_updated": 0
+    },
+    "AI/Apple Killed OpenAI and Anthropic.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5103614868836569020,
+      "last_processed": "2026-09-24T02:01:28.516550",
+      "pages_updated": 2
+    },
+    "AI/Best AI Chatbot Subscription in 2026 ChatGPT, Gemini, Claude, Perplexity, Grok & Mistral Compared.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7058474675236749463,
+      "last_processed": "2026-09-24T02:01:28.517459",
+      "pages_updated": 0
+    },
+    "AI/Build Local AI Now. Before Doors Close Forever.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7864964002485630910,
+      "last_processed": "2026-09-24T02:01:28.517913",
+      "pages_updated": 0
+    },
+    "AI/ChatGPT Plugins vs GPTs What Actually Happens to the One You Built!.md": {
+      "ingested": "2026-09-24",
+      "sha256": -9197845950357797972,
+      "last_processed": "2026-09-24T02:01:28.518406",
+      "pages_updated": 0
+    },
+    "AI/ChatGPT vs Gemini vs Claude.The Honest Truth Nobody Tells You.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1921685891240295094,
+      "last_processed": "2026-09-24T02:01:28.520527",
+      "pages_updated": 3
+    },
+    "AI/ChatGPT-6 Astra The Complete Guide.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8559435844762610908,
+      "last_processed": "2026-09-24T02:01:28.521962",
+      "pages_updated": 2
+    },
+    "AI/Claude Writes 80% of Code at Anthropic \u2014 And the New Bottleneck Isn\u2019t Code Reviews. It\u2019s This.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6037259054806490403,
+      "last_processed": "2026-09-24T02:01:28.522641",
+      "pages_updated": 1
+    },
+    "AI/Does Codex Train on Your Code OpenAI Answered That Four Different Ways in Three Days.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4225477524670187592,
+      "last_processed": "2026-09-24T02:01:28.523214",
+      "pages_updated": 0
+    },
+    "AI/From Desktop Commander to MCP How I Set Up My Own Workflow with ChatGPT.md": {
+      "ingested": "2026-09-24",
+      "sha256": 756559038870426369,
+      "last_processed": "2026-09-24T02:01:28.523790",
+      "pages_updated": 0
+    },
+    "AI/GPT-6 Astra Just Launched. Here\u2019s What You Actually Need to Know.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3918415673045236249,
+      "last_processed": "2026-09-24T02:01:28.524250",
+      "pages_updated": 0
+    },
+    "AI/GPT-6 Astra and the End of \u201cJust Answer the Question\u201d.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6216780200822702975,
+      "last_processed": "2026-09-24T02:01:28.524896",
+      "pages_updated": 0
+    },
+    "AI/GPT-6 Astra vs Claude Code Which One Actually Builds Better Software.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5459420235687981123,
+      "last_processed": "2026-09-24T02:01:28.525363",
+      "pages_updated": 0
+    },
+    "AI/GPT-6 Astra vs Claude and the Open Models What the Benchmarks Don\u2019t Tell You.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1185217370642209698,
+      "last_processed": "2026-09-24T02:01:28.526835",
+      "pages_updated": 0
+    },
+    "AI/GPT-6 Astra vs Gemini 3.8 Flash vs Claude Fable 5.1.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3984881508161711784,
+      "last_processed": "2026-09-24T02:01:28.528288",
+      "pages_updated": 2
+    },
+    "AI/Google\u2019s Gemini Hacked Three Real Companies.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7560810402135226844,
+      "last_processed": "2026-09-24T02:01:28.529229",
+      "pages_updated": 1
+    },
+    "AI/Google\u2019s Gemma 4 Changes Everything for Open Source AI.md": {
+      "ingested": "2026-09-24",
+      "sha256": 596449268795178344,
+      "last_processed": "2026-09-24T02:01:28.529834",
+      "pages_updated": 0
+    },
+    "AI/Here\u2019s How I Can Tell You\u2019re Secretly Using ChatGPT.md": {
+      "ingested": "2026-09-24",
+      "sha256": -645245411360413733,
+      "last_processed": "2026-09-24T02:01:28.530133",
+      "pages_updated": 0
+    },
+    "AI/How Computer Use Actually Works Inside OpenAI, Anthropic, and Google\u2019s AI Agents.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6318386505710567269,
+      "last_processed": "2026-09-24T02:01:28.532469",
+      "pages_updated": 2
+    },
+    "AI/How to Use GPT-6 Astra to Find Profitable Trading Strategies 247.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1439489429213652737,
+      "last_processed": "2026-09-24T02:01:28.533400",
+      "pages_updated": 0
+    },
+    "AI/I Built a Free Otter.ai Alternative for Google Meet Using Gemini + Apps Script.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3266827473054884310,
+      "last_processed": "2026-09-24T02:01:28.533916",
+      "pages_updated": 0
+    },
+    "AI/I Gave GPT-6 Astra and Claude Fable 5.1 One Messy Codebase. Here\u2019s Who Survived.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3732158406506781626,
+      "last_processed": "2026-09-24T02:01:28.534358",
+      "pages_updated": 0
+    },
+    "AI/I Turned 1,400+ AI Conversations Into a Local-First Second Brain.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5257713649534447749,
+      "last_processed": "2026-09-24T02:01:28.534758",
+      "pages_updated": 0
+    },
+    "AI/Jev Makes LLMs Look Slow and Expensive.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8534522647868023315,
+      "last_processed": "2026-09-24T02:01:28.535093",
+      "pages_updated": 0
+    },
+    "AI/New Jev Model is Insane! 200x Faster & 400x Cheaper Than Frontier Models.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4857895083260059884,
+      "last_processed": "2026-09-24T02:01:28.536267",
+      "pages_updated": 2
+    },
+    "AI/OpenAI Codex The Definitive Beginner\u2019s Guide.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2209204061016932684,
+      "last_processed": "2026-09-24T02:01:28.536834",
+      "pages_updated": 0
+    },
+    "AI/OpenAI just dropped the best way to talk to agents.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4399544359581533248,
+      "last_processed": "2026-09-24T02:01:28.537354",
+      "pages_updated": 0
+    },
+    "AI/OpenAI\u2019s Software Factory When Codex Takes Over, Traditional Software Engineering As We Know It Is Gone.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2001023274908420657,
+      "last_processed": "2026-09-24T02:01:28.537938",
+      "pages_updated": 1
+    },
+    "AI/Spec Kit How to Use It with Claude, Codex, and Gemini Without Turning Your Project into AI-Flavored Chaos.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3521841823433308181,
+      "last_processed": "2026-09-24T02:01:28.541355",
+      "pages_updated": 8
+    },
+    "AI/Spec-Driven Development for everybody with Spec Kit via Gemini Gem.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7256176463246978757,
+      "last_processed": "2026-09-24T02:01:28.542548",
+      "pages_updated": 3
+    },
+    "AI/The AI Agent Landscape in 2026 Claude, ChatGPT, Copilot and Gemini.md": {
+      "ingested": "2026-09-24",
+      "sha256": 814844202986938135,
+      "last_processed": "2026-09-24T02:01:28.544833",
       "pages_updated": 7
+    },
+    "AI/The Free Open Model Matching GPT-5.5 on Agentic Coding.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2474984194535998746,
+      "last_processed": "2026-09-24T02:01:28.545575",
+      "pages_updated": 2
+    },
+    "AI/This is How to Find Invisible Characters in ChatGPT Writing.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6816269986092384198,
+      "last_processed": "2026-09-24T02:01:28.545993",
+      "pages_updated": 0
+    },
+    "AI/This is Why Nobody Can Tell I Used ChatGPT.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3372828288256258170,
+      "last_processed": "2026-09-24T02:01:28.546728",
+      "pages_updated": 0
+    },
+    "AI/What Is Andrej Karpathy\u2019s LLM Wiki \u2014 And How Can You Extend It.md": {
+      "ingested": "2026-09-24",
+      "sha256": 906984285550576950,
+      "last_processed": "2026-09-24T02:01:28.547138",
+      "pages_updated": 0
+    },
+    "AI/When will AI REALLY kill us all.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2533801038386875567,
+      "last_processed": "2026-09-24T02:01:28.547810",
+      "pages_updated": 0
+    },
+    "AI/While ChaGPT Studies Homework With Your Kids At Light\u2026 It Started To Train Them in Erotica At Night (Part 3).md": {
+      "ingested": "2026-09-24",
+      "sha256": 7055568667134277964,
+      "last_processed": "2026-09-24T02:01:28.548777",
+      "pages_updated": 1
+    },
+    "Programming/Claude Code/5 Claude Cowork Features You Shouldn\u2019t Ignore.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2691798811193373238,
+      "last_processed": "2026-09-24T02:01:28.549291",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/Anthropic Rebuilds Claude Projects to Run Parallel AI Coding Agents.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4706614186108499568,
+      "last_processed": "2026-09-24T02:01:28.549446",
+      "pages_updated": 0
+    },
+    "Programming/OpenCode/`NamedError` class in opencode codebase.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2742559008171674466,
+      "last_processed": "2026-09-24T02:01:28.549829",
+      "pages_updated": 0
+    },
+    "Agents/Agents/$0.0001 Decision Model That Will Replace Millions of LLM Calls.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3266967568671591148,
+      "last_processed": "2026-09-24T02:01:28.550418",
+      "pages_updated": 0
+    },
+    "Agents/Agents/10 AutoResearch Agents You Should Absolutely Know About.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4336093108379438719,
+      "last_processed": "2026-09-24T02:01:28.551051",
+      "pages_updated": 0
+    },
+    "Agents/Agents/10 Claude Code Commands That Actually Save Time.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4914941663225076665,
+      "last_processed": "2026-09-24T02:01:28.553716",
+      "pages_updated": 5
+    },
+    "Agents/Agents/10 Claude Code Plugins That Deserve More Attention.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3459867075563137081,
+      "last_processed": "2026-09-24T02:01:28.554117",
+      "pages_updated": 0
+    },
+    "Agents/Agents/10 Terminal Projects You\u2019ve Probably Never Heard Of.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7670722660751966272,
+      "last_processed": "2026-09-24T02:01:28.554839",
+      "pages_updated": 0
+    },
+    "Agents/Agents/12 Claude Code Mistakes I Keep Seeing (And How to Avoid Them).md": {
+      "ingested": "2026-09-24",
+      "sha256": 1012352231128567582,
+      "last_processed": "2026-09-24T02:01:28.555952",
+      "pages_updated": 0
+    },
+    "Agents/Agents/12 Claude Features You\u2019re Probably Underusing and How They Can Transform Your Workflow.md": {
+      "ingested": "2026-09-24",
+      "sha256": 9137807075884254231,
+      "last_processed": "2026-09-24T02:01:28.557167",
+      "pages_updated": 1
+    },
+    "Agents/Agents/12 Claude Skills That Make Claude More Useful.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8363261736121151210,
+      "last_processed": "2026-09-24T02:01:28.558252",
+      "pages_updated": 1
+    },
+    "Agents/Agents/13 Claude Lessons We Learned After 3,600 Hours.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1346095683387213106,
+      "last_processed": "2026-09-24T02:01:28.558994",
+      "pages_updated": 0
+    },
+    "Agents/Agents/30+ Claude Code Commands That Turn It From a Chatbot Into an Agentic Dev Environment.md": {
+      "ingested": "2026-09-24",
+      "sha256": -9190169724335901679,
+      "last_processed": "2026-09-24T02:01:28.562485",
+      "pages_updated": 8
+    },
+    "Agents/Agents/4 Claude AI Integrations That Save Business Owners 10+ Hours.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7216440268925364057,
+      "last_processed": "2026-09-24T02:01:28.562903",
+      "pages_updated": 0
+    },
+    "Agents/Agents/5 Claude Code Skills That Replace a $150hr Consultant.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8443334704339970834,
+      "last_processed": "2026-09-24T02:01:28.563560",
+      "pages_updated": 0
+    },
+    "Agents/Agents/5 Claude Code Slash Commands I Use Every Single Day.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6637164029402322044,
+      "last_processed": "2026-09-24T02:01:28.564061",
+      "pages_updated": 0
+    },
+    "Agents/Agents/5 Papers Every Agentic AI Engineer Should Know.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3524919463654670006,
+      "last_processed": "2026-09-24T02:01:28.565400",
+      "pages_updated": 1
+    },
+    "Agents/Agents/6 Claude Skills to Reduce Token Usage.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6216965820168693453,
+      "last_processed": "2026-09-24T02:01:28.565979",
+      "pages_updated": 1
+    },
+    "Agents/Agents/60\u201395% Fewer Tokens with Claude Code and Codex.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8218082021463458651,
+      "last_processed": "2026-09-24T02:01:28.566979",
+      "pages_updated": 0
+    },
+    "Agents/Agents/7 Privacy Fixes to Keep Your Claude Chats Invisible (Activate Ghost-Mode).md": {
+      "ingested": "2026-09-24",
+      "sha256": -1208583947363007657,
+      "last_processed": "2026-09-24T02:01:28.567371",
+      "pages_updated": 0
+    },
+    "Agents/Agents/9 AI Engineering Rules I Wish I Knew Before Shipping My First Agent.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2659127538662005448,
+      "last_processed": "2026-09-24T02:01:28.567879",
+      "pages_updated": 0
+    },
+    "Agents/Agents/9 Claude Code Tricks That Take It From AI Coder to Autonomous Agent.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7144982054852295043,
+      "last_processed": "2026-09-24T02:01:28.568319",
+      "pages_updated": 0
+    },
+    "Agents/Agents/99% of Kilo Code\u2019s engineering is now agents \u2014 here\u2019s the cost problem.md": {
+      "ingested": "2026-09-24",
+      "sha256": 528521285125413544,
+      "last_processed": "2026-09-24T02:01:28.568602",
+      "pages_updated": 0
+    },
+    "Agents/Agents/A Practical Architecture for Governing AI Coding Agents, Without Slowing Developers Down.md": {
+      "ingested": "2026-09-24",
+      "sha256": 587735920565447438,
+      "last_processed": "2026-09-24T02:01:28.569482",
+      "pages_updated": 1
+    },
+    "Agents/Agents/A peer handed me something obviously AI-written What I caught was in myself.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5623838986564516030,
+      "last_processed": "2026-09-24T02:01:28.569800",
+      "pages_updated": 0
+    },
+    "Agents/Agents/A2A vs MCP Do AI Agents Really Need Both Protocols.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7777968738589949643,
+      "last_processed": "2026-09-24T02:01:28.570634",
+      "pages_updated": 1
+    },
+    "Agents/Agents/AI Agent Server vs. AI Agent Client.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1340208656465910938,
+      "last_processed": "2026-09-24T02:01:28.570831",
+      "pages_updated": 0
+    },
+    "Agents/Agents/AI Agentic Architecture Design Better and efficient AI Workflows.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5025306276266501150,
+      "last_processed": "2026-09-24T02:01:28.575482",
+      "pages_updated": 7
+    },
+    "Agents/Agents/AI Agents 035 \u2014 Your OpenClaw Agent Can Burn $300Day Without These Cost Guards.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4605958596483803986,
+      "last_processed": "2026-09-24T02:01:28.575854",
+      "pages_updated": 0
+    },
+    "Agents/Agents/AI Agents Don\u2019t Need Vector Search Anymore Inside the Agentic Search Stack Replacing RAG in 2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5090982569434700362,
+      "last_processed": "2026-09-24T02:01:28.580212",
+      "pages_updated": 5
+    },
+    "Agents/Agents/AI Agents Should Think in Operations, Not Commands.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2751807412938177655,
+      "last_processed": "2026-09-24T02:01:28.580923",
+      "pages_updated": 1
+    },
+    "Agents/Agents/AI Coding Agent Browser Policy Let Codex Verify the UI Without Letting It Roam.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4344809180739381330,
+      "last_processed": "2026-09-24T02:01:28.581453",
+      "pages_updated": 0
+    },
+    "Agents/Agents/AI News, Volume 47 Agents Get Memory and a Watchtower.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2227413752585623287,
+      "last_processed": "2026-09-24T02:01:28.582104",
+      "pages_updated": 0
+    },
+    "Agents/Agents/AI Observability \u2014 How to Know Your AI System is Healthy in Production.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8898105572978247398,
+      "last_processed": "2026-09-24T02:01:28.583086",
+      "pages_updated": 1
+    },
+    "Agents/Agents/AI agents need their own identity system. I built one.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8882179589760501476,
+      "last_processed": "2026-09-24T02:01:28.583370",
+      "pages_updated": 0
+    },
+    "Agents/Agents/AI generates code at breakneck speeds, yet we\u2019ve forgotten how to review it.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7760774665341964542,
+      "last_processed": "2026-09-24T02:01:28.583786",
+      "pages_updated": 0
+    },
+    "Agents/Agents/AI in Simple terms Creating a basic Agent harness.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1166368010640294971,
+      "last_processed": "2026-09-24T02:01:28.584176",
+      "pages_updated": 0
+    },
+    "Agents/Agents/AIHawk\u2019s Stealth Firefox Takes On AI Agent Blocking.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3693056054249737585,
+      "last_processed": "2026-09-24T02:01:28.584857",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Agent Harness Engineering The Missing Layer Between an LLM and a Real AI Agent.md": {
+      "ingested": "2026-09-24",
+      "sha256": 9017842262072660305,
+      "last_processed": "2026-09-24T02:01:28.585449",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Agent Memory Harness Engineering X.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6240264992628770208,
+      "last_processed": "2026-09-24T02:01:28.587529",
+      "pages_updated": 3
+    },
+    "Agents/Agents/Agent Plugins Are Here. Why Isn\u2019t Anthropic In.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5345276809008675918,
+      "last_processed": "2026-09-24T02:01:28.587968",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Agentfiles Obsidian Configs for Claude Code, Cursor, Codex \u2014 No More Hunting Across Your Whole Hard Drive.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7354676196262332245,
+      "last_processed": "2026-09-24T02:01:28.588441",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Agentic AI Architecture Digest.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1201184970128746516,
+      "last_processed": "2026-09-24T02:01:28.590867",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Aider, Cline, and OpenHands Three Open-Source Coding Agents for People Who Don\u2019t Want to Rent Their Tools.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5528496858710795132,
+      "last_processed": "2026-09-24T02:01:28.591140",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Alibaba Shipped Qwen-MM-Plugins Into Claude Code, and the Install Command Belongs to Anthropic.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8581704936688382760,
+      "last_processed": "2026-09-24T02:01:28.591751",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Antigravity vs Claude Code vs Codex in Late 2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2783397170016245006,
+      "last_processed": "2026-09-24T02:01:28.592657",
+      "pages_updated": 3
+    },
+    "Agents/Agents/Antigravity vs Claude Code vs Codex.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4650525874904807229,
+      "last_processed": "2026-09-24T02:01:28.593440",
+      "pages_updated": 2
+    },
+    "Agents/Agents/Automating Project Implementation and Maintenance with Claude Code + MCP + AI Agent Skills \u2014\u2026 1.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3228097997455339346,
+      "last_processed": "2026-09-24T02:01:28.594071",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Automating Project Implementation and Maintenance with Claude Code + MCP + AI Agent Skills \u2014\u2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1958714906589959054,
+      "last_processed": "2026-09-24T02:01:28.596719",
+      "pages_updated": 4
+    },
+    "Agents/Agents/Before You Spend More on a Smarter AI Model, Read This Benchmark.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4137709462786984570,
+      "last_processed": "2026-09-24T02:01:28.597774",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Best shared memory layers for ChatGPT, Claude, and AI agents in 2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4766905150066389493,
+      "last_processed": "2026-09-24T02:01:28.598717",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Browser Automation Letting Claude Drive a Browser.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1199554814165585383,
+      "last_processed": "2026-09-24T02:01:28.599071",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Build a Personal Knowledge Base With Claude Code.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2571582187660851110,
+      "last_processed": "2026-09-24T02:01:28.599453",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Build durable agents with eve.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4625145311803893912,
+      "last_processed": "2026-09-24T02:01:28.599711",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Build your own LLM Wiki Karpathy\u2019s second-brain pattern, step by step.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5691961219821817183,
+      "last_processed": "2026-09-24T02:01:28.601052",
+      "pages_updated": 3
+    },
+    "Agents/Agents/Build, Stream, Test Your First Claude Managed Agent in 30 Minutes.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1028644508953154542,
+      "last_processed": "2026-09-24T02:01:28.603723",
+      "pages_updated": 4
+    },
+    "Agents/Agents/Building AI Agents on .NET Microsoft Agent Framework, Semantic Kernel, and MCP.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1258859573485189310,
+      "last_processed": "2026-09-24T02:01:28.605198",
+      "pages_updated": 3
+    },
+    "Agents/Agents/Building AI Agents with Strands SDK From Single Agents to Multi-Agent Systems.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2874259885627779871,
+      "last_processed": "2026-09-24T02:01:28.614789",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Building Agentic Skills.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6698436326655656479,
+      "last_processed": "2026-09-24T02:01:28.615646",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Building a Self-Updating Knowledge Graph for AI Coding Agents.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3600168022325886246,
+      "last_processed": "2026-09-24T02:01:28.616649",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Built Multiples Agents to Research, Think and Remember on Its Own with Hermes + Obsidian.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7958127519238505279,
+      "last_processed": "2026-09-24T02:01:28.617560",
+      "pages_updated": 3
+    },
+    "Agents/Agents/ByteDance\u2019s DeerFlow Gives Your Agent a Sandbox, Memory, and Subagents Out of the Box. The Bill Comes Later.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5011158828707350131,
+      "last_processed": "2026-09-24T02:01:28.618079",
+      "pages_updated": 1
+    },
+    "Agents/Agents/CLAUDE.md + Skills + Hooks The Claude Code Power Stack.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5339134875722402174,
+      "last_processed": "2026-09-24T02:01:28.618791",
+      "pages_updated": 2
+    },
+    "Agents/Agents/CLAUDE.md vs SKILL.md vs MCP The Modern Agent Stack Explained.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2901087020313049516,
+      "last_processed": "2026-09-24T02:01:28.620553",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Claude Code 2.1.277 now reads AGENTS.md across 60k+ repos.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8499981029693832088,
+      "last_processed": "2026-09-24T02:01:28.620805",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Claude Code Agents How to Build Your Own AI Team.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2199324821910135853,
+      "last_processed": "2026-09-24T02:01:28.622756",
+      "pages_updated": 4
+    },
+    "Agents/Agents/Claude Code Dashboard How I Track Multiple Claude Code Sessions, Subagents and Permission Prompts in One Place.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3359285132900203954,
+      "last_processed": "2026-09-24T02:01:28.623151",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Claude Code Explained CLAUDE.md, Skills, Hooks, Subagents, Agent Teams & Plugins.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2790347789814349797,
+      "last_processed": "2026-09-24T02:01:28.624129",
+      "pages_updated": 3
+    },
+    "Agents/Agents/Claude Code Is Becoming an AI Engineering Environment \u2014 Here\u2019s the Stack I\u2019d Build.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1903316033949037248,
+      "last_processed": "2026-09-24T02:01:28.625733",
+      "pages_updated": 3
+    },
+    "Agents/Agents/Claude Code Isn\u2019t Just for Developers. Here\u2019s What Non-Coders Can Actually Build With It.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3464437547974459446,
+      "last_processed": "2026-09-24T02:01:28.626082",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Claude Code Skills vs Subagents vs Hooks vs Workflows Which to Use in 2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1942859008083925925,
+      "last_processed": "2026-09-24T02:01:28.626624",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Claude Code for Life 2 A Personal AI Chief of Staff for Daily Work.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8039600721386805337,
+      "last_processed": "2026-09-24T02:01:28.627301",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Claude Code in practice plugins, tips, and tricks for a faster workflow.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8731591134547601655,
+      "last_processed": "2026-09-24T02:01:28.627648",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Claude Code\u2019s Second Brain Cuts Token Usage by 5x.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3379902185889957081,
+      "last_processed": "2026-09-24T02:01:28.628380",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Claude Fable is too expensive \u2014 Here\u2019s what I use instead.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8758638772265453159,
+      "last_processed": "2026-09-24T02:01:28.629140",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Claude Researcher The First Skill That Turns Claude Code Into a Full Research Assistant.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7864390182605017717,
+      "last_processed": "2026-09-24T02:01:28.629460",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Claude is a Contrarian.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6279276425701580416,
+      "last_processed": "2026-09-24T02:01:28.629814",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Claude.MD vs SKILLS.MD vs AGENTS.MD, What to use When.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1879345433154663112,
+      "last_processed": "2026-09-24T02:01:28.630472",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Claude\u2019s New Dynamic Workflows Feature Is a Beast, But Token Hungry.md": {
+      "ingested": "2026-09-24",
+      "sha256": -479544141178410274,
+      "last_processed": "2026-09-24T02:01:28.631203",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Coding an Agent Steering Agent Loops.md": {
+      "ingested": "2026-09-24",
+      "sha256": -512599873967477380,
+      "last_processed": "2026-09-24T02:01:28.631506",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Context Engineering for AI Agents 101 Concepts, Implementation, and Evaluation.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6707625523916147810,
+      "last_processed": "2026-09-24T02:01:28.635690",
+      "pages_updated": 3
+    },
+    "Agents/Agents/Cure Your AI Agent\u2019s Amnesia Building a RAG Pipeline with AutoGen & ChromaDB.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4156624869424233073,
+      "last_processed": "2026-09-24T02:01:28.637233",
+      "pages_updated": 2
+    },
+    "Agents/Agents/Custom AI Agents The Complete Guide for Companies That Want to Build or Buy One.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4852018740805014776,
+      "last_processed": "2026-09-24T02:01:28.638406",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Demystifying the AI Harness What Makes Enterprise AI Actually Work.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6648446324232525820,
+      "last_processed": "2026-09-24T02:01:28.639730",
+      "pages_updated": 3
+    },
+    "Agents/Agents/Do agent skills help I ran 72 trials to find out.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8772524185862213414,
+      "last_processed": "2026-09-24T02:01:28.640199",
+      "pages_updated": 0
+    },
+    "Agents/Agents/EP.1 Building a Real Product With Coding Agents Forget \u201cVibe Coding\u201d, Here\u2019s the Real Workflow.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3172054756949064942,
+      "last_processed": "2026-09-24T02:01:28.640956",
+      "pages_updated": 2
+    },
+    "Agents/Agents/End-to-End Evals for Gen AI and Agentic AI A Practitioner\u2019s Guide to Single-Turn and Multi-Turn Evaluation.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4529388173354933832,
+      "last_processed": "2026-09-24T02:01:28.641485",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Every Specialist on My Review Team Is a Single Markdown File (III).md": {
+      "ingested": "2026-09-24",
+      "sha256": 6560831896707493076,
+      "last_processed": "2026-09-24T02:01:28.641883",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Everyone Analyzed Claude Code\u2019s Features. Nobody Analyzed Its Architecture.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8126107580468303939,
+      "last_processed": "2026-09-24T02:01:28.642796",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Five Rules for a Claude Code Agent That Runs Itself.md": {
+      "ingested": "2026-09-24",
+      "sha256": 226735711371161669,
+      "last_processed": "2026-09-24T02:01:28.643353",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Four Layers of Setup to Stop Claude Code From Hallucinating.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2762734223351176622,
+      "last_processed": "2026-09-24T02:01:28.643819",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Fryday 8 10 Agent Harnesses That Change What the Same Model Can Do.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7414141669665119039,
+      "last_processed": "2026-09-24T02:01:28.644481",
+      "pages_updated": 0
+    },
+    "Agents/Agents/GStack Review YC CEO\u2019s 108K-Star Claude Code Github Setup Explained.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8313657025122280200,
+      "last_processed": "2026-09-24T02:01:28.645102",
+      "pages_updated": 0
+    },
+    "Agents/Agents/GitHub Copilot CLI for Engineers \u2014 Part 1 Teach Your AI About Your Infrastructure.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1811273469214671651,
+      "last_processed": "2026-09-24T02:01:28.645708",
+      "pages_updated": 0
+    },
+    "Agents/Agents/GitHub Copilot CLI \u2014 Part 2 The Features That Turn an AI Assistant Into an Engineering Agent.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5779355728022771207,
+      "last_processed": "2026-09-24T02:01:28.646346",
+      "pages_updated": 0
+    },
+    "Agents/Agents/GitHub Spec Kit vs Kiro vs Claude Code.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4555029334092802827,
+      "last_processed": "2026-09-24T02:01:28.647460",
+      "pages_updated": 2
+    },
+    "Agents/Agents/Give Your AI Agent 36 Superpowers Long\u2011Term Memory in Minutes with GBrain (Open Source).md": {
+      "ingested": "2026-09-24",
+      "sha256": -4002343584749430746,
+      "last_processed": "2026-09-24T02:01:28.647794",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Goal Decay What Happens to an Agent Running for Three Weeks.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8532684556986139650,
+      "last_processed": "2026-09-24T02:01:28.648746",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Good news Anthropic is giving away an entire AI curriculum for free\u2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2463481318733643772,
+      "last_processed": "2026-09-24T02:01:28.649926",
+      "pages_updated": 3
+    },
+    "Agents/Agents/Google\u2019s New Format for Agent Context A Standard, or Just a Folder.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5112035802222777625,
+      "last_processed": "2026-09-24T02:01:28.650268",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Harness Engineering What Every AI Engineer Needs to Know in 2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5925788107455815440,
+      "last_processed": "2026-09-24T02:01:28.651434",
+      "pages_updated": 0
+    },
+    "Agents/Agents/He Ran Claude In A Loop For Three Months. It Built Him A Programming Language.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4055977498205945126,
+      "last_processed": "2026-09-24T02:01:28.651806",
+      "pages_updated": 0
+    },
+    "Agents/Agents/He Spent 1,000 Hours Using Claude Code. Here\u2019s What He\u2019d Actually Tell You.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2583775131218983434,
+      "last_processed": "2026-09-24T02:01:28.652113",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Hermes Agent Tips & Best Practices Summary.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4422449546870401982,
+      "last_processed": "2026-09-24T02:01:28.652592",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Hermes integrates with Free OpenRouter\u2019s Elephant-Alpha Model.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4182827341905718180,
+      "last_processed": "2026-09-24T02:01:28.654279",
+      "pages_updated": 6
+    },
+    "Agents/Agents/How Claude Buries the Truth in Long Responses.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8678666549395448311,
+      "last_processed": "2026-09-24T02:01:28.654615",
+      "pages_updated": 0
+    },
+    "Agents/Agents/How I Actually Use Claude Code as a Senior Engineer Part 2.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8547089593244887224,
+      "last_processed": "2026-09-24T02:01:28.654980",
+      "pages_updated": 0
+    },
+    "Agents/Agents/How I Built a One-Person Real Estate Agent Team in Claude (2026)  Claude AI for Real Estate.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6384103559326135584,
+      "last_processed": "2026-09-24T02:01:28.655398",
+      "pages_updated": 0
+    },
+    "Agents/Agents/How I Built a Second Brain for Claude Code.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1777930280662136872,
+      "last_processed": "2026-09-24T02:01:28.655673",
+      "pages_updated": 0
+    },
+    "Agents/Agents/How Two People Support 40,000 Users in 195 Countries \u2014 Hermes Agents for Research, Claude Code for the Rest.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6235921717733081507,
+      "last_processed": "2026-09-24T02:01:28.656109",
+      "pages_updated": 0
+    },
+    "Agents/Agents/How do agents talk to each other A primer on the A2A protocol.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3781167496227961711,
+      "last_processed": "2026-09-24T02:01:28.656586",
+      "pages_updated": 0
+    },
+    "Agents/Agents/How to Automate Content Creation using Google Antigravity AI.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4766582392944372326,
+      "last_processed": "2026-09-24T02:01:28.656938",
+      "pages_updated": 0
+    },
+    "Agents/Agents/How to Automatically Document Your Repository with OpenWiki.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5204285489924878674,
+      "last_processed": "2026-09-24T02:01:28.658214",
+      "pages_updated": 2
+    },
+    "Agents/Agents/How to Avoid Claude Code Usage Limits Planning, Memory, Models, and Tools.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3853726049564914355,
+      "last_processed": "2026-09-24T02:01:28.659764",
+      "pages_updated": 2
+    },
+    "Agents/Agents/How to Build Production-Ready AI Agents MCP, CLI, and Skills \u2014 the Right Tool for the Right Job.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5282104016449790764,
+      "last_processed": "2026-09-24T02:01:28.660241",
+      "pages_updated": 0
+    },
+    "Agents/Agents/How to Build an AI Voice Agent in 2026 Architecture & Stack.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1667754210160050991,
+      "last_processed": "2026-09-24T02:01:28.661811",
+      "pages_updated": 1
+    },
+    "Agents/Agents/How to Create Loops with Claude Code A Practical Guide to Agentic Automation.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4792447953984090101,
+      "last_processed": "2026-09-24T02:01:28.665936",
+      "pages_updated": 5
+    },
+    "Agents/Agents/How to Fix Claude Code Usage Limits with OmniRoute (Add AI Fallbacks).md": {
+      "ingested": "2026-09-24",
+      "sha256": 4472736556319529049,
+      "last_processed": "2026-09-24T02:01:28.667404",
+      "pages_updated": 0
+    },
+    "Agents/Agents/How to Get $175 in Free API Credits for Claude Opus, GPT-6 Astra, and GLM-5.3.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1661922472026441186,
+      "last_processed": "2026-09-24T02:01:28.668529",
+      "pages_updated": 2
+    },
+    "Agents/Agents/How to Reduce Claude Tokens (and Actually Get More Out of Claude Code).md": {
+      "ingested": "2026-09-24",
+      "sha256": 1441172932284254521,
+      "last_processed": "2026-09-24T02:01:28.669366",
+      "pages_updated": 1
+    },
+    "Agents/Agents/How to give your coding agent browser access without handing it everything.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3446117844312167490,
+      "last_processed": "2026-09-24T02:01:28.669823",
+      "pages_updated": 0
+    },
+    "Agents/Agents/How to write an AGENTS.md Claude Code will actually follow.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1004946430350849286,
+      "last_processed": "2026-09-24T02:01:28.670655",
+      "pages_updated": 0
+    },
+    "Agents/Agents/How \u2018Playing Volleyball\u2019 with AI Agents Helped Me Predict Restaurant Turnover \u2014 and Win a Hackathon.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5554347172149335225,
+      "last_processed": "2026-09-24T02:01:28.671986",
+      "pages_updated": 0
+    },
+    "Agents/Agents/I Built Claude OS \u2014 A System That Turns Claude into an Execution Engine.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3213327091072617201,
+      "last_processed": "2026-09-24T02:01:28.674581",
+      "pages_updated": 4
+    },
+    "Agents/Agents/I Built Karpathy\u2019s LLM Wiki. Here\u2019s What It Changed.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4730160807991654059,
+      "last_processed": "2026-09-24T02:01:28.675246",
+      "pages_updated": 1
+    },
+    "Agents/Agents/I Built a 100% Local Multi-Agent Swarm on a MacBook. No APIs. No Cloud.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1799714427612404158,
+      "last_processed": "2026-09-24T02:01:28.676028",
+      "pages_updated": 0
+    },
+    "Agents/Agents/I Built a Niche Newsletter With AI Agents.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4266403100133628479,
+      "last_processed": "2026-09-24T02:01:28.680434",
+      "pages_updated": 10
+    },
+    "Agents/Agents/I Compared 6 Python AI Agent Frameworks So You Don\u2019t Have To LangGraph vs CrewAI vs PydanticAI vs OpenAI SDK vs Smolagents vs Google ADK.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5269417980113886809,
+      "last_processed": "2026-09-24T02:01:28.681308",
+      "pages_updated": 2
+    },
+    "Agents/Agents/I Deleted Linear. My Roadmap Is a Markdown File My Agents Read.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3109973758565964267,
+      "last_processed": "2026-09-24T02:01:28.681655",
+      "pages_updated": 0
+    },
+    "Agents/Agents/I Fixed Everything Wrong With Claude Code (5 Best Claude Plugins).md": {
+      "ingested": "2026-09-24",
+      "sha256": -6263995734965368118,
+      "last_processed": "2026-09-24T02:01:28.682938",
+      "pages_updated": 3
+    },
+    "Agents/Agents/I Followed the AI Coding Advice Everyone Recommends. It Made Things Worse.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7846399073127567963,
+      "last_processed": "2026-09-24T02:01:28.683504",
+      "pages_updated": 0
+    },
+    "Agents/Agents/I Forked 5 AI Agent Frameworks in a Week. Here\u2019s What Each One Actually Solves.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5458094003980004517,
+      "last_processed": "2026-09-24T02:01:28.683800",
+      "pages_updated": 0
+    },
+    "Agents/Agents/I Found an Open Knowledge Format on GitHub - and It Changed How I Think About AI Agents.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8366490407830651512,
+      "last_processed": "2026-09-24T02:01:28.689474",
+      "pages_updated": 1
+    },
+    "Agents/Agents/I Gave Claude Code Memory Between Sessions.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1983877939192942699,
+      "last_processed": "2026-09-24T02:01:28.689999",
+      "pages_updated": 0
+    },
+    "Agents/Agents/I Gave Claude a Memory. Here\u2019s What Changed.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7789795090939172692,
+      "last_processed": "2026-09-24T02:01:28.690372",
+      "pages_updated": 0
+    },
+    "Agents/Agents/I Gave My Agent 200 Words of Memory Instead of a Vector Database.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8978123729070541955,
+      "last_processed": "2026-09-24T02:01:28.691932",
+      "pages_updated": 1
+    },
+    "Agents/Agents/I Gave My Hermes Agent Memory. Then It Started Lying to Me With Confidence.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7598027073351901079,
+      "last_processed": "2026-09-24T02:01:28.692623",
+      "pages_updated": 1
+    },
+    "Agents/Agents/I Gave an AI Agent Access to My Files\u2026 Then I Stopped It.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8227492722738992764,
+      "last_processed": "2026-09-24T02:01:28.692913",
+      "pages_updated": 0
+    },
+    "Agents/Agents/I Let the Agents Write the Tests Designed to Break My Own Code (IV).md": {
+      "ingested": "2026-09-24",
+      "sha256": -5813359786366938980,
+      "last_processed": "2026-09-24T02:01:28.693251",
+      "pages_updated": 0
+    },
+    "Agents/Agents/I Made One Claude Code Session the Developer and Another the QA.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7065851989562633000,
+      "last_processed": "2026-09-24T02:01:28.693818",
+      "pages_updated": 0
+    },
+    "Agents/Agents/I Moved My Claude Code Skills Into Codex. Here\u2019s What Survived.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7459843798098289300,
+      "last_processed": "2026-09-24T02:01:28.694291",
+      "pages_updated": 0
+    },
+    "Agents/Agents/I Put Qwen3.8\u201327B Inside Claude Code. It Finally Felt Like Opus.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3729061336522778743,
+      "last_processed": "2026-09-24T02:01:28.694715",
+      "pages_updated": 0
+    },
+    "Agents/Agents/I Review Pull Requests With AI From My Terminal \u2014 Here\u2019s How to Set It Up in 15 Minutes.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4271891890308764127,
+      "last_processed": "2026-09-24T02:01:28.696181",
+      "pages_updated": 1
+    },
+    "Agents/Agents/I Spent a Year Using Claude Wrong. Then I Built These 5 Layers.md": {
+      "ingested": "2026-09-24",
+      "sha256": 513672714930387268,
+      "last_processed": "2026-09-24T02:01:28.696639",
+      "pages_updated": 0
+    },
+    "Agents/Agents/I Stopped Prompting Claude. Instead I Built a System That Prompts Itself.md": {
+      "ingested": "2026-09-24",
+      "sha256": 444624413472725647,
+      "last_processed": "2026-09-24T02:01:28.699431",
+      "pages_updated": 5
+    },
+    "Agents/Agents/I Tested 10 Claude Features. These 5 Actually Matter.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6963980293462734457,
+      "last_processed": "2026-09-24T02:01:28.699869",
+      "pages_updated": 0
+    },
+    "Agents/Agents/I Tested Freebuff for 3 Days. Here\u2019s What \u201cFree\u201d Actually Costs.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2163644989676226551,
+      "last_processed": "2026-09-24T02:01:28.700395",
+      "pages_updated": 0
+    },
+    "Agents/Agents/I gave an agent a goal. It spent $40 proving it was busy.md": {
+      "ingested": "2026-09-24",
+      "sha256": -963809751968321731,
+      "last_processed": "2026-09-24T02:01:28.700807",
+      "pages_updated": 1
+    },
+    "Agents/Agents/I was wrong about what an agent skill is for.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1747210508172459826,
+      "last_processed": "2026-09-24T02:01:28.701081",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Introducing Keystone Rails for your repo harness.md": {
+      "ingested": "2026-09-24",
+      "sha256": -52982436432024789,
+      "last_processed": "2026-09-24T02:01:28.701632",
+      "pages_updated": 1
+    },
+    "Agents/Agents/KiroCrew Is New. My Knowledge Base Is Not.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2121854852173434235,
+      "last_processed": "2026-09-24T02:01:28.701937",
+      "pages_updated": 0
+    },
+    "Agents/Agents/LangGraph vs CrewAI vs Claude Agent SDK Which AI Agent Framework Actually Wins in 2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7064686841376807112,
+      "last_processed": "2026-09-24T02:01:28.702990",
+      "pages_updated": 3
+    },
+    "Agents/Agents/Loop Engineering + Graph Engineering Building a Compounding Second Brain with OKF-based LLM Wiki.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6802448554849653650,
+      "last_processed": "2026-09-24T02:01:28.703947",
+      "pages_updated": 2
+    },
+    "Agents/Agents/MCP vs A2A in one diagram tools vs teammates.md": {
+      "ingested": "2026-09-24",
+      "sha256": 26528753627467404,
+      "last_processed": "2026-09-24T02:01:28.704354",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Memory System Behind $10B Invite-Only Personal Agent.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3284599233861604069,
+      "last_processed": "2026-09-24T02:01:28.705296",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Moshi and Herdr Control Your AI Coding Agents From Your Phone.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7890116376036246761,
+      "last_processed": "2026-09-24T02:01:28.707549",
+      "pages_updated": 4
+    },
+    "Agents/Agents/Most people building AI agents make the same mistake they create one powerful agent, connect every available tool to it, write a long system prompt, and expect it to handle everything.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8456316503569823659,
+      "last_processed": "2026-09-24T02:01:28.707898",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Multi-Agent Coding Tools Why Developers Are Moving Beyond Claude Code.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7151788260541655401,
+      "last_processed": "2026-09-24T02:01:28.717966",
+      "pages_updated": 0
+    },
+    "Agents/Agents/My AI Agent is in ~Top-0.01% of WorldQuant Challenge 4 Context Engineering.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1475194984573013335,
+      "last_processed": "2026-09-24T02:01:28.719091",
+      "pages_updated": 1
+    },
+    "Agents/Agents/My Agents Agreed on Everything Except What Happened (15).md": {
+      "ingested": "2026-09-24",
+      "sha256": -8568670342099392721,
+      "last_processed": "2026-09-24T02:01:28.719474",
+      "pages_updated": 0
+    },
+    "Agents/Agents/My Experience Migrating from cmux to Orca A Powerful Tool for Multi-Agent Parallel Verification.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6220173249845665026,
+      "last_processed": "2026-09-24T02:01:28.719981",
+      "pages_updated": 1
+    },
+    "Agents/Agents/My Team Prompts Claude Code. I Loop It Instead \ud83d\udd01.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2527302221617058778,
+      "last_processed": "2026-09-24T02:01:28.720476",
+      "pages_updated": 0
+    },
+    "Agents/Agents/NVIDIA\u2019s NOOA Proves the Harness Matters More Than the Model, and Everyone\u2019s Watching the Wrong\u2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6523303512954964422,
+      "last_processed": "2026-09-24T02:01:28.721115",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Navigating the AI Frontier My Deep Dive into the Manufact MCP Framework.md": {
+      "ingested": "2026-09-24",
+      "sha256": -115845634383406994,
+      "last_processed": "2026-09-24T02:01:28.721574",
+      "pages_updated": 0
+    },
+    "Agents/Agents/New Agent 365 controls for Microsoft admins.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8256251840375068582,
+      "last_processed": "2026-09-24T02:01:28.722067",
+      "pages_updated": 0
+    },
+    "Agents/Agents/New Workshop Building Multi-Agent Deep Search Systems from Scratch+ 20% Early Bird Discount.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2939317653726241563,
+      "last_processed": "2026-09-24T02:01:28.722396",
+      "pages_updated": 1
+    },
+    "Agents/Agents/OKF Is More Than Markdown How I Think About a Portable Knowledge Layer for AI Agents.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1914300757367137028,
+      "last_processed": "2026-09-24T02:01:28.723665",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Obsidian as a Durable Control Plane for Sequential Hermes Jobs.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1116862230553758145,
+      "last_processed": "2026-09-24T02:01:28.724332",
+      "pages_updated": 1
+    },
+    "Agents/Agents/One Year of Agentic AI 6 Lessons From the Trenches.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2980190055181914333,
+      "last_processed": "2026-09-24T02:01:28.724733",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Open Code Review Alibaba My Deep Dive into the Hybrid AI That's Changing PRs.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4353282215499739663,
+      "last_processed": "2026-09-24T02:01:28.726065",
+      "pages_updated": 2
+    },
+    "Agents/Agents/OpenAI Launches Agents API You No Longer Need To Build Your Own Agent Framework From Scratch.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8811333307938300399,
+      "last_processed": "2026-09-24T02:01:28.726545",
+      "pages_updated": 1
+    },
+    "Agents/Agents/OpenAI\u2019s Agents API The Code You May No Longer Need to Write.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8089371224094542339,
+      "last_processed": "2026-09-24T02:01:28.727411",
+      "pages_updated": 1
+    },
+    "Agents/Agents/OpenWiki\u2019s OKF Connection.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7985699999257302872,
+      "last_processed": "2026-09-24T02:01:28.728011",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Orca The tmux for the AI Era, Better AI Agent Management.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4745486198541134174,
+      "last_processed": "2026-09-24T02:01:28.729013",
+      "pages_updated": 2
+    },
+    "Agents/Agents/Packhorse Harness Run Claude Code in Docker and Use Your Own AI Models.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4792991213101402697,
+      "last_processed": "2026-09-24T02:01:28.729453",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Paperclip AI Open source platform focused on turning ai agents into a company.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7866660443798529437,
+      "last_processed": "2026-09-24T02:01:28.729886",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Rebuilt Hermes Inside Claude Code.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4054214904182843490,
+      "last_processed": "2026-09-24T02:01:28.732585",
+      "pages_updated": 2
+    },
+    "Agents/Agents/Rules and Skills for ai Agents.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2156559704859072219,
+      "last_processed": "2026-09-24T02:01:28.732841",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Scaling Hermes with profiles and project lanes.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4794144377216966902,
+      "last_processed": "2026-09-24T02:01:28.733317",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Sparse MoE vs Speculative Decoding The Fastest Way to Run a Local Coding LLM on Apple Silicon.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6168247517510673154,
+      "last_processed": "2026-09-24T02:01:28.734989",
+      "pages_updated": 3
+    },
+    "Agents/Agents/Spec-Driven Development Development Over Time and Why You Need To Learn It.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3660121939170134056,
+      "last_processed": "2026-09-24T02:01:28.735360",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Spec-Driven Development with AI Coding Agents The Definitive Guide.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6705482503365072530,
+      "last_processed": "2026-09-24T02:01:28.736249",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Spec-Driven Development with Claude Code A Practical Guide.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3965279108699058201,
+      "last_processed": "2026-09-24T02:01:28.737030",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Spec-driven development with GitHub Copilot.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2457277721569002067,
+      "last_processed": "2026-09-24T02:01:28.737431",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Specialized Wrappers, Durable Skills, and the Path from Tools to AI Agents.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8129095287836204485,
+      "last_processed": "2026-09-24T02:01:28.737920",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Stop Overpaying for Claude \u2014 The Advisor Pattern Saves 85% Hands-On Guide.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1672311257587429786,
+      "last_processed": "2026-09-24T02:01:28.739470",
+      "pages_updated": 2
+    },
+    "Agents/Agents/Stop Treating Claude Code Like a Junior Developer A Better Way to Manage AI Coding Agents.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3756478673458698052,
+      "last_processed": "2026-09-24T02:01:28.740000",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Stop Watching Your Coding Agent Build a System You Can Trust.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5079463633952895476,
+      "last_processed": "2026-09-24T02:01:28.740683",
+      "pages_updated": 0
+    },
+    "Agents/Agents/TechLatest AI & Tech Weekly 33.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8525687122689823540,
+      "last_processed": "2026-09-24T02:01:28.741478",
+      "pages_updated": 0
+    },
+    "Agents/Agents/The AI Agent Factory Stack 2026Map of Tools for Building, Orchestrating and Operating AI Agents.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8970157023277151624,
+      "last_processed": "2026-09-24T02:01:28.741981",
+      "pages_updated": 0
+    },
+    "Agents/Agents/The AI Agents Stack (2026 Edition).md": {
+      "ingested": "2026-09-24",
+      "sha256": -8859012892948348789,
+      "last_processed": "2026-09-24T02:01:28.743618",
+      "pages_updated": 3
+    },
+    "Agents/Agents/The Agent Is Stuck in Front of a Dropdown It Cannot See State in Xcode\u2019s MCP.md": {
+      "ingested": "2026-09-24",
+      "sha256": -363258969799902403,
+      "last_processed": "2026-09-24T02:01:28.744670",
+      "pages_updated": 0
+    },
+    "Agents/Agents/The Best AI Model Doesn\u2019t Exist.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7032535007854097148,
+      "last_processed": "2026-09-24T02:01:28.745476",
+      "pages_updated": 0
+    },
+    "Agents/Agents/The Cheapest Way to Cut Your AI Bill Is a More Expensive Model.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2371794801455319487,
+      "last_processed": "2026-09-24T02:01:28.745997",
+      "pages_updated": 0
+    },
+    "Agents/Agents/The Claude Code Security Library That Made Me Forget About My Portfolio.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3120469081452704838,
+      "last_processed": "2026-09-24T02:01:28.746536",
+      "pages_updated": 0
+    },
+    "Agents/Agents/The Claude Code Setup Most People Miss Memory, Skills, Subagents, and Plugins.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6324751992999601745,
+      "last_processed": "2026-09-24T02:01:28.747361",
+      "pages_updated": 1
+    },
+    "Agents/Agents/The Claude Routine That Replaced My Evening Routine.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5612663300782497650,
+      "last_processed": "2026-09-24T02:01:28.747777",
+      "pages_updated": 0
+    },
+    "Agents/Agents/The Claude Skill That Finally Explains Why AI Writing Sounds Like AI  This Claude Skill That Edits Like a Human Editor, Not a Filter.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2536243095461563674,
+      "last_processed": "2026-09-24T02:01:28.748662",
+      "pages_updated": 1
+    },
+    "Agents/Agents/The Complete Guide to AI Agent Memory Files (CLAUDE.md, AGENTS.md, and Beyond).md": {
+      "ingested": "2026-09-24",
+      "sha256": 7471447415498584182,
+      "last_processed": "2026-09-24T02:01:28.749928",
+      "pages_updated": 1
+    },
+    "Agents/Agents/The Daily Claude Code Habits that Make the Biggest Difference.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7418170740433005484,
+      "last_processed": "2026-09-24T02:01:28.750510",
+      "pages_updated": 0
+    },
+    "Agents/Agents/The Dawn of Recursive Self-Improvement How NeoHorse-1 and the Industry Are Closing the AI Feedback Loop.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7388460331577275866,
+      "last_processed": "2026-09-24T02:01:28.750922",
+      "pages_updated": 0
+    },
+    "Agents/Agents/The Hidden Cost of AI Agents Nobody Talks About.md": {
+      "ingested": "2026-09-24",
+      "sha256": 687708912560188851,
+      "last_processed": "2026-09-24T02:01:28.751357",
+      "pages_updated": 0
+    },
+    "Agents/Agents/The Laziest Way to Give All Your AI Agents One Brain.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4525223008147138772,
+      "last_processed": "2026-09-24T02:01:28.753442",
+      "pages_updated": 5
+    },
+    "Agents/Agents/The Missing Harness for AI Coding Why uv Makes AI TUIs More Deterministic.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1621322972648380025,
+      "last_processed": "2026-09-24T02:01:28.753847",
+      "pages_updated": 0
+    },
+    "Agents/Agents/The Real Cost of Running an AI Agent You Own.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3137821810080276014,
+      "last_processed": "2026-09-24T02:01:28.754185",
+      "pages_updated": 0
+    },
+    "Agents/Agents/The Road to Unlimited Agent Memory \u2014 Layered Memory.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3034008445382758956,
+      "last_processed": "2026-09-24T02:01:28.754651",
+      "pages_updated": 0
+    },
+    "Agents/Agents/The Second Brain Graph Is the Spec and Much More.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3208940284032862371,
+      "last_processed": "2026-09-24T02:01:28.755583",
+      "pages_updated": 0
+    },
+    "Agents/Agents/The Second Runtime Loop Engineering and the Harness Around It II.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7002786711931097404,
+      "last_processed": "2026-09-24T02:01:28.758121",
+      "pages_updated": 3
+    },
+    "Agents/Agents/The Seven-Layer Memory Graph for Coding Agents How Claude Code, Graphify, Obsidian and Karpathy\u2019s LLM Wiki Finally Stop Forgetting.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1133786767355610306,
+      "last_processed": "2026-09-24T02:01:28.758770",
+      "pages_updated": 0
+    },
+    "Agents/Agents/The Shifting Role of Programmers From Code Writers to AI Agent Architects.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8899903944458516197,
+      "last_processed": "2026-09-24T02:01:28.759222",
+      "pages_updated": 0
+    },
+    "Agents/Agents/The Subagents Guide I Wish I\u2019d Had.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3974912034533033852,
+      "last_processed": "2026-09-24T02:01:28.761029",
+      "pages_updated": 2
+    },
+    "Agents/Agents/The Three Layers of Memory in the Claude Agent SDK.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7446057039296362256,
+      "last_processed": "2026-09-24T02:01:28.761446",
+      "pages_updated": 0
+    },
+    "Agents/Agents/The Three Levers That Get AI Architecture Approved.md": {
+      "ingested": "2026-09-24",
+      "sha256": -910554263102195321,
+      "last_processed": "2026-09-24T02:01:28.761891",
+      "pages_updated": 0
+    },
+    "Agents/Agents/The Unexpected AI Stack C + .NET (Part 4).md": {
+      "ingested": "2026-09-24",
+      "sha256": -5586582641916450786,
+      "last_processed": "2026-09-24T02:01:28.762886",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Thirteen Things Nobody Warns You About Using AI.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4926008007543012008,
+      "last_processed": "2026-09-24T02:01:28.763339",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Three Folders My Claude Setup Is Not Allowed to Read Anymore (And Why I Made This Decision).md": {
+      "ingested": "2026-09-24",
+      "sha256": 130654639639730777,
+      "last_processed": "2026-09-24T02:01:28.764022",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Three coding agents, one subscription key what Explyt 5.19 changes.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5762572326207592407,
+      "last_processed": "2026-09-24T02:01:28.764527",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Tool vs Skill vs Agent \u2014 Stop Nodding Along in AI Meetings.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1570303287924393070,
+      "last_processed": "2026-09-24T02:01:28.766378",
+      "pages_updated": 4
+    },
+    "Agents/Agents/Top 10 JEV Use Cases in Agentic Apps. Ranked by Theoretical Gain Over LLMs.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1896199691083583882,
+      "last_processed": "2026-09-24T02:01:28.767164",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Top LLM Observability Platforms in 2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1887001820754922998,
+      "last_processed": "2026-09-24T02:01:28.768297",
+      "pages_updated": 2
+    },
+    "Agents/Agents/Vercel went from ten SDRs to one person checking an agent, and the job left over is the whiteboard.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4031339106577332090,
+      "last_processed": "2026-09-24T02:01:28.768652",
+      "pages_updated": 0
+    },
+    "Agents/Agents/We Were Wrong About Anthropic.md": {
+      "ingested": "2026-09-24",
+      "sha256": 646707015814907408,
+      "last_processed": "2026-09-24T02:01:28.768961",
+      "pages_updated": 0
+    },
+    "Agents/Agents/WebMCP Giving AI Agents Real Tools Instead of Letting Them Guess Your DOM.md": {
+      "ingested": "2026-09-24",
+      "sha256": -9145270531330819421,
+      "last_processed": "2026-09-24T02:01:28.769465",
+      "pages_updated": 0
+    },
+    "Agents/Agents/What Broke When I Let My AI Agents Run Overnight.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8125947401895027236,
+      "last_processed": "2026-09-24T02:01:28.769880",
+      "pages_updated": 0
+    },
+    "Agents/Agents/What Happened When Claude Saw the Notes I Wrote Like Nobody\u2019s Reading.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3228280365610685500,
+      "last_processed": "2026-09-24T02:01:28.770317",
+      "pages_updated": 0
+    },
+    "Agents/Agents/What Is Agentic AI From LLMs to Autonomous AI Systems.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5669841974369140844,
+      "last_processed": "2026-09-24T02:01:28.772054",
+      "pages_updated": 3
+    },
+    "Agents/Agents/When Vibe coding actually works \u2014 a case study using DeepSeek Harness.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3410307831528710241,
+      "last_processed": "2026-09-24T02:01:28.772321",
+      "pages_updated": 0
+    },
+    "Agents/Agents/When Your Coding Agent Builds its Own Citation Trail.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5661138566767389260,
+      "last_processed": "2026-09-24T02:01:28.772669",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Why AI Agents Need Memory, Tools and Planning.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1213992344330359314,
+      "last_processed": "2026-09-24T02:01:28.773997",
+      "pages_updated": 4
+    },
+    "Agents/Agents/Why MD Files Are the Reason Your AI Agent Fails.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4858164663431215123,
+      "last_processed": "2026-09-24T02:01:28.774293",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Why Your $2,000 AI Agent Setup Is Bottlenecked by Your Desk.md": {
+      "ingested": "2026-09-24",
+      "sha256": 532695123506546892,
+      "last_processed": "2026-09-24T02:01:28.774573",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Why Your Agent Needs Memory, and How to Organize It.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3589327935689776329,
+      "last_processed": "2026-09-24T02:01:28.776206",
+      "pages_updated": 2
+    },
+    "Agents/Agents/Writing HTML For Documentation Instead of Markdown is a Game-Changer.md": {
+      "ingested": "2026-09-24",
+      "sha256": -142647326612151047,
+      "last_processed": "2026-09-24T02:01:28.776604",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Your AGENTS.md File Is Making Your AI Coder only 3% better.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7202695777227673495,
+      "last_processed": "2026-09-24T02:01:28.777195",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Your AI Agent Can Now Use Your Logged-In Browser. Here\u2019s How to Let It Without Handing Over the Keys.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8008899192842984219,
+      "last_processed": "2026-09-24T02:01:28.777979",
+      "pages_updated": 1
+    },
+    "Agents/Agents/Your AI Agent Is Stuck in a Loop. Here Are 11 Ways to Fix It 1.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4407814399093307118,
+      "last_processed": "2026-09-24T02:01:28.778505",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Your AI Agent Is Stuck in a Loop. Here Are 11 Ways to Fix It.md": {
+      "ingested": "2026-09-24",
+      "sha256": -9158949081898034067,
+      "last_processed": "2026-09-24T02:01:28.779095",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Your AI Agent Keeps Re-Discovering Your Codebase. I Built the Tool That Stops It.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5040064977309349223,
+      "last_processed": "2026-09-24T02:01:28.779821",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Your AI Agent\u2019s Token Bill Is 5 to 30 Times Higher Than You Budgeted For, and Gartner Says That\u2019s the Normal Case.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3527994506711532812,
+      "last_processed": "2026-09-24T02:01:28.780158",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Your Agent Keeps Making the Same Mistake. Start With Its Skills.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2079270704736898822,
+      "last_processed": "2026-09-24T02:01:28.780706",
+      "pages_updated": 0
+    },
+    "Agents/Agents/Your Dashboard Says 200 OK. Your Agent Still Gave the Wrong Answer. Here\u2019s the Missing Layer.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2198583329540402842,
+      "last_processed": "2026-09-24T02:01:28.781147",
+      "pages_updated": 0
+    },
+    "Agents/Agents/You\u2019re not running out of Claude tokens. You\u2019re wasting them.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4744484927090806675,
+      "last_processed": "2026-09-24T02:01:28.782525",
+      "pages_updated": 3
+    },
+    "Agents/Agents/i-have-adhd Has Ten Rules for Coding Agents. Rule 8 Is the One Worth Knowing.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4225541998176416591,
+      "last_processed": "2026-09-24T02:01:28.783149",
+      "pages_updated": 1
+    },
+    "Agents/Harnesses/OpenHarness Lets Developers Run 14 Coding Agents Across Machines at Once.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3542298482145885599,
+      "last_processed": "2026-09-24T02:01:28.783328",
+      "pages_updated": 0
+    },
+    "Agents/Hermes/AI Agent Collaboration An OpenCode Playbook Built on AGENTS.md and SKILL.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7842853997920612797,
+      "last_processed": "2026-09-24T02:01:28.785586",
+      "pages_updated": 3
+    },
+    "Agents/Hermes/Grok Build vs Hermes vs Claude Code Which AI Coding Agent Fits Your Team in 2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": 322689959939899684,
+      "last_processed": "2026-09-24T02:01:28.786133",
+      "pages_updated": 0
+    },
+    "Agents/Hermes/Hermes Agent Herald Update Real-Time Voice and Agent-to-Agent Communication Are Here.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3053812261181576478,
+      "last_processed": "2026-09-24T02:01:28.786562",
+      "pages_updated": 1
+    },
+    "Agents/Hermes/Hermes Skill Prompts/As a Developer, I Shut These 8 Browser Tabs for Good \u2014 Thanks to These Mac Apps.md": {
+      "ingested": "2026-09-24",
+      "sha256": -681178455520056556,
+      "last_processed": "2026-09-24T02:01:28.788962",
+      "pages_updated": 3
+    },
+    "Agents/Hermes/Hermes Skill Prompts/I Gave Claude Four Extra Skills. My Output Changed More Than My Prompts Ever Did.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2104255282243217577,
+      "last_processed": "2026-09-24T02:01:28.789648",
+      "pages_updated": 1
+    },
+    "Agents/Hermes/Hermes Skill Prompts/I Ran 5 of My Own Startup Ideas Through My Validation Skill. It Killed Three.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5425006527204466739,
+      "last_processed": "2026-09-24T02:01:28.790033",
+      "pages_updated": 0
+    },
+    "Agents/Hermes/Hermes Skill Prompts/Is GLM-5.3-Flash really as good as Claude Opus 4.8.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3950379550286117738,
+      "last_processed": "2026-09-24T02:01:28.790461",
+      "pages_updated": 0
+    },
+    "Agents/Hermes/How to Use Codex in VS Code From First Task to Reliable Agent Workflow.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2913667947240783218,
+      "last_processed": "2026-09-24T02:01:28.791395",
+      "pages_updated": 0
+    },
+    "Agents/Hermes/I Gave My AI Coding Agent 2,323 Specialized Skills. Context Bloat Completely Disappeared.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3808813983116569963,
+      "last_processed": "2026-09-24T02:01:28.792604",
+      "pages_updated": 3
+    },
+    "Agents/Hermes/I Migrated All My AI Agent Skills from OpenCode to Google Antigravity \u2014 Here\u2019s Why (and How).md": {
+      "ingested": "2026-09-24",
+      "sha256": -3841216685406881932,
+      "last_processed": "2026-09-24T02:01:28.793247",
+      "pages_updated": 1
+    },
+    "Agents/Hermes/Jump Ship in Minutes Codex OAuth Now Works in OpenCode.md": {
+      "ingested": "2026-09-24",
+      "sha256": -991113231530469981,
+      "last_processed": "2026-09-24T02:01:28.793574",
+      "pages_updated": 0
+    },
+    "Agents/Hermes/Oh My Opencode (OMO) Transforming Solo Developers into AI-Powered Teams.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3754998220687576222,
+      "last_processed": "2026-09-24T02:01:28.794294",
+      "pages_updated": 1
+    },
+    "Agents/Hermes/OpenClaude Agent Masterclass \u2014 Full Tutorial.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2956896527512119343,
+      "last_processed": "2026-09-24T02:01:28.796851",
+      "pages_updated": 9
+    },
+    "Agents/Hermes/OpenCode Auto-Lint Your AI Agent\u2019s Code with a Post-Turn Biome Hook.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6611029561451339743,
+      "last_processed": "2026-09-24T02:01:28.817910",
+      "pages_updated": 0
+    },
+    "Agents/Hermes/OpenCode The Terminal-Native AI Coding Agent That Actually Gets It.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4634388950968758906,
+      "last_processed": "2026-09-24T02:01:28.818697",
+      "pages_updated": 1
+    },
+    "Tools/LM Studio's Bionic Lets Developers Draw Architecture and Code It Instantly.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8667470885425316132,
+      "last_processed": "2026-09-24T02:01:28.818819",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/5 Mac Apps if you vibe code all day.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6616013130902414805,
+      "last_processed": "2026-09-24T02:01:28.819771",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/7 LLMs Pre-Converted to Apple\u2019s Core AI Format (.aimodel), Now on Hugging Face.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3292385873201486249,
+      "last_processed": "2026-09-24T02:01:28.820282",
+      "pages_updated": 1
+    },
+    "Hardware/Hardware/A 27B Model Now Fits on an 8 GB GPU \u2014 and That Is Where It Gets Complicated.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1151480578494121305,
+      "last_processed": "2026-09-24T02:01:28.821003",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/Apple Silicon\u2019s LLM Stack Has Three Layers. Here\u2019s Which One You Should Actually Be Using.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4434925382238781577,
+      "last_processed": "2026-09-24T02:01:28.823761",
+      "pages_updated": 5
+    },
+    "Hardware/Hardware/Artificial Intelligence in Plain English.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3659287792245152156,
+      "last_processed": "2026-09-24T02:01:28.824359",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/Best Local LLMs for Apple\u2019s New Mac mini and Mac Studio.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1067970992369174673,
+      "last_processed": "2026-09-24T02:01:28.825272",
+      "pages_updated": 2
+    },
+    "Hardware/Hardware/Bonsai-27B Runs on a 16 GB M4 Mac mini with 4.2 GB of RAM \u2014 1-Bit Quantization with MLX.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4058551639309907449,
+      "last_processed": "2026-09-24T02:01:28.826028",
+      "pages_updated": 1
+    },
+    "Hardware/Hardware/Creating an AI feature that costs just $0.001 per query is like magic.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7834774996647936955,
+      "last_processed": "2026-09-24T02:01:28.826527",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/How I Built My Own Local Voice AI Assistant \u201cJarvis\u201d on Mac Using MLX and Qwen.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3996575702972971949,
+      "last_processed": "2026-09-24T02:01:28.827379",
+      "pages_updated": 2
+    },
+    "Hardware/Hardware/How I Turned My Laptop into a Full-Time AI Developer \u2014 And Watched It Outperform Me.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8625569947081580136,
+      "last_processed": "2026-09-24T02:01:28.828440",
+      "pages_updated": 1
+    },
+    "Hardware/Hardware/How Will AI Companies Make Money.md": {
+      "ingested": "2026-09-24",
+      "sha256": -802725340241552799,
+      "last_processed": "2026-09-24T02:01:28.829689",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/How to Run OpenCode Remotely on a Mac Using VS Code and SSH.md": {
+      "ingested": "2026-09-24",
+      "sha256": 747147224879777610,
+      "last_processed": "2026-09-24T02:01:28.830285",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/I Doubled My Qwen3.8-Flash-Next Speed on RTX GPUs \u2014 and llama.cpp Still Won\u2019t Ship the Feature.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3455222883871522687,
+      "last_processed": "2026-09-24T02:01:28.830710",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/I Found the Best MacBook Notch Apps in 2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": 854952320707804291,
+      "last_processed": "2026-09-24T02:01:28.831128",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/I Stopped Opening ChatGPT on My Mac. Siri Now Handles 7 Parts of My Semester \ud83d\udc68\ud83c\udffd\u200d\ud83c\udf93.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1709214281826189843,
+      "last_processed": "2026-09-24T02:01:28.832096",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/If You Understand These 5 AI Terms, You\u2019re Ahead of 90% of People.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4757894744552754732,
+      "last_processed": "2026-09-24T02:01:28.832649",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/Insane! Run Kimi K3, 2.8 Trillion Parameters, on a Single 4GB GPU.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6794628427649076348,
+      "last_processed": "2026-09-24T02:01:28.833162",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/Is oMLX Worth Installing on Your Mac in 2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3600734608370830196,
+      "last_processed": "2026-09-24T02:01:28.833992",
+      "pages_updated": 2
+    },
+    "Hardware/Hardware/Local LLMs Are Not a Toy Anymore I Ran Private AI on My Laptop and It Changed How I Think About AI.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4203425294230290904,
+      "last_processed": "2026-09-24T02:01:28.835158",
+      "pages_updated": 2
+    },
+    "Hardware/Hardware/M5 MacBook Pro or NVIDIA DGX Spark or RTX PRO 6000.md": {
+      "ingested": "2026-09-24",
+      "sha256": 70700787821922014,
+      "last_processed": "2026-09-24T02:01:28.836226",
+      "pages_updated": 2
+    },
+    "Hardware/Hardware/Mac Studio M5 vs Ryzen AI Max+ 395 for Local AI What Actually Matters.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4235817006294014617,
+      "last_processed": "2026-09-24T02:01:28.837240",
+      "pages_updated": 3
+    },
+    "Hardware/Hardware/NVIDIA Just Put a 120-Billion-Parameter AI Model in Your Laptop. Here\u2019s What That Actually Changes.md": {
+      "ingested": "2026-09-24",
+      "sha256": 217638252444145467,
+      "last_processed": "2026-09-24T02:01:28.838004",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/NVIDIA vs AMD for Local LLMs in 2026 The Honest State of ROCm.md": {
+      "ingested": "2026-09-24",
+      "sha256": -873909931415428037,
+      "last_processed": "2026-09-24T02:01:28.839143",
+      "pages_updated": 2
+    },
+    "Hardware/Hardware/Needle 2 The 14MB Foundation Model That Puts AI on Tiny Devices.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7774785231475899446,
+      "last_processed": "2026-09-24T02:01:28.839945",
+      "pages_updated": 1
+    },
+    "Hardware/Hardware/Remote desktop software for Mac worth using when working across two machines.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5784537873912193812,
+      "last_processed": "2026-09-24T02:01:28.840205",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/Run Qwen Locally in Opencode with Ollama.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1116499448081681885,
+      "last_processed": "2026-09-24T02:01:28.840576",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/Running a Local AI Development Environment on a Mac Mini M4 with Ollama.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4963979742492550666,
+      "last_processed": "2026-09-24T02:01:28.841742",
+      "pages_updated": 3
+    },
+    "Hardware/Hardware/The $10K Sovereign AI Cluster How SMBs Run 100B+ Models on Apple Silicon Hardware.md": {
+      "ingested": "2026-09-24",
+      "sha256": -409890477351969258,
+      "last_processed": "2026-09-24T02:01:28.842239",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/The 2026 Memory Crisis Killed Most Local LLM Builds. Here\u2019s the Map That Still Works.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6961361225203116003,
+      "last_processed": "2026-09-24T02:01:28.842751",
+      "pages_updated": 1
+    },
+    "Hardware/Hardware/The 5 llama.cpp Parameters That Actually Matter.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7114961718909168342,
+      "last_processed": "2026-09-24T02:01:28.843519",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/The Best GPU to Buy in Late 2026 Is (Mostly) Not a New One.md": {
+      "ingested": "2026-09-24",
+      "sha256": -897480978847984817,
+      "last_processed": "2026-09-24T02:01:28.843943",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/The myth of uncontrollable AI.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7840885338246912163,
+      "last_processed": "2026-09-24T02:01:28.844806",
+      "pages_updated": 1
+    },
+    "Hardware/Hardware/This $7 App Makes Your MacBook Moan and Made $5000 in 3 Days.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4795755436818380911,
+      "last_processed": "2026-09-24T02:01:28.845132",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/What Happens When Smarter AI Becomes Harder to Control.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7602322563660772871,
+      "last_processed": "2026-09-24T02:01:28.845645",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/What is Bonsai 2 Why a 27B Model Now Fits on the Laptop You Already Own.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2932520821426907973,
+      "last_processed": "2026-09-24T02:01:28.846260",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/Write for AI Advances and AI Advances Briefs.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7516483508275053226,
+      "last_processed": "2026-09-24T02:01:28.847388",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/Xalgorix The Most Powerful Open-Source AI Pentesting Agent You Need to Know About.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1361373808470022803,
+      "last_processed": "2026-09-24T02:01:28.850275",
+      "pages_updated": 7
+    },
+    "Hardware/Hardware/Your AI Agent is Dumb as a Nuke.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8725484744248267761,
+      "last_processed": "2026-09-24T02:01:28.850634",
+      "pages_updated": 0
+    },
+    "Hardware/Hardware/iPhone 18 Pro Max is $100 more at $1,299. Who should skip it.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4880558059888911316,
+      "last_processed": "2026-09-24T02:01:28.850988",
+      "pages_updated": 1
+    },
+    "Hardware/Hardware/macOS 27 Has a Hidden LLM Inside \u2014 10 (Amazing) Things You Can Do With It.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5647952942227859563,
+      "last_processed": "2026-09-24T02:01:28.852046",
+      "pages_updated": 1
+    },
+    "DeepSeek/$0.05 model that ate the flagship.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6943034812085047909,
+      "last_processed": "2026-09-24T02:01:28.852415",
+      "pages_updated": 1
+    },
+    "DeepSeek/DeepSeek Just Quietly Killed Its Own Flagship Model. And I Think It\u2019s Genius.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8070689650737212245,
+      "last_processed": "2026-09-24T02:01:28.852821",
+      "pages_updated": 0
+    },
+    "DeepSeek/DeepSeek V4.1 Flash + Turbovec + RAG Better OCR & Self-Hosted.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7517428098551748796,
+      "last_processed": "2026-09-24T02:01:28.853283",
+      "pages_updated": 0
+    },
+    "DeepSeek/How I use Deepseek v4 flash and GLM 5.3 flash for FREE (everyday).md": {
+      "ingested": "2026-09-24",
+      "sha256": 2096333135311665279,
+      "last_processed": "2026-09-24T02:01:28.853680",
+      "pages_updated": 0
+    },
+    "DeepSeek/I Argued the Harness was the Product. Then DeepSeek open-sourced theirs.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8499106072610481777,
+      "last_processed": "2026-09-24T02:01:28.854260",
+      "pages_updated": 1
+    },
+    "DeepSeek/nanoMoE Mixture-of-Experts (MoE) LLMs from Scratch in PyTorch.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2535350489893481220,
+      "last_processed": "2026-09-24T02:01:28.856046",
+      "pages_updated": 1
+    },
+    "Llama/CLI (Command Line Interface) is the main way to interact with LLMs.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7489591332760810730,
+      "last_processed": "2026-09-24T02:01:28.856329",
+      "pages_updated": 0
+    },
+    "Llama/Claude Code Has Four Agent Modes. Most Developers Only Use One.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6824392842462627653,
+      "last_processed": "2026-09-24T02:01:28.856992",
+      "pages_updated": 1
+    },
+    "Llama/Llama.cpp Save VRAM With Two Batch Sizes --n_batch and --n_ubatch.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6315949947810485997,
+      "last_processed": "2026-09-24T02:01:28.857588",
+      "pages_updated": 0
+    },
+    "Llama/Ollama vs. LM Studio vs. llama.cpp Which Local AI Runtime Should You Choose in 2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7449452188798521266,
+      "last_processed": "2026-09-24T02:01:28.858507",
+      "pages_updated": 3
+    },
+    "Llama/Save 47 Hours Per Month The $2 Folder System That Changed How I Use Claude.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6297086717549156683,
+      "last_processed": "2026-09-24T02:01:28.858984",
+      "pages_updated": 0
+    },
+    "Llama/The Day Apple Quietly Turned My $108Year Docker Habit Into a $0 Line of Code.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5706022515780560657,
+      "last_processed": "2026-09-24T02:01:28.859431",
+      "pages_updated": 0
+    },
+    "Llama/What to Spend 12GB of VRAM On Bigger Model, Longer Context, or Neither.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8743765814400574647,
+      "last_processed": "2026-09-24T02:01:28.860410",
+      "pages_updated": 2
+    },
+    "Kimi/Kimi/7 GitHub Repos I use to Validate AI-Generated Code.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4984596795406325303,
+      "last_processed": "2026-09-24T02:01:28.860830",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/7 Mac Apps So Cheap I Assumed They Do Nothing \u2014 I Was Very Wrong.md": {
+      "ingested": "2026-09-24",
+      "sha256": 205492176505724622,
+      "last_processed": "2026-09-24T02:01:28.862203",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/AI Coding Assistants Are Dying. Coding Agents Are Replacing Them.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6722827980427804758,
+      "last_processed": "2026-09-24T02:01:28.864371",
+      "pages_updated": 4
+    },
+    "Kimi/Kimi/After AI Writes Code, Don't Just Gnaw on git diff.md": {
+      "ingested": "2026-09-24",
+      "sha256": 286805232018794104,
+      "last_processed": "2026-09-24T02:01:28.864774",
+      "pages_updated": 1
+    },
+    "Kimi/Kimi/Beyond Git Worktrees Isolated Playgrounds for Your LLM Coding Agents.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5699356518418842642,
+      "last_processed": "2026-09-24T02:01:28.865436",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/Claude Code Agents to OpenCode Agents.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2317741400728271503,
+      "last_processed": "2026-09-24T02:01:28.867849",
+      "pages_updated": 4
+    },
+    "Kimi/Kimi/Claude Code Runs Inside Apple\u2019s Sandbox on Your Mac.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8037097130563886690,
+      "last_processed": "2026-09-24T02:01:28.868810",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/Claude Code vs Codex vs opencode AI Coding Agents 2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4648644148184245314,
+      "last_processed": "2026-09-24T02:01:28.869061",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/Claude Code, Pi, or Local Agents My Decision Framework for Coding on a Mac.md": {
+      "ingested": "2026-09-24",
+      "sha256": 990351840180659908,
+      "last_processed": "2026-09-24T02:01:28.869455",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/Claude Code\u2019s Agentic Architecture A Mental Model for AI SDETs.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7291485788668871759,
+      "last_processed": "2026-09-24T02:01:28.871355",
+      "pages_updated": 4
+    },
+    "Kimi/Kimi/Comparing Coding Agents on a Real Project Claude Code, Codex, OpenCode, and GitHub Copilot.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1426713107917740140,
+      "last_processed": "2026-09-24T02:01:28.872715",
+      "pages_updated": 4
+    },
+    "Kimi/Kimi/Google\u2019s OKF One Field, Smarter AI Agents.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8767104131552564264,
+      "last_processed": "2026-09-24T02:01:28.873388",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/He Tried Claude Code for Coding \u2014 These 7 Habits Made It Much More Reliable.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1887963248811151157,
+      "last_processed": "2026-09-24T02:01:28.873848",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/How I use OpenCode as a headless worker inside Claude Code.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6464131999142316774,
+      "last_processed": "2026-09-24T02:01:28.875828",
+      "pages_updated": 1
+    },
+    "Kimi/Kimi/How Semi-Autonomous Long-Horizon Agents Actually Work Inside an OpenCode Goal Plugin.md": {
+      "ingested": "2026-09-24",
+      "sha256": 857684883289082777,
+      "last_processed": "2026-09-24T02:01:28.876954",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/How to run a trillion-parameter LLM on a CPU with 8 GB of RAM.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5009519733717617919,
+      "last_processed": "2026-09-24T02:01:28.877361",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/How to use goal in Claude Code.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2443063676966809601,
+      "last_processed": "2026-09-24T02:01:28.877626",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/I Used Claude Code Wrong for 6 Months. These 12 Commands Finally Made It Click 1.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6631794097549806870,
+      "last_processed": "2026-09-24T02:01:28.878370",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/I Used Claude Code Wrong for 6 Months. These 12 Commands Finally Made It Click.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6573139282396893466,
+      "last_processed": "2026-09-24T02:01:28.879584",
+      "pages_updated": 2
+    },
+    "Kimi/Kimi/I used 4 AI coding agents for 6 months. Here\u2019s what I found.md": {
+      "ingested": "2026-09-24",
+      "sha256": -243330464275653958,
+      "last_processed": "2026-09-24T02:01:28.879867",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/Kimi K3 Running On 8GB of CPU RAM Removes Memory As Hard Gate.md": {
+      "ingested": "2026-09-24",
+      "sha256": 9021240142726818100,
+      "last_processed": "2026-09-24T02:01:28.880611",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/Muse Code Is Here Meta Just Released a CLI Coding Tool (I Just Tested It).md": {
+      "ingested": "2026-09-24",
+      "sha256": -2056693046835817943,
+      "last_processed": "2026-09-24T02:01:28.880951",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/Open Code + MiniMax M2.7 Get 95% Cheaper AI Coding (Claude Code Alternative).md": {
+      "ingested": "2026-09-24",
+      "sha256": 2731776064453097172,
+      "last_processed": "2026-09-24T02:01:28.881579",
+      "pages_updated": 1
+    },
+    "Kimi/Kimi/OpenAI Codex CLI Has a New Command Center for Your AI Coding Tasks.md": {
+      "ingested": "2026-09-24",
+      "sha256": -9196970586753665295,
+      "last_processed": "2026-09-24T02:01:28.881803",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/OpenAI Codex vs OpenCode Rust vs Go, Walled Garden vs Open Playground \u2014 The Architecture War Behind AI Coding Agents.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7156977960305103708,
+      "last_processed": "2026-09-24T02:01:28.883270",
+      "pages_updated": 3
+    },
+    "Kimi/Kimi/OpenCode vs Claude Code vs OpenAI Codex A Comprehensive Comparison of AI Coding Assistants.md": {
+      "ingested": "2026-09-24",
+      "sha256": -553746864066462129,
+      "last_processed": "2026-09-24T02:01:28.886003",
+      "pages_updated": 5
+    },
+    "Kimi/Kimi/OpenHands Coding Assistant QuickStart Install, CLI Flags, Examples.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2070515792749898634,
+      "last_processed": "2026-09-24T02:01:28.886609",
+      "pages_updated": 1
+    },
+    "Kimi/Kimi/Pint Now Runs in Parallel. Your Entire Codebase Formats in Seconds \u2014 and AI Agents Get Their Own Output Format.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7513792416994000083,
+      "last_processed": "2026-09-24T02:01:28.887216",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/Running Parallel Claude Code Agents on a Single Codebase.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5098909077143028258,
+      "last_processed": "2026-09-24T02:01:28.888250",
+      "pages_updated": 2
+    },
+    "Kimi/Kimi/Stop Paying $5 Per Million Tokens. This Free Model Matches Claude on Coding.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5084787843159865875,
+      "last_processed": "2026-09-24T02:01:28.888848",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/Vibe Coding Is Dead. Here\u2019s What Replaced It.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1541047790958780956,
+      "last_processed": "2026-09-24T02:01:28.889186",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/Vibe Engineering Reflection - A Completion Verification Layer for Autonomous AI Coding Agents.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4982202580440674826,
+      "last_processed": "2026-09-24T02:01:28.890310",
+      "pages_updated": 0
+    },
+    "Kimi/Kimi/Wigolo A Local Connected Brain for AI Agents \u2014 No API Keys, No Pay-Per-Use Fees.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4276540357932133692,
+      "last_processed": "2026-09-24T02:01:28.890865",
+      "pages_updated": 1
+    },
+    "LLM Comparisons/Agentic coding on an inexpensive NUC with OpenCode and qwen3-coder-30b.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4943668424748556810,
+      "last_processed": "2026-09-24T02:01:28.891329",
+      "pages_updated": 0
+    },
+    "LLM Comparisons/Compressing OpenCode\u2019s Google Cloud AI Traffic with Headroom.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3527244952770422757,
+      "last_processed": "2026-09-24T02:01:28.892038",
+      "pages_updated": 2
+    },
+    "LLM Comparisons/Flag namespace in Opencode codebase.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5448971380258475101,
+      "last_processed": "2026-09-24T02:01:28.892273",
+      "pages_updated": 0
+    },
+    "LLM Comparisons/Frontmatter-First Is Not Optional Context Window Survival for Local LLMs in OpenCode.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3748061619072941343,
+      "last_processed": "2026-09-24T02:01:28.893672",
+      "pages_updated": 2
+    },
+    "LLM Comparisons/How I Made OpenCode Feel 10x Faster with GSD.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5755124823796801856,
+      "last_processed": "2026-09-24T02:01:28.893955",
+      "pages_updated": 0
+    },
+    "LLM Comparisons/I Benchmarked 14 LLMs for LLM-Wiki and OKF. The Ranking Was the Least Interesting Result.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6275793315274492776,
+      "last_processed": "2026-09-24T02:01:28.894256",
+      "pages_updated": 0
+    },
+    "LLM Comparisons/Logger in opencode codebase.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1894389957597189161,
+      "last_processed": "2026-09-24T02:01:28.894499",
+      "pages_updated": 0
+    },
+    "LLM Comparisons/Mastering OpenCode.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5416273666836780002,
+      "last_processed": "2026-09-24T02:01:28.895554",
+      "pages_updated": 3
+    },
+    "LLM Comparisons/My experience of OpenCode\u201918.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7382352138708374575,
+      "last_processed": "2026-09-24T02:01:28.896019",
+      "pages_updated": 0
+    },
+    "LLM Comparisons/My experience with OpenCode IIITA.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7038476696326899192,
+      "last_processed": "2026-09-24T02:01:28.896219",
+      "pages_updated": 0
+    },
+    "LLM Comparisons/OPENCODE 2019 EXPERIENCE.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3573044476112425196,
+      "last_processed": "2026-09-24T02:01:28.896653",
+      "pages_updated": 1
+    },
+    "LLM Comparisons/OpenCode is really great!.md": {
+      "ingested": "2026-09-24",
+      "sha256": -617899059858150279,
+      "last_processed": "2026-09-24T02:01:28.917221",
+      "pages_updated": 0
+    },
+    "LLM Comparisons/OpenCode\u201918  An Experience.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1066012391083459413,
+      "last_processed": "2026-09-24T02:01:28.917600",
+      "pages_updated": 0
+    },
+    "LLM Comparisons/Opus Plans, Opencode Builds Splitting My AI Rig.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7205687414468430402,
+      "last_processed": "2026-09-24T02:01:28.918313",
+      "pages_updated": 0
+    },
+    "LLM Comparisons/Pointing OpenCode to Google Gemini (Featuring Gemini 3.6 Flash).md": {
+      "ingested": "2026-09-24",
+      "sha256": -7929243895844997764,
+      "last_processed": "2026-09-24T02:01:28.918871",
+      "pages_updated": 1
+    },
+    "LLM Comparisons/Qwen vs DS4 Sudoku Challenge.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2987697544490202393,
+      "last_processed": "2026-09-24T02:01:28.919217",
+      "pages_updated": 0
+    },
+    "LLM Comparisons/Run Local LLMs with OpenCode CLI (Windows).md": {
+      "ingested": "2026-09-24",
+      "sha256": 9057927717752632203,
+      "last_processed": "2026-09-24T02:01:28.919374",
+      "pages_updated": 0
+    },
+    "LLM Comparisons/Setting Up OpenCode with Local Models.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7548781686822362664,
+      "last_processed": "2026-09-24T02:01:28.919965",
+      "pages_updated": 2
+    },
+    "LLM Comparisons/Tauri vs Electrobun vs Deno Desktop vs Electron.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4299791631147466132,
+      "last_processed": "2026-09-24T02:01:28.922540",
+      "pages_updated": 7
+    },
+    "LLM Comparisons/Try Gemma 4 Without Local Deployment Hands-On Testing with OpenCode and Google AI Studio.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3201830578555650739,
+      "last_processed": "2026-09-24T02:01:28.922829",
+      "pages_updated": 0
+    },
+    "LLM Comparisons/Vibe Engineering OpenCode Live Voice.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5437960958589652996,
+      "last_processed": "2026-09-24T02:01:28.924830",
+      "pages_updated": 2
+    },
+    "LLM Comparisons/Vibe Engineering opencode + Azure AI Foundry.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2939403800302881149,
+      "last_processed": "2026-09-24T02:01:28.924958",
+      "pages_updated": 0
+    },
+    "LLM Comparisons/Want to Get Serious About Programming Forget LLMs, Go Transportive.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2740452653752779853,
+      "last_processed": "2026-09-24T02:01:28.926384",
+      "pages_updated": 1
+    },
+    "LLM Comparisons/Xiaomi Mimo2.5 Pro Free Token Test Using opencode to Scan a C Project.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3123130345667177494,
+      "last_processed": "2026-09-24T02:01:28.926550",
+      "pages_updated": 0
+    },
+    "Money Making/A Comprehensive Breakdown On How My Online Stream Made Passive Income Last Month.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3219983260974204223,
+      "last_processed": "2026-09-24T02:01:28.927057",
+      "pages_updated": 0
+    },
+    "Money Making/How To Make Digital Products with AI That Make $4kmo.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2973212253432879795,
+      "last_processed": "2026-09-24T02:01:28.927470",
+      "pages_updated": 0
+    },
+    "Money Making/Passive Income Rewired My Brain. I Wish I\u2019d Understood Why 20 Years Ago.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8178867021410361079,
+      "last_processed": "2026-09-24T02:01:28.927898",
+      "pages_updated": 0
+    },
+    "Money Making/Top 6 Faceless Niches To Generate $20,000Month Selling Digital Products.md": {
+      "ingested": "2026-09-24",
+      "sha256": -9171769974928799146,
+      "last_processed": "2026-09-24T02:01:28.928633",
+      "pages_updated": 1
+    },
+    "MCP/10 MCP Servers Every Local AI Developer Should Install.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2624367711402894057,
+      "last_processed": "2026-09-24T02:01:28.929388",
+      "pages_updated": 0
+    },
+    "MCP/30 MCP Servers That Give LLMs Agentic Superpowers.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5697081936136489083,
+      "last_processed": "2026-09-24T02:01:28.930388",
+      "pages_updated": 1
+    },
+    "MCP/5 Best MCP Gateways in 2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": 692934280635670435,
+      "last_processed": "2026-09-24T02:01:28.931298",
+      "pages_updated": 0
+    },
+    "MCP/AI-Generated Architecture Diagrams in VS Code Using Draw.io MCP.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7454744400853716560,
+      "last_processed": "2026-09-24T02:01:28.932183",
+      "pages_updated": 1
+    },
+    "MCP/Agent Skills vs MCP I Stopped Reading Hot Takes and Measured the Actual Context Cost.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4240833130457054566,
+      "last_processed": "2026-09-24T02:01:28.932739",
+      "pages_updated": 0
+    },
+    "MCP/Building MCP Servers in ASP.NET Core Exposing Secure Tools and Resources to AI Agents.md": {
+      "ingested": "2026-09-24",
+      "sha256": 9053328588382006299,
+      "last_processed": "2026-09-24T02:01:28.934131",
+      "pages_updated": 2
+    },
+    "MCP/Building My Own MCP Server \u2014 237 Lines, and on Its First Run It Found Something I Leaked Three Months Ago.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7165820127841502545,
+      "last_processed": "2026-09-24T02:01:28.935475",
+      "pages_updated": 0
+    },
+    "MCP/Building Websites for Humans and AI Agents with WebMCP.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5261479828952561261,
+      "last_processed": "2026-09-24T02:01:28.935950",
+      "pages_updated": 0
+    },
+    "MCP/Connect LM Studio to MCP Servers Filesystem, GitHub, and Browser Control (3 Working Configs).md": {
+      "ingested": "2026-09-24",
+      "sha256": -8927055651834810523,
+      "last_processed": "2026-09-24T02:01:28.936829",
+      "pages_updated": 0
+    },
+    "MCP/How I turned Google Antigravity into my full AI engineering desk.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7962954878473661042,
+      "last_processed": "2026-09-24T02:01:28.937221",
+      "pages_updated": 0
+    },
+    "MCP/Is MCP dead.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2168711669068515209,
+      "last_processed": "2026-09-24T02:01:28.937673",
+      "pages_updated": 0
+    },
+    "MCP/MCP Browser Automation Tutorial Build an AI Agent That Browses the Web (2026).md": {
+      "ingested": "2026-09-24",
+      "sha256": 4051689908984795603,
+      "last_processed": "2026-09-24T02:01:28.938048",
+      "pages_updated": 0
+    },
+    "MCP/MCP Just Changed. Here\u2019s What .NET Developers Actually Need to Know.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5973022694760837999,
+      "last_processed": "2026-09-24T02:01:28.938602",
+      "pages_updated": 0
+    },
+    "MCP/Meet WebMCP MCP\u2019s Browser Cousin That Makes AI Agents More Accurate.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5233956493699937794,
+      "last_processed": "2026-09-24T02:01:28.939562",
+      "pages_updated": 1
+    },
+    "MCP/Stop Stuffing Your Context Window. Build an Agentic Memory OS.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2704757235861454741,
+      "last_processed": "2026-09-24T02:01:28.939750",
+      "pages_updated": 0
+    },
+    "MCP/Supercharging DevOps Productivity with ClaudeCursor \u2014 MCPs , Plugins & Skills.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3512923547926179424,
+      "last_processed": "2026-09-24T02:01:28.940781",
+      "pages_updated": 1
+    },
+    "MCP/The 5 AI Terms That Put You Ahead of 99% of People in 2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2897921588117225073,
+      "last_processed": "2026-09-24T02:01:28.941186",
+      "pages_updated": 0
+    },
+    "Local AI Setup/12B Might Be the New Sweet Spot for Local AI.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4503119596573260991,
+      "last_processed": "2026-09-24T02:01:28.942373",
+      "pages_updated": 1
+    },
+    "Local AI Setup/Apple Just Gave Developers a Free On-Device LLM.md": {
+      "ingested": "2026-09-24",
+      "sha256": 249305899798214723,
+      "last_processed": "2026-09-24T02:01:28.943004",
+      "pages_updated": 0
+    },
+    "Local AI Setup/Breaking Into Edge AI \u2014 Deconstructing the Transformer Autoregressive Loop with ONNX Small Language\u2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3717904265075048963,
+      "last_processed": "2026-09-24T02:01:28.943498",
+      "pages_updated": 0
+    },
+    "Local AI Setup/Harnesses, Part Three How Agents Run Forever.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8009675752256231309,
+      "last_processed": "2026-09-24T02:01:28.944285",
+      "pages_updated": 0
+    },
+    "Local AI Setup/How I Cloned Industry Experts into AI to Run My Business.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1412436440047597518,
+      "last_processed": "2026-09-24T02:01:28.944796",
+      "pages_updated": 0
+    },
+    "Local AI Setup/How Losing My Typora License Led to Building My Own Markdown Editor.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6013662890162094345,
+      "last_processed": "2026-09-24T02:01:28.945605",
+      "pages_updated": 1
+    },
+    "Local AI Setup/How These SaaS Millionaires Are Making Themselves AI-Proof.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3434748962404622803,
+      "last_processed": "2026-09-24T02:01:28.946155",
+      "pages_updated": 0
+    },
+    "Local AI Setup/I Built a Voice-Controlled AI Assistant on My Phone \u2014 No APIs Required.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6215718418797848498,
+      "last_processed": "2026-09-24T02:01:28.947076",
+      "pages_updated": 2
+    },
+    "Local AI Setup/I Built an Artificial Team With OpenCode. It Changed How I Perceive Software Development.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3928591029284338239,
+      "last_processed": "2026-09-24T02:01:28.947553",
+      "pages_updated": 0
+    },
+    "Local AI Setup/LLM Gateway Is Now a Built-in Provider in OpenCode.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8569034388674116827,
+      "last_processed": "2026-09-24T02:01:28.947730",
+      "pages_updated": 0
+    },
+    "Local AI Setup/The AI Automation I Built That Started Turning Repetitive Work Into Revenue.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4039130684568292713,
+      "last_processed": "2026-09-24T02:01:28.948313",
+      "pages_updated": 0
+    },
+    "Local AI Setup/Your AI-Built Websites Look Identical to Everyone Else\u2019s. These 10 Skills Fix That.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6439924279159989137,
+      "last_processed": "2026-09-24T02:01:28.948717",
+      "pages_updated": 0
+    },
+    "Local AI Setup/abtop It's About Time AI Programming Assistants Had a Task Manager.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3543006055558070729,
+      "last_processed": "2026-09-24T02:01:28.949042",
+      "pages_updated": 1
+    },
+    "Local AI Setup/mlx-lm vs oMLX I Was Wrong About the Winner.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4690097774896683892,
+      "last_processed": "2026-09-24T02:01:28.949498",
+      "pages_updated": 0
+    },
+    "Automation/Conversational AI Automation How It Works, What to Automate, and Where Humans Fit.md": {
+      "ingested": "2026-09-24",
+      "sha256": -130489374125323948,
+      "last_processed": "2026-09-24T02:01:28.950185",
+      "pages_updated": 0
+    },
+    "Automation/How I added AI automation to my workflow without making it complicated.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4926696018330216707,
+      "last_processed": "2026-09-24T02:01:28.950542",
+      "pages_updated": 0
+    },
+    "Automation/How My Friend Makes $2,000 a Month Using This Simple AI Workflow.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1903997270260012962,
+      "last_processed": "2026-09-24T02:01:28.951331",
+      "pages_updated": 1
+    },
+    "Automation/I Was Using AI All Wrong 50 AI Workflows for Engineers.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8583688935536338422,
+      "last_processed": "2026-09-24T02:01:28.951703",
+      "pages_updated": 1
+    },
+    "Automation/I compared AI workflow automation tools that save you from repetitive tasks.md": {
+      "ingested": "2026-09-24",
+      "sha256": 521042107278700014,
+      "last_processed": "2026-09-24T02:01:28.952071",
+      "pages_updated": 0
+    },
+    "Automation/Stop Selling $200 AI Automations. Here\u2019s What Actually Pays $5,000 a Client.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8510550794118646830,
+      "last_processed": "2026-09-24T02:01:28.952612",
+      "pages_updated": 0
+    },
+    "Automation/Tech Habits - Order App Updates to Inspire Your Note-Keeping Workflow.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3619381913220525612,
+      "last_processed": "2026-09-24T02:01:28.953043",
+      "pages_updated": 0
+    },
+    "Automation/This Article Was Written With the 7-Phase AI Workflow I\u2019m About to Show You.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6960754557352840427,
+      "last_processed": "2026-09-24T02:01:28.953749",
+      "pages_updated": 0
+    },
+    "Automation/Top 3 AI Automation Courses and Programs to Build AI Agent Skills in 2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1363550535465284944,
+      "last_processed": "2026-09-24T02:01:28.954320",
+      "pages_updated": 0
+    },
+    "Video/Higgsfield Opens Its Studio Code and Offers $50K to Builders.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8779067981726800350,
+      "last_processed": "2026-09-24T02:01:28.954485",
+      "pages_updated": 0
+    },
+    "Business Ideas/Stop Looking for a Startup Idea. Look for a Monopoly Nobody Has Noticed Yet.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7486729783100049004,
+      "last_processed": "2026-09-24T02:01:28.954960",
+      "pages_updated": 0
+    },
+    "Business Ideas/What Are Indian Startups Actually Automating With AI in 2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7151610695113825449,
+      "last_processed": "2026-09-24T02:01:28.956313",
+      "pages_updated": 3
+    },
+    "Education/15 Websites You Can Use to Make Easy Money Daily (No Experience Required).md": {
+      "ingested": "2026-09-24",
+      "sha256": 5227470329172577320,
+      "last_processed": "2026-09-24T02:01:28.957222",
+      "pages_updated": 1
+    },
+    "Education/5 Small SaaS Ideas You Can Actually Ship Before 2026 Ends.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6451546525790533345,
+      "last_processed": "2026-09-24T02:01:28.957603",
+      "pages_updated": 0
+    },
+    "Education/5 agentic micro-products you can ship this weekend with Kimi K3.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8401400672441802218,
+      "last_processed": "2026-09-24T02:01:28.958007",
+      "pages_updated": 1
+    },
+    "Education/50 digital product ideas you can build with Claude AI connectors.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6162610465259166585,
+      "last_processed": "2026-09-24T02:01:28.958605",
+      "pages_updated": 0
+    },
+    "Education/6 online courses I paid for and finished. Only 2 were worth more than the free YouTube version.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5357661483336745434,
+      "last_processed": "2026-09-24T02:01:28.959057",
+      "pages_updated": 0
+    },
+    "Education/9 Developer Tools and Websites That Can Save You Hours Every Week.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2383684219521804422,
+      "last_processed": "2026-09-24T02:01:28.959711",
+      "pages_updated": 0
+    },
+    "Education/9 Terminal Commands I Wish Someone Showed Me in Year One.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1915593403736386535,
+      "last_processed": "2026-09-24T02:01:28.960277",
+      "pages_updated": 1
+    },
+    "Education/Before You Apply to Another Job, Build This Claude Skill.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8797883499724996116,
+      "last_processed": "2026-09-24T02:01:28.960738",
+      "pages_updated": 0
+    },
+    "Education/Can Electricity Replace a $200 AI Subscription I\u2019m Finding Out.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2725453225212784004,
+      "last_processed": "2026-09-24T02:01:28.961244",
+      "pages_updated": 0
+    },
+    "Education/Constitutional AI Teaching a Model Right from Wrong.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7323205635743773512,
+      "last_processed": "2026-09-24T02:01:28.961968",
+      "pages_updated": 1
+    },
+    "Education/From 0 to $500K MRR in 14 Months The Explosive Growth of Pingo AI.md": {
+      "ingested": "2026-09-24",
+      "sha256": -9185521359298962328,
+      "last_processed": "2026-09-24T02:01:28.962481",
+      "pages_updated": 0
+    },
+    "Education/GitHub Just Made OpenCode Official. Here\u2019s Why That\u2019s a Bigger Deal Than You Think.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4905185008998728123,
+      "last_processed": "2026-09-24T02:01:28.963115",
+      "pages_updated": 0
+    },
+    "Education/How I Cut My AI Coding Costs in Half (and You Can Too).md": {
+      "ingested": "2026-09-24",
+      "sha256": 6443579831887218055,
+      "last_processed": "2026-09-24T02:01:28.963377",
+      "pages_updated": 0
+    },
+    "Education/How I learn anything for free and on my own (and you can steal this technique).md": {
+      "ingested": "2026-09-24",
+      "sha256": 5519736568503320116,
+      "last_processed": "2026-09-24T02:01:28.963763",
+      "pages_updated": 0
+    },
+    "Education/How I\u2019d Learn n8n if I Had to Start Over in 2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3951969941204820493,
+      "last_processed": "2026-09-24T02:01:28.964639",
+      "pages_updated": 1
+    },
+    "Education/How You Can Save 40x On Your AI Costs.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5462251161103016540,
+      "last_processed": "2026-09-24T02:01:28.964904",
+      "pages_updated": 0
+    },
+    "Education/How to Change Your Life With Note-Taking.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4792245185906197984,
+      "last_processed": "2026-09-24T02:01:28.965369",
+      "pages_updated": 0
+    },
+    "Education/I Tested OpenCode Against Claude Code on a Real Project (157K+ Developers Can\u2019t Be Wrong\u2026Or Can\u2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5302223112152450594,
+      "last_processed": "2026-09-24T02:01:28.966393",
+      "pages_updated": 2
+    },
+    "Education/I Tried Google\u2019s New \u201cAgent Skills\u201d Repo So You Don\u2019t Have To.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3722684889942530670,
+      "last_processed": "2026-09-24T02:01:28.967261",
+      "pages_updated": 1
+    },
+    "Education/My AI second brain stopped learning in May. It still looked perfectly healthy.md": {
+      "ingested": "2026-09-24",
+      "sha256": 172158383674169817,
+      "last_processed": "2026-09-24T02:01:28.968001",
+      "pages_updated": 0
+    },
+    "Education/OpenWiki Setup Guide Build AI-Ready Codebase Documentation You Can Trust.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8577024047811050864,
+      "last_processed": "2026-09-24T02:01:28.968717",
+      "pages_updated": 0
+    },
+    "Education/RTK (Rust Token Killer) The GitHub Tool That Can Cut AI Coding Token Waste by 60%+.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5887940075107198264,
+      "last_processed": "2026-09-24T02:01:28.970298",
+      "pages_updated": 1
+    },
+    "Education/The Manager\u2019s Path in the Age of AI.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7145987587481650927,
+      "last_processed": "2026-09-24T02:01:28.971323",
+      "pages_updated": 1
+    },
+    "Education/This is Feynman\u2019s Thinking Habit. It Made Him a Genius.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6146356076788342579,
+      "last_processed": "2026-09-24T02:01:28.971702",
+      "pages_updated": 0
+    },
+    "Education/Vibe Engineer I can\u2019t get back to office. And here why.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2204933871096575725,
+      "last_processed": "2026-09-24T02:01:28.972011",
+      "pages_updated": 0
+    },
+    "Education/When everyone can build, design is the differentiator.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6173180722168314689,
+      "last_processed": "2026-09-24T02:01:28.972319",
+      "pages_updated": 0
+    },
+    "Education/Where to Learn AI Agents in 2026 Best Courses and Resources Without the Confusion.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8495927244572238629,
+      "last_processed": "2026-09-24T02:01:28.975023",
+      "pages_updated": 1
+    },
+    "Education/With AI will we still need programmers.md": {
+      "ingested": "2026-09-24",
+      "sha256": -682320615610188321,
+      "last_processed": "2026-09-24T02:01:28.975311",
+      "pages_updated": 0
+    },
+    "Education/You don\u2019t need attention after all The road to embodied AGI with Cadence.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5752757968655091897,
+      "last_processed": "2026-09-24T02:01:28.976993",
+      "pages_updated": 0
+    },
+    "Education/Your Senior Devs Don\u2019t Scale. Your OpenCode Agents Can.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6113476646409203429,
+      "last_processed": "2026-09-24T02:01:28.977819",
+      "pages_updated": 0
+    },
+    "Design/10 AI App Ideas you can build with ChatGPT Images 2.0 API.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8275039234097926024,
+      "last_processed": "2026-09-24T02:01:28.978528",
+      "pages_updated": 0
+    },
+    "Design/10 Digital Product Ideas You Can Build With Claude AI Connectors.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1690348533795049373,
+      "last_processed": "2026-09-24T02:01:28.978893",
+      "pages_updated": 0
+    },
+    "Design/10 Insane Things People Are Already Building With GPT-6 Astra.md": {
+      "ingested": "2026-09-24",
+      "sha256": -585028582154668931,
+      "last_processed": "2026-09-24T02:01:28.980570",
+      "pages_updated": 1
+    },
+    "Design/10 Mind-Blowing Things People Are Building With GPT-6 Astra.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4984865113041871978,
+      "last_processed": "2026-09-24T02:01:28.981161",
+      "pages_updated": 0
+    },
+    "Design/10 New Websites For Design Inspiration With Real Human Creativity.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3016638221419933131,
+      "last_processed": "2026-09-24T02:01:28.981614",
+      "pages_updated": 0
+    },
+    "Design/20 GitHub Repositories to Build with AI.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4536772976257343042,
+      "last_processed": "2026-09-24T02:01:28.982090",
+      "pages_updated": 0
+    },
+    "Design/4 Lines Every CLAUDE.md File Needs (Most Don\u2019t Have Them).md": {
+      "ingested": "2026-09-24",
+      "sha256": 1529204202625383595,
+      "last_processed": "2026-09-24T02:01:28.982795",
+      "pages_updated": 1
+    },
+    "Design/5 Claude Skills That Fix Claude\u2019s Ugly UI (AI Web Design).md": {
+      "ingested": "2026-09-24",
+      "sha256": 188644166868501647,
+      "last_processed": "2026-09-24T02:01:28.983349",
+      "pages_updated": 0
+    },
+    "Design/8 Cool Things People Use the Jev Model For.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2079474496843287963,
+      "last_processed": "2026-09-24T02:01:28.984093",
+      "pages_updated": 1
+    },
+    "Design/9 AI-Powered Digital Products You Can Sell in 2026 (Built From Real Client Pain Points).md": {
+      "ingested": "2026-09-24",
+      "sha256": 6446409850208703721,
+      "last_processed": "2026-09-24T02:01:28.984566",
+      "pages_updated": 0
+    },
+    "Design/A 7MB Photoshop Alternative Is Going Viral.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2223687093828279538,
+      "last_processed": "2026-09-24T02:01:28.996076",
+      "pages_updated": 1
+    },
+    "Design/A Browser Built for Robots, Not Humans.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8236274251288142278,
+      "last_processed": "2026-09-24T02:01:28.996372",
+      "pages_updated": 0
+    },
+    "Design/A Driving App Hit $100K a Month in 90 Days. An Alarm App Did $200K. Same Trick, Different App.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6615127475493308619,
+      "last_processed": "2026-09-24T02:01:28.996869",
+      "pages_updated": 0
+    },
+    "Design/A Knowledge Base Should Remember What You Decided Was Wrong.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1353245588741126242,
+      "last_processed": "2026-09-24T02:01:28.997183",
+      "pages_updated": 0
+    },
+    "Design/AI Can Make You Better at the Task Without Making You Better at the Skill.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1231941014866791483,
+      "last_processed": "2026-09-24T02:01:28.997959",
+      "pages_updated": 0
+    },
+    "Design/AI Coding Tip 037 \u2014 Stop Patching Blind.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7600910527831391757,
+      "last_processed": "2026-09-24T02:01:28.999014",
+      "pages_updated": 0
+    },
+    "Design/AI Doesn\u2019t Need to Talk to Be Great. Meet Decision Models.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5355719516460919077,
+      "last_processed": "2026-09-24T02:01:29.000029",
+      "pages_updated": 0
+    },
+    "Design/AI Images Seem Fake. Until You Know This.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5370446308040979746,
+      "last_processed": "2026-09-24T02:01:29.001189",
+      "pages_updated": 1
+    },
+    "Design/AI Money Has Six Stages. Most Quit at Five.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1938831597025365616,
+      "last_processed": "2026-09-24T02:01:29.001687",
+      "pages_updated": 0
+    },
+    "Design/AI Will Not Replace Second Brain Apps. But It Will Change Them Significantly. Here\u2019s How.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3920804489070168750,
+      "last_processed": "2026-09-24T02:01:29.001902",
+      "pages_updated": 0
+    },
+    "Design/Agents lost their disguise and took over your infrastructure.md": {
+      "ingested": "2026-09-24",
+      "sha256": -829748351395066946,
+      "last_processed": "2026-09-24T02:01:29.002458",
+      "pages_updated": 0
+    },
+    "Design/Azure AI Gateway Explained The Complete Getting-Started Guide.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4640019374813161543,
+      "last_processed": "2026-09-24T02:01:29.003359",
+      "pages_updated": 1
+    },
+    "Design/Best graph databases for AI ontology in 2026 RDF vs labeled property graph comparison.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7667472504637730233,
+      "last_processed": "2026-09-24T02:01:29.004206",
+      "pages_updated": 0
+    },
+    "Design/Beyond Spec-Driven Development The Agentic Engineering Playbook That\u2019s Replacing How We Build Software.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4494065931465049453,
+      "last_processed": "2026-09-24T02:01:29.005588",
+      "pages_updated": 1
+    },
+    "Design/Build Your Own Sovereign AI Assistant for Life.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2599808785282992230,
+      "last_processed": "2026-09-24T02:01:29.008872",
+      "pages_updated": 6
+    },
+    "Design/Build vs. buy AI tools the 30-minute sort that saves your team.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8629296069580290044,
+      "last_processed": "2026-09-24T02:01:29.009253",
+      "pages_updated": 0
+    },
+    "Design/Building a One-Person Software Factory Token-Efficient Agentic Workflows That Actually Hold Up.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7388659916817780139,
+      "last_processed": "2026-09-24T02:01:29.009814",
+      "pages_updated": 0
+    },
+    "Design/Building a Synthetic Data Generator.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7135035046897644427,
+      "last_processed": "2026-09-24T02:01:29.011183",
+      "pages_updated": 2
+    },
+    "Design/Can You Trust an AI-Built SaaS With More Than One Customer\u2019s Data.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4727668716322706307,
+      "last_processed": "2026-09-24T02:01:29.011413",
+      "pages_updated": 0
+    },
+    "Design/Choose Boring Technology Was Right. Here\u2019s My 2026 Boring Stack.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4698441089755402363,
+      "last_processed": "2026-09-24T02:01:29.012244",
+      "pages_updated": 1
+    },
+    "Design/Claude Design vs Figma AI I Designed the Same Web Page With Both.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4262115720936933960,
+      "last_processed": "2026-09-24T02:01:29.012743",
+      "pages_updated": 0
+    },
+    "Design/Cloudflare Just Open-Sourced Something Its Own Engineer Tried to Build a Decade Ago. It Failed Then. Here Is What Changed.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2842386682185770564,
+      "last_processed": "2026-09-24T02:01:29.013156",
+      "pages_updated": 0
+    },
+    "Design/Crafting Requirements for AI Code Generation An Experience Report.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1454616647208737762,
+      "last_processed": "2026-09-24T02:01:29.013734",
+      "pages_updated": 0
+    },
+    "Design/DESIGN.md Best Practices.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1911734877786961457,
+      "last_processed": "2026-09-24T02:01:29.014471",
+      "pages_updated": 2
+    },
+    "Design/Decision Fatigue Is Quietly Wrecking Your Note-Taking System \u2014 Here\u2019s the Actual Fix.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1111361383705858446,
+      "last_processed": "2026-09-24T02:01:29.015046",
+      "pages_updated": 0
+    },
+    "Design/Epson Declared Your Printer Dead. It Isn\u2019t.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7513642949835636678,
+      "last_processed": "2026-09-24T02:01:29.015464",
+      "pages_updated": 0
+    },
+    "Design/Everyone Recommends Tailscale for Proxmox But That Advice Needs a Warning Label.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5608662846142381091,
+      "last_processed": "2026-09-24T02:01:29.015859",
+      "pages_updated": 0
+    },
+    "Design/Firecrawl Open Sources Anydoc Convert 14 Document Formats to Markdown in Just 4.7 Milliseconds.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5626084221962595530,
+      "last_processed": "2026-09-24T02:01:29.016630",
+      "pages_updated": 2
+    },
+    "Design/Getting Your First Customers When Nobody Knows You Exist.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4728616484194554331,
+      "last_processed": "2026-09-24T02:01:29.016960",
+      "pages_updated": 0
+    },
+    "Design/Google Standardized the Thing I\u2019ve Been Building \u2014 And Left Out the One Layer That Matters.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3895861263089133035,
+      "last_processed": "2026-09-24T02:01:29.017401",
+      "pages_updated": 0
+    },
+    "Design/How I Built My Second Brain with Obsidian + Claude Code.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3182600237752847228,
+      "last_processed": "2026-09-24T02:01:29.017912",
+      "pages_updated": 0
+    },
+    "Design/How I Built a Custom AI Content Workflow With Walter MCP in Claude.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8712134221630702166,
+      "last_processed": "2026-09-24T02:01:29.018375",
+      "pages_updated": 0
+    },
+    "Design/How I Built a One-Person Private Equity Team in Claude (2026) Claude AI For Private Equity.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5585817537070525293,
+      "last_processed": "2026-09-24T02:01:29.019258",
+      "pages_updated": 1
+    },
+    "Design/How I Built a One-Person Social Media Team Inside Claude  Claude for Social Media Content Creation.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7860491901286093837,
+      "last_processed": "2026-09-24T02:01:29.019928",
+      "pages_updated": 1
+    },
+    "Design/How Much Does GEO Matter for Digital Products Today.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4452799764327705751,
+      "last_processed": "2026-09-24T02:01:29.020359",
+      "pages_updated": 0
+    },
+    "Design/How To Build a Tiny Digital Product That Leads to Significant Income.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2831078434764971690,
+      "last_processed": "2026-09-24T02:01:29.020640",
+      "pages_updated": 0
+    },
+    "Design/How to Accurately Extract Everything from Documents Using AI.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5160279810897920864,
+      "last_processed": "2026-09-24T02:01:29.021748",
+      "pages_updated": 1
+    },
+    "Design/How to Build a Loyal Audience When AI Is Flooding the Internet (With Personal Story).md": {
+      "ingested": "2026-09-24",
+      "sha256": -3291140960643881933,
+      "last_processed": "2026-09-24T02:01:29.022241",
+      "pages_updated": 0
+    },
+    "Design/How to Build a Self-Organizing Folder on Mac in 5 Minutes.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3762626876369701782,
+      "last_processed": "2026-09-24T02:01:29.022511",
+      "pages_updated": 0
+    },
+    "Design/How to Send Messages to a Microsoft Teams Channel from a React App Using Webhooks.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1444288618839604283,
+      "last_processed": "2026-09-24T02:01:29.023185",
+      "pages_updated": 1
+    },
+    "Design/How to Start Building Your Own Weekend AI Organization.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6736318852063860010,
+      "last_processed": "2026-09-24T02:01:29.023418",
+      "pages_updated": 0
+    },
+    "Design/How to Use OpenCode for Free The Complete Beginner\u2019s Guide.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7897965038305389906,
+      "last_processed": "2026-09-24T02:01:29.023852",
+      "pages_updated": 0
+    },
+    "Design/How to build a Harness Engineer Better than 99% of People 1.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4170181145633648741,
+      "last_processed": "2026-09-24T02:01:29.024451",
+      "pages_updated": 0
+    },
+    "Design/How to build a Harness Engineer Better than 99% of People.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4228815278856660483,
+      "last_processed": "2026-09-24T02:01:29.025108",
+      "pages_updated": 0
+    },
+    "Design/How to use AI like a pro 5 tips for you.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3813427649415066864,
+      "last_processed": "2026-09-24T02:01:29.025454",
+      "pages_updated": 0
+    },
+    "Design/I Built 5 Tiny Tools With One Goal Make Money.md": {
+      "ingested": "2026-09-24",
+      "sha256": -892449611291947598,
+      "last_processed": "2026-09-24T02:01:29.025834",
+      "pages_updated": 0
+    },
+    "Design/I Built My Personal Portfolio with Gemini 3.8 Flash High In A Weekend.md": {
+      "ingested": "2026-09-24",
+      "sha256": 812074474581623713,
+      "last_processed": "2026-09-24T02:01:29.026697",
+      "pages_updated": 1
+    },
+    "Design/I Built a CLI Tool That Signs Up for Websites.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8884521691823342057,
+      "last_processed": "2026-09-24T02:01:29.027101",
+      "pages_updated": 1
+    },
+    "Design/I Built a Digital Brain With Claude Code That Remembers Everything I\u2019ve Learned.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1996459310515357550,
+      "last_processed": "2026-09-24T02:01:29.027427",
+      "pages_updated": 0
+    },
+    "Design/I Built a Live Dashboard From My Google Sheets With Claude Code.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6151217176200200919,
+      "last_processed": "2026-09-24T02:01:29.028985",
+      "pages_updated": 3
+    },
+    "Design/I Built a Self-Updating Codebase Knowledge Graph With Google\u2019s OKF.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7417466216535600415,
+      "last_processed": "2026-09-24T02:01:29.029576",
+      "pages_updated": 0
+    },
+    "Design/I Built an AI Financial Analyst With 72 Tools. Here\u2019s What It Can Actually Do.md": {
+      "ingested": "2026-09-24",
+      "sha256": 805923611290815952,
+      "last_processed": "2026-09-24T02:01:29.030165",
+      "pages_updated": 0
+    },
+    "Design/I Don\u2019t Use Spotify. So I Built My Own AI DJ.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6610244836389308656,
+      "last_processed": "2026-09-24T02:01:29.030964",
+      "pages_updated": 0
+    },
+    "Design/I Let AI Organize My Notes. Here\u2019s What I Got Wrong.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6591140752958669153,
+      "last_processed": "2026-09-24T02:01:29.031422",
+      "pages_updated": 0
+    },
+    "Design/I Put My Entire AI Studio Inside Claude.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7728395398007732833,
+      "last_processed": "2026-09-24T02:01:29.031868",
+      "pages_updated": 0
+    },
+    "Design/I Stopped Trying To Chase Clients And Let LinkedIn Bring Me Consultation Requests.md": {
+      "ingested": "2026-09-24",
+      "sha256": -82280303991658544,
+      "last_processed": "2026-09-24T02:01:29.032531",
+      "pages_updated": 0
+    },
+    "Design/I Studied the AI Influencers Making $300K+ a Month; Here\u2019s Exactly How They\u2019re Built.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1849499551697783208,
+      "last_processed": "2026-09-24T02:01:29.033175",
+      "pages_updated": 0
+    },
+    "Design/I built Karpathy\u2019s LLM Wiki twice\u200a\u2014\u200aonce as code, once as a .md. Here's what each one gives up.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1965593494967273886,
+      "last_processed": "2026-09-24T02:01:29.033683",
+      "pages_updated": 0
+    },
+    "Design/Is FLUX 3 Usable for Local Image Generation Yet.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1434323475191800642,
+      "last_processed": "2026-09-24T02:01:29.035398",
+      "pages_updated": 1
+    },
+    "Design/Jev Is 100\u00d7 Cheaper Than Claude \u2014 But Its Real Advantage Isn\u2019t Price.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6536336500787577984,
+      "last_processed": "2026-09-24T02:01:29.036355",
+      "pages_updated": 0
+    },
+    "Design/Karpathy\u2019s LLM Wiki How to Actually Use AI So It Stops Starting Over.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8294349776676487691,
+      "last_processed": "2026-09-24T02:01:29.038311",
+      "pages_updated": 3
+    },
+    "Design/Karpathy\u2019s LLM Wiki Isn\u2019t About Storing More. It\u2019s About Managing Information Overload.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8320957509144505165,
+      "last_processed": "2026-09-24T02:01:29.038646",
+      "pages_updated": 0
+    },
+    "Design/LLM Wiki Obsidian Claude Tutorial.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6653823618915887173,
+      "last_processed": "2026-09-24T02:01:29.039473",
+      "pages_updated": 1
+    },
+    "Design/Laya a free, local alternative to Jev \u2014 and it can even play Doom(ish).md": {
+      "ingested": "2026-09-24",
+      "sha256": 4193862217165997480,
+      "last_processed": "2026-09-24T02:01:29.039772",
+      "pages_updated": 0
+    },
+    "Design/Making a QR Code Quilt, Again.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1702956545471857989,
+      "last_processed": "2026-09-24T02:01:29.040146",
+      "pages_updated": 0
+    },
+    "Design/Measuring the Impact of Graphify on Claude Code.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7161542627860832916,
+      "last_processed": "2026-09-24T02:01:29.040428",
+      "pages_updated": 0
+    },
+    "Design/Meta Muse I\u2019ve Never Been So Excited and So Depressed to Be a Builder.md": {
+      "ingested": "2026-09-24",
+      "sha256": -161524007944722613,
+      "last_processed": "2026-09-24T02:01:29.040888",
+      "pages_updated": 0
+    },
+    "Design/Microsoft\u2019s Most Interesting AI Model Isn\u2019t an LLM And Everyone Missed It.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7816680684313140312,
+      "last_processed": "2026-09-24T02:01:29.041320",
+      "pages_updated": 0
+    },
+    "Design/My AI is the librarian now.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3462475097527176424,
+      "last_processed": "2026-09-24T02:01:29.041744",
+      "pages_updated": 0
+    },
+    "Design/My second brain pivoted twice in 3 days.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3196025587346084039,
+      "last_processed": "2026-09-24T02:01:29.042134",
+      "pages_updated": 0
+    },
+    "Design/On Building an Open Source AI Video-to-Audio Editor.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4521833499883613773,
+      "last_processed": "2026-09-24T02:01:29.042702",
+      "pages_updated": 0
+    },
+    "Design/One AI Reviewer Caught Half the Bugs. Four Caught Almost All of Them (II).md": {
+      "ingested": "2026-09-24",
+      "sha256": -6532855064901437728,
+      "last_processed": "2026-09-24T02:01:29.043027",
+      "pages_updated": 0
+    },
+    "Design/Running a 35B Large Model + Local AI Agent on 6GB VRAM The Complete Deployment Guide for Qwen3.6-35B-A3B.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1913654177434164323,
+      "last_processed": "2026-09-24T02:01:29.043856",
+      "pages_updated": 1
+    },
+    "Design/Spec-Driven AI Development A Better Way to Build Software With AI.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7715806444895305237,
+      "last_processed": "2026-09-24T02:01:29.044657",
+      "pages_updated": 1
+    },
+    "Design/Spec-Driven Development Toolkit.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6392877271261568975,
+      "last_processed": "2026-09-24T02:01:29.045638",
+      "pages_updated": 1
+    },
+    "Design/Stop Asking One AI for Answers. Build an \u201cLLM Council\u201d Instead.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5996536978858335877,
+      "last_processed": "2026-09-24T02:01:29.046409",
+      "pages_updated": 1
+    },
+    "Design/Stop Building AI Apps for Every Idea. Start Building MCP Servers 1.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8777614055102616030,
+      "last_processed": "2026-09-24T02:01:29.047328",
+      "pages_updated": 0
+    },
+    "Design/Stop Building AI Apps for Every Idea. Start Building MCP Servers.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8526692968973184959,
+      "last_processed": "2026-09-24T02:01:29.047985",
+      "pages_updated": 0
+    },
+    "Design/Stop Building Auth From Scratch A Production Guide to Keycloak, OIDC, and Stateless Verification.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1440541416678340822,
+      "last_processed": "2026-09-24T02:01:29.048411",
+      "pages_updated": 0
+    },
+    "Design/Stop Building Platforms 6 Tiny SaaS Products Worth Shipping This Year.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3264552635604518210,
+      "last_processed": "2026-09-24T02:01:29.048707",
+      "pages_updated": 0
+    },
+    "Design/Stop Building a Smarter AI. Start Building a Better AI Team.md": {
+      "ingested": "2026-09-24",
+      "sha256": -9154792997097213835,
+      "last_processed": "2026-09-24T02:01:29.049274",
+      "pages_updated": 0
+    },
+    "Design/Stop Paying for API Keys How to Build with Free and Fast LLMs.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4435005842472254277,
+      "last_processed": "2026-09-24T02:01:29.050445",
+      "pages_updated": 2
+    },
+    "Design/Stop building AI apps. Build this instead.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3040218008258255767,
+      "last_processed": "2026-09-24T02:01:29.050756",
+      "pages_updated": 0
+    },
+    "Design/Stop using LLMs like giant problem solvers.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1241224227774850253,
+      "last_processed": "2026-09-24T02:01:29.051103",
+      "pages_updated": 0
+    },
+    "Design/Teaching Hermes Agent a new \u201cSkill\u201d  Image Generation.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7645279039027313857,
+      "last_processed": "2026-09-24T02:01:29.051359",
+      "pages_updated": 0
+    },
+    "Design/The AI Project I Built That Finally Made Me Understand AI Engineering.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6078201208937798252,
+      "last_processed": "2026-09-24T02:01:29.052500",
+      "pages_updated": 1
+    },
+    "Design/The AI Side Business I Would Build Before Quitting My Job.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2956707381779798285,
+      "last_processed": "2026-09-24T02:01:29.053399",
+      "pages_updated": 1
+    },
+    "Design/The AI Trick I Discovered at 2 A.M. That Made Me Build in Days Instead of Months.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8382936810715096692,
+      "last_processed": "2026-09-24T02:01:29.053706",
+      "pages_updated": 0
+    },
+    "Design/The End of Default SaaS Enter MikroSuite.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5741739233173853871,
+      "last_processed": "2026-09-24T02:01:29.054021",
+      "pages_updated": 0
+    },
+    "Design/The GPT Moment for Forecasting Has Arrived. I Tested It Against Prophet.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2215440095185080,
+      "last_processed": "2026-09-24T02:01:29.054825",
+      "pages_updated": 0
+    },
+    "Design/The Python Bot I Built That Turned Random Website Visitors Into Paying Clients.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5915418914144531238,
+      "last_processed": "2026-09-24T02:01:29.055118",
+      "pages_updated": 0
+    },
+    "Design/The Python Script I Built to Auto-Generate Social Media Content\u2026 Then Turned Into a $2KMonth Content Engine.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4374525914364918848,
+      "last_processed": "2026-09-24T02:01:29.055364",
+      "pages_updated": 0
+    },
+    "Design/The Rise of Local AI Why Developers Are Moving LLMs From the Cloud to Their PCs.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1592167934783584498,
+      "last_processed": "2026-09-24T02:01:29.057239",
+      "pages_updated": 4
+    },
+    "Design/The Schema Is the Product An Architectural Reading of Karpathy\u2019s LLM Wiki.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7573427107764337262,
+      "last_processed": "2026-09-24T02:01:29.058326",
+      "pages_updated": 0
+    },
+    "Design/The Security Rules I Make Every AI Coding Agent Follow.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6268580484353084156,
+      "last_processed": "2026-09-24T02:01:29.058550",
+      "pages_updated": 0
+    },
+    "Design/The Ultimate Guide to Jev The new Frontier AI for faster decisions.md": {
+      "ingested": "2026-09-24",
+      "sha256": -461237465396388755,
+      "last_processed": "2026-09-24T02:01:29.059239",
+      "pages_updated": 0
+    },
+    "Design/The reason you\u2019re invisible in AI search.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5417155902855216481,
+      "last_processed": "2026-09-24T02:01:29.059511",
+      "pages_updated": 0
+    },
+    "Design/This AI Stack Will Cut Your AI Costs By 80%.md": {
+      "ingested": "2026-09-24",
+      "sha256": -207441833473715966,
+      "last_processed": "2026-09-24T02:01:29.059959",
+      "pages_updated": 0
+    },
+    "Design/Top 10 Backstage Alternatives for Internal Developer Portals in 2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8389085153815905693,
+      "last_processed": "2026-09-24T02:01:29.060415",
+      "pages_updated": 0
+    },
+    "Design/UI Trends That Are Actually Happening (and Worth Paying Attention To).md": {
+      "ingested": "2026-09-24",
+      "sha256": -2320640523315520174,
+      "last_processed": "2026-09-24T02:01:29.060836",
+      "pages_updated": 0
+    },
+    "Design/Use AI to Stretch Your Imagination With Three Creative Experiments.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5221033006707693381,
+      "last_processed": "2026-09-24T02:01:29.080653",
+      "pages_updated": 0
+    },
+    "Design/Week 16 5 Open-Source GitHub Repositories Building the Production AI Stack in 2026.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3454503391054370508,
+      "last_processed": "2026-09-24T02:01:29.088516",
+      "pages_updated": 6
+    },
+    "Design/What My Failed AI Projects Taught Me About Business.md": {
+      "ingested": "2026-09-24",
+      "sha256": 9147437008804241623,
+      "last_processed": "2026-09-24T02:01:29.088968",
+      "pages_updated": 0
+    },
+    "Design/Why Consultants and Advisors Need Karpathy\u2019s Knowledge System More Than They Think.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7196863394253597304,
+      "last_processed": "2026-09-24T02:01:29.089453",
+      "pages_updated": 0
+    },
+    "Design/Why Every AI-Built CRM Looks the Same.md": {
+      "ingested": "2026-09-24",
+      "sha256": -3857612186887972397,
+      "last_processed": "2026-09-24T02:01:29.089950",
+      "pages_updated": 0
+    },
+    "Design/Why Is Anytype, the Local-First Notion Alternative, Being Rewritten.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1023514073942533376,
+      "last_processed": "2026-09-24T02:01:29.090665",
+      "pages_updated": 1
+    },
+    "Design/You Can\u2019t Sell a Product That AI Can Build in 3 Prompts.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7094764327006891563,
+      "last_processed": "2026-09-24T02:01:29.091354",
+      "pages_updated": 1
+    },
+    "Design/You Think Amazon Makes Money Selling You Things. It Does Not.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6460585818180587633,
+      "last_processed": "2026-09-24T02:01:29.091650",
+      "pages_updated": 0
+    },
+    "Design/Your Next AI Agent Should Follow Up on Estimates.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4611915713771220884,
+      "last_processed": "2026-09-24T02:01:29.092010",
+      "pages_updated": 0
+    },
+    "Design/Your Notes Are a Graveyard.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7955972813100551870,
+      "last_processed": "2026-09-24T02:01:29.092667",
+      "pages_updated": 1
+    },
+    "Design/Your screenshots are a black hole.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1223232628333372558,
+      "last_processed": "2026-09-24T02:01:29.093050",
+      "pages_updated": 0
+    },
+    "Design/\ud83d\udcf8 Genius Brian Shin From Launch to $35k Monthly Revenue in 5 Months with a Disposable Camera App.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8537004088353846829,
+      "last_processed": "2026-09-24T02:01:29.093444",
+      "pages_updated": 0
+    },
+    "AI Apps/LLM Evaluation 104 Why Your AI Application Needs Multiple Eval Pipelines.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7230850393989683534,
+      "last_processed": "2026-09-24T02:01:29.093864",
+      "pages_updated": 0
+    },
+    "AI Apps/What the Top 100 AI Apps Reveal A Product Map from 50 Top Podcast Conversations.md": {
+      "ingested": "2026-09-24",
+      "sha256": 448337049736922293,
+      "last_processed": "2026-09-24T02:01:29.094737",
+      "pages_updated": 0
+    },
+    "Obsidian/10 Commands That Make My Obsidian Vault Think.md": {
+      "ingested": "2026-09-24",
+      "sha256": 5229337416357650146,
+      "last_processed": "2026-09-24T02:01:29.095556",
+      "pages_updated": 2
+    },
+    "Obsidian/15 Obsidian Workflows and Plugins, That Most People Don\u2019t Know.md": {
+      "ingested": "2026-09-24",
+      "sha256": 3281621599426625779,
+      "last_processed": "2026-09-24T02:01:29.095911",
+      "pages_updated": 0
+    },
+    "Obsidian/5 Note Apps I Tried Before Realizing Obsidian Was Always the Answer.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2886834085840091656,
+      "last_processed": "2026-09-24T02:01:29.096316",
+      "pages_updated": 0
+    },
+    "Obsidian/\u2018Obsidian\u2019 Doesn\u2019t Exist \u2014 It\u2019s Four Layers.md": {
+      "ingested": "2026-09-24",
+      "sha256": -426730986006288363,
+      "last_processed": "2026-09-24T02:01:29.096943",
+      "pages_updated": 1
+    },
+    "Obsidian/\ud83c\udf44 Building An Offline-Local, Multi-Vault LLM Wiki for Obsidian.md": {
+      "ingested": "2026-09-24",
+      "sha256": -313517905415321541,
+      "last_processed": "2026-09-24T02:01:29.097599",
+      "pages_updated": 1
+    },
+    "Models/4 Practical Ways to Make Around $2,000 a Month on Gumroad Within the First 45 Days.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6131978927067662280,
+      "last_processed": "2026-09-24T02:01:29.097925",
+      "pages_updated": 0
+    },
+    "Models/Claude Cowork The Definitive Beginner\u2019s Guide.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1747531882273313674,
+      "last_processed": "2026-09-24T02:01:29.098890",
+      "pages_updated": 1
+    },
+    "Models/Claude Skills Just Became Versioned Infrastructure for .NET Teams.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4955391349112695718,
+      "last_processed": "2026-09-24T02:01:29.099169",
+      "pages_updated": 0
+    },
+    "Models/Claude Tag Just Replaced Claude Code.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6333652942826799177,
+      "last_processed": "2026-09-24T02:01:29.099463",
+      "pages_updated": 0
+    },
+    "Models/Escaping Model Lock-In The Case for Multi-Model & Compliant Coding with OpenCode.md": {
+      "ingested": "2026-09-24",
+      "sha256": 9077871496803079588,
+      "last_processed": "2026-09-24T02:01:29.100642",
+      "pages_updated": 2
+    },
+    "Models/Getting work done with a small, low concurrency local LLM (Queues & Plans!).md": {
+      "ingested": "2026-09-24",
+      "sha256": -7474022006928112841,
+      "last_processed": "2026-09-24T02:01:29.100947",
+      "pages_updated": 0
+    },
+    "Models/Git repo analysis with OpenCode and Mistral Vibe.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4838651320928390831,
+      "last_processed": "2026-09-24T02:01:29.101990",
+      "pages_updated": 0
+    },
+    "Models/Inside OpenCode Understanding the Architecture Behind the AI Runtime.md": {
+      "ingested": "2026-09-24",
+      "sha256": 160131438080999106,
+      "last_processed": "2026-09-24T02:01:29.103832",
+      "pages_updated": 5
+    },
+    "Models/It's Time to Upgrade Your Terminal Ghostty, the Next-Generation Terminal!.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6222857318819657977,
+      "last_processed": "2026-09-24T02:01:29.104480",
+      "pages_updated": 1
+    },
+    "Models/Kickstart OpenCode with OpenRouter.md": {
+      "ingested": "2026-09-24",
+      "sha256": -2186889390229665934,
+      "last_processed": "2026-09-24T02:01:29.104784",
+      "pages_updated": 0
+    },
+    "Models/Mistral\u2019s open-weight frontier model stops being open at $20 million a month.md": {
+      "ingested": "2026-09-24",
+      "sha256": -698142013947694469,
+      "last_processed": "2026-09-24T02:01:29.105119",
+      "pages_updated": 0
+    },
+    "Models/OpenAI Just Turned Your Agent Startup\u2019s Moat Into a Config Flag.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2458390125762560048,
+      "last_processed": "2026-09-24T02:01:29.105526",
+      "pages_updated": 0
+    },
+    "Models/Security Auditing of IoT Devices with OpenCode.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8669961989312325956,
+      "last_processed": "2026-09-24T02:01:29.106557",
+      "pages_updated": 1
+    },
+    "Models/The 7 Mistakes Quietly Killing Your Affiliate Income.md": {
+      "ingested": "2026-09-24",
+      "sha256": 4312428995209031114,
+      "last_processed": "2026-09-24T02:01:29.106943",
+      "pages_updated": 0
+    },
+    "Models/The JavaScript Tool I Built to Automate the Boring Parts of My Work.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7346465373048973526,
+      "last_processed": "2026-09-24T02:01:29.107500",
+      "pages_updated": 0
+    },
+    "Models/Your AI Coding Assistant Just Got a Memory \u2014 Meet OpenCode Skills.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6844942281240725980,
+      "last_processed": "2026-09-24T02:01:29.108206",
+      "pages_updated": 1
+    },
+    "Financial/AI in Simple terms What is an Agent harness.md": {
+      "ingested": "2026-09-24",
+      "sha256": -4008336267880706498,
+      "last_processed": "2026-09-24T02:01:29.108408",
+      "pages_updated": 0
+    },
+    "Financial/Agent Harness \u2014 A complete guide.md": {
+      "ingested": "2026-09-24",
+      "sha256": -7958445177411988784,
+      "last_processed": "2026-09-24T02:01:29.109823",
+      "pages_updated": 4
+    },
+    "Financial/Building an AI Browser Test Agent Run Automation Tests Using Plain English.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8578862278536441779,
+      "last_processed": "2026-09-24T02:01:29.111116",
+      "pages_updated": 0
+    },
+    "Financial/Claude Code agent teams when and how to go multi-agent.md": {
+      "ingested": "2026-09-24",
+      "sha256": -6176055895219329327,
+      "last_processed": "2026-09-24T02:01:29.112278",
+      "pages_updated": 2
+    },
+    "Financial/Forget OpenCode. PI Agent Harness 10x Better.md": {
+      "ingested": "2026-09-24",
+      "sha256": -1574827449453961459,
+      "last_processed": "2026-09-24T02:01:29.113295",
+      "pages_updated": 1
+    },
+    "Financial/Goodbye Claude Code How to Run DeepSeek Agent Harness 100% Locally.md": {
+      "ingested": "2026-09-24",
+      "sha256": 7023295628999556401,
+      "last_processed": "2026-09-24T02:01:29.115544",
+      "pages_updated": 3
+    },
+    "Financial/How I Cut Kimi K3 Costs in OpenCode.md": {
+      "ingested": "2026-09-24",
+      "sha256": 2428163506463575412,
+      "last_processed": "2026-09-24T02:01:29.116464",
+      "pages_updated": 0
+    },
+    "Financial/How I Package Digital Guides on Gumroad So Readers Actually Open Them.md": {
+      "ingested": "2026-09-24",
+      "sha256": 8766646188311679606,
+      "last_processed": "2026-09-24T02:01:29.116810",
+      "pages_updated": 0
+    },
+    "Financial/How People Are Building Real Businesses on Gumroad.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8575488371037493463,
+      "last_processed": "2026-09-24T02:01:29.117125",
+      "pages_updated": 0
+    },
+    "Financial/How To Use Agent Skills With Claude Desktop.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8708639620064820581,
+      "last_processed": "2026-09-24T02:01:29.117498",
+      "pages_updated": 0
+    },
+    "Financial/How to Run a Coding Agent on Cloudflare Computers.md": {
+      "ingested": "2026-09-24",
+      "sha256": -5779660765835884586,
+      "last_processed": "2026-09-24T02:01:29.118043",
+      "pages_updated": 0
+    },
+    "Financial/How to Turn LM Studio Into a Local Research Agent With MCP Servers.md": {
+      "ingested": "2026-09-24",
+      "sha256": 872381929574348269,
+      "last_processed": "2026-09-24T02:01:29.118930",
+      "pages_updated": 1
+    },
+    "Financial/I Asked Claude to Rank the S&P 500. Here Are the Stocks It Picked.md": {
+      "ingested": "2026-09-24",
+      "sha256": 6335644028100675523,
+      "last_processed": "2026-09-24T02:01:29.119444",
+      "pages_updated": 0
+    },
+    "Financial/I Ran a 70B AI Model on My Old Laptop \u2014 Here\u2019s How AirLLM Did It.md": {
+      "ingested": "2026-09-24",
+      "sha256": -8383265016802686937,
+      "last_processed": "2026-09-24T02:01:29.121099",
+      "pages_updated": 1
+    },
+    "Financial/LlamaStash Part 2 Hook It Up to OpenCode, Free AI Coding Agent, Local, Unlimited Tokens.md": {
+      "ingested": "2026-09-24",
+      "sha256": 1665476583130349387,
+      "last_processed": "2026-09-24T02:01:29.121715",
+      "pages_updated": 1
     }
   },
   "last_batch": null,

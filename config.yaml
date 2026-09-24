@@ -199,4 +199,5 @@ onboarding:
 dashboard:
   basic_auth:
     username: admin
-    password_hash: scrypt$16384$8$1$K0+0RY+hmXkeRK8jawKbjA==$h9GIN3lQRcpPrYGraZGXc/Tjv795IYTusNqs3xRzF64=
+    password_hash: 
+      scrypt$16384$8$1$K0+0RY+hmXkeRK8jawKbjA==$h9GIN3lQRcpPrYGraZGXc/Tjv795IYTusNqs3xRzF64=
