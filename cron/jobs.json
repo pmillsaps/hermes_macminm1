@@ -80,28 +80,28 @@
       "schedule_display": "0 2 * * *",
       "repeat": {
         "times": null,
-        "completed": 5
+        "completed": 6
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-19T04:56:31.069460-05:00",
-      "next_run_at": "2026-09-25T02:00:00-05:00",
-      "last_run_at": "2026-09-24T02:02:46.374227-05:00",
-      "last_status": "ok",
-      "last_error": null,
+      "next_run_at": "2026-09-26T02:00:00-05:00",
+      "last_run_at": "2026-09-25T02:00:28.348088-05:00",
+      "last_status": "error",
+      "last_error": "RuntimeError: HTTP 404: This model is no longer free. To continue using the paid variant, switch to 'meituan/longcat-2.0'.",
       "last_delivery_error": null,
       "last_delivery_unverified": null,
-      "failure_streak": 0,
+      "failure_streak": 1,
       "deliver": "telegram:8624831548",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": "/Users/paulmillsaps/Documents/_Obsidian/wiki",
       "last_dispatch": {
-        "scheduled_at": "2026-09-24T02:00:00-05:00",
-        "dispatched_at": "2026-09-24T02:00:18.795278-05:00",
-        "lateness_seconds": 18.8,
+        "scheduled_at": "2026-09-25T02:00:00-05:00",
+        "dispatched_at": "2026-09-25T02:00:19.069535-05:00",
+        "lateness_seconds": 19.1,
         "kind": "on_time"
       },
       "fire_claim": null
@@ -131,15 +131,15 @@
       "schedule_display": "0 3 * * *",
       "repeat": {
         "times": null,
-        "completed": 5
+        "completed": 6
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-19T06:54:41.235908-05:00",
-      "next_run_at": "2026-09-25T03:00:00-05:00",
-      "last_run_at": "2026-09-23T03:00:20.578461-05:00",
+      "next_run_at": "2026-09-26T03:00:00-05:00",
+      "last_run_at": "2026-09-24T03:00:20.885974-05:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -150,14 +150,14 @@
       "enabled_toolsets": null,
       "workdir": "/Users/paulmillsaps/.hermes-backup-repo",
       "last_dispatch": {
-        "scheduled_at": "2026-09-24T03:00:00-05:00",
-        "dispatched_at": "2026-09-24T03:00:18.774504-05:00",
-        "lateness_seconds": 18.8,
+        "scheduled_at": "2026-09-25T03:00:00-05:00",
+        "dispatched_at": "2026-09-25T03:00:19.078556-05:00",
+        "lateness_seconds": 19.1,
         "kind": "on_time"
       },
       "fire_claim": {
-        "at": "2026-09-24T03:00:18.828085-05:00",
-        "by": "Vera.home.local:880:aea6d0867dce49ff97975acd8e98a537"
+        "at": "2026-09-25T03:00:19.129576-05:00",
+        "by": "Vera.home.local:880:91ca449064c044018fba20b23bc4182e"
       }
     },
     {
@@ -185,15 +185,15 @@
       "schedule_display": "0 4 * * *",
       "repeat": {
         "times": null,
-        "completed": 5
+        "completed": 6
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-19T07:02:30.939492-05:00",
-      "next_run_at": "2026-09-24T04:00:00-05:00",
-      "last_run_at": "2026-09-23T04:03:53.977274-05:00",
+      "next_run_at": "2026-09-25T04:00:00-05:00",
+      "last_run_at": "2026-09-24T04:01:39.692012-05:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -204,13 +204,13 @@
       "enabled_toolsets": null,
       "workdir": null,
       "last_dispatch": {
-        "scheduled_at": "2026-09-23T04:00:00-05:00",
-        "dispatched_at": "2026-09-23T04:00:18.561918-05:00",
-        "lateness_seconds": 18.6,
+        "scheduled_at": "2026-09-24T04:00:00-05:00",
+        "dispatched_at": "2026-09-24T04:00:18.812639-05:00",
+        "lateness_seconds": 18.8,
         "kind": "on_time"
       },
       "fire_claim": null
     }
   ],
-  "updated_at": "2026-09-24T03:00:18.828656-05:00"
+  "updated_at": "2026-09-25T03:00:19.130086-05:00"
 }
