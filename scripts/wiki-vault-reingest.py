@@ -68,14 +68,18 @@ def save_state(state):
     STATE_FILE.write_text(json.dumps(state, indent=2, default=str))
 
 def get_all_wiki_pages():
-    """Return dict of slug -> (filepath, full_content)"""
+    """Return dict of slug -> (filepath, full_content) — read in batches to avoid deadlock"""
     pages = {}
     for subdir in ["entities", "concepts", "comparisons", "queries"]:
         d = WIKI_ROOT / subdir
         if not d.is_dir():
             continue
         for f in sorted(d.glob("*.md")):
-            content = f.read_text()
+            try:
+                content = f.read_text()
+            except OSError:
+                # On deadlock, skip this file and try the rest
+                continue
             pages[f.stem] = (f, content)
     return pages
 

@@ -1,5 +1,5 @@
 model:
-  default: meituan/longcat-2.0:free
+  default: upstage/solar-pro4:free
   provider: nous
   base_url: https://inference-api.nousresearch.com/v1
   api_mode: chat_completions
@@ -157,7 +157,7 @@ updates:
   pre_update_backup: false
   backup_keep: 5
   non_interactive_local_changes: stash
-_config_version: 45
+_config_version: 46
 group_sessions_per_user: true
 platform_toolsets:
   cli:
@@ -199,5 +199,26 @@ onboarding:
 dashboard:
   basic_auth:
     username: admin
-    password_hash: 
-      scrypt$16384$8$1$K0+0RY+hmXkeRK8jawKbjA==$h9GIN3lQRcpPrYGraZGXc/Tjv795IYTusNqs3xRzF64=
+    password_hash: scrypt$16384$8$1$K0+0RY+hmXkeRK8jawKbjA==$h9GIN3lQRcpPrYGraZGXc/Tjv795IYTusNqs3xRzF64=
+moa:
+  presets:
+    default:
+      reference_models:
+        - provider: nous
+          model: stepfun/step-3.7-flash:free
+          enabled: true
+      degraded_reference_policy: loud
+      fanout: user_turn
+      aggregator:
+        provider: nous
+        model: upstage/solar-pro4:free
+  reference_models:
+    - provider: nous
+      model: stepfun/step-3.7-flash:free
+      enabled: true
+  aggregator:
+    provider: nous
+    model: upstage/solar-pro4:free
+  degraded_reference_policy: loud
+  fanout: user_turn
+  enabled: true

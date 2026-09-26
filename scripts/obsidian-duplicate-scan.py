@@ -41,7 +41,10 @@ for key, files in groups.items():
     
     hashes = {}
     for f in files:
-        hashes[f] = hashlib.md5(f.read_bytes()).hexdigest()
+        try:
+            hashes[f] = hashlib.md5(f.read_bytes()).hexdigest()
+        except OSError:
+            continue
     
     # Find exact matches first
     seen_hashes = {}
@@ -56,6 +59,8 @@ for key, files in groups.items():
     # SequenceMatcher for non-exact pairs
     for i in range(len(files)):
         for j in range(i+1, len(files)):
+            if files[i] not in hashes or files[j] not in hashes:
+                continue
             if hashes[files[i]] == hashes[files[j]]:
                 continue
             try:
