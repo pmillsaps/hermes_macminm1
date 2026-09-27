@@ -19292,6 +19292,150 @@
       "sha256": 6289131724229574568,
       "last_processed": "2026-09-26T02:01:03.947880",
       "pages_updated": 0
+    },
+    "Coursiv/Claude for Excel/Coursiv_Claude_for_Excel_01_Claude For Excel Essentials.md": {
+      "ingested": "2026-09-27",
+      "sha256": 5516205219816708181,
+      "last_processed": "2026-09-27T02:01:06.047651",
+      "pages_updated": 1
+    },
+    "Coursiv/Claude for Excel/Coursiv_Claude_for_Excel_02_Formula Mastery.md": {
+      "ingested": "2026-09-27",
+      "sha256": -6618243487278616087,
+      "last_processed": "2026-09-27T02:01:06.049083",
+      "pages_updated": 1
+    },
+    "Coursiv/Claude for Excel/Coursiv_Claude_for_Excel_03_Data Cleaning.md": {
+      "ingested": "2026-09-27",
+      "sha256": -5249000545713694325,
+      "last_processed": "2026-09-27T02:01:06.051278",
+      "pages_updated": 1
+    },
+    "Coursiv/Claude for Excel/Coursiv_Claude_for_Excel_04_Data Analysis.md": {
+      "ingested": "2026-09-27",
+      "sha256": -7538288507764860164,
+      "last_processed": "2026-09-27T02:01:06.052855",
+      "pages_updated": 1
+    },
+    "Coursiv/Claude for Excel/Coursiv_Claude_for_Excel_05_Pivot Tables.md": {
+      "ingested": "2026-09-27",
+      "sha256": -1813258096585698751,
+      "last_processed": "2026-09-27T02:01:06.061741",
+      "pages_updated": 1
+    },
+    "Coursiv/Claude for Excel/Coursiv_Claude_for_Excel_06_Visuals Worth Presenting.md": {
+      "ingested": "2026-09-27",
+      "sha256": 4584009901858746358,
+      "last_processed": "2026-09-27T02:01:06.065904",
+      "pages_updated": 1
+    },
+    "Coursiv/Claude for Excel/Coursiv_Claude_for_Excel_07_Automation- Put Your Reports on Repeat.md": {
+      "ingested": "2026-09-27",
+      "sha256": -1458009974962089301,
+      "last_processed": "2026-09-27T02:01:06.068220",
+      "pages_updated": 1
+    },
+    "Coursiv/Land Jobs With AI/Coursiv_Land_Jobs_With_AI_01_Your Job Search Strategy.md": {
+      "ingested": "2026-09-27",
+      "sha256": -5908651317991099054,
+      "last_processed": "2026-09-27T02:01:06.070928",
+      "pages_updated": 2
+    },
+    "Coursiv/Land Jobs With AI/Coursiv_Land_Jobs_With_AI_02_Create a CV.md": {
+      "ingested": "2026-09-27",
+      "sha256": 3065382217388176620,
+      "last_processed": "2026-09-27T02:01:06.073190",
+      "pages_updated": 3
+    },
+    "Coursiv/Land Jobs With AI/Coursiv_Land_Jobs_With_AI_03_Supporting Documents.md": {
+      "ingested": "2026-09-27",
+      "sha256": 709590300190422693,
+      "last_processed": "2026-09-27T02:01:06.075889",
+      "pages_updated": 3
+    },
+    "Coursiv/Land Jobs With AI/Coursiv_Land_Jobs_With_AI_04_Online Presence and Networking.md": {
+      "ingested": "2026-09-27",
+      "sha256": -3589961367256187818,
+      "last_processed": "2026-09-27T02:01:06.078508",
+      "pages_updated": 3
+    },
+    "Coursiv/Land Jobs With AI/Coursiv_Land_Jobs_With_AI_05_Effective Applications.md": {
+      "ingested": "2026-09-27",
+      "sha256": 362100001809248493,
+      "last_processed": "2026-09-27T02:01:06.080102",
+      "pages_updated": 3
+    },
+    "Coursiv/Land Jobs With AI/Coursiv_Land_Jobs_With_AI_06_Prepare for the Interview.md": {
+      "ingested": "2026-09-27",
+      "sha256": 6808930729193779823,
+      "last_processed": "2026-09-27T02:01:06.082956",
+      "pages_updated": 3
+    },
+    "Coursiv/Land Jobs With AI/Coursiv_Land_Jobs_With_AI_07_Analyze Offers and Negotiate Professionally.md": {
+      "ingested": "2026-09-27",
+      "sha256": -2671997189385753365,
+      "last_processed": "2026-09-27T02:01:06.084518",
+      "pages_updated": 2
+    },
+    "Coursiv/Turbocharge Your Productivity with AI/Coursiv_Turbocharge_Your_Productivity_with_AI_01_Meet Your Productivity Partner.md": {
+      "ingested": "2026-09-27",
+      "sha256": 602519104572705154,
+      "last_processed": "2026-09-27T02:01:06.087189",
+      "pages_updated": 1
+    },
+    "Coursiv/Turbocharge Your Productivity with AI/Coursiv_Turbocharge_Your_Productivity_with_AI_02_Match AI Tools To Your Work.md": {
+      "ingested": "2026-09-27",
+      "sha256": 1608486693159258332,
+      "last_processed": "2026-09-27T02:01:06.088864",
+      "pages_updated": 1
+    },
+    "Coursiv/Turbocharge Your Productivity with AI/Coursiv_Turbocharge_Your_Productivity_with_AI_03_Write Emails and Reports Much Faster.md": {
+      "ingested": "2026-09-27",
+      "sha256": -4614990417473307445,
+      "last_processed": "2026-09-27T02:01:06.090609",
+      "pages_updated": 1
+    },
+    "Coursiv/Turbocharge Your Productivity with AI/Coursiv_Turbocharge_Your_Productivity_with_AI_04_From Ideas to Documents and Slides.md": {
+      "ingested": "2026-09-27",
+      "sha256": -3365900048856424602,
+      "last_processed": "2026-09-27T02:01:06.092333",
+      "pages_updated": 1
+    },
+    "Coursiv/Turbocharge Your Productivity with AI/Coursiv_Turbocharge_Your_Productivity_with_AI_05_Make Meetings Actually Productive.md": {
+      "ingested": "2026-09-27",
+      "sha256": -7314789201942903094,
+      "last_processed": "2026-09-27T02:01:06.094779",
+      "pages_updated": 1
+    },
+    "Coursiv/Turbocharge Your Productivity with AI/Coursiv_Turbocharge_Your_Productivity_with_AI_06_Extract Key Insights from Any Text.md": {
+      "ingested": "2026-09-27",
+      "sha256": -9179276064700844963,
+      "last_processed": "2026-09-27T02:01:06.096422",
+      "pages_updated": 1
+    },
+    "Coursiv/Turbocharge Your Productivity with AI/Coursiv_Turbocharge_Your_Productivity_with_AI_07_Read Smart With AI Summaries.md": {
+      "ingested": "2026-09-27",
+      "sha256": -3964844066253073602,
+      "last_processed": "2026-09-27T02:01:06.098340",
+      "pages_updated": 1
+    },
+    "Coursiv/Turbocharge Your Productivity with AI/Coursiv_Turbocharge_Your_Productivity_with_AI_08_Simplify Your Decision Making with AI.md": {
+      "ingested": "2026-09-27",
+      "sha256": -7078834130408316381,
+      "last_processed": "2026-09-27T02:01:06.100554",
+      "pages_updated": 2
+    },
+    "Coursiv/Turbocharge Your Productivity with AI/Coursiv_Turbocharge_Your_Productivity_with_AI_09_Organize Prompts You'll Actually Use.md": {
+      "ingested": "2026-09-27",
+      "sha256": -6649873341566542652,
+      "last_processed": "2026-09-27T02:01:06.105391",
+      "pages_updated": 3
+    },
+    "0-ToDo/Medium/_Subjects.md": {
+      "ingested": "2026-09-27",
+      "sha256": 2454725454745407758,
+      "last_processed": "2026-09-27T02:01:06.105632",
+      "pages_updated": 0
     }
   },
   "last_batch": null,
