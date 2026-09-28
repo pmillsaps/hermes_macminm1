@@ -19436,6 +19436,222 @@
       "sha256": 2454725454745407758,
       "last_processed": "2026-09-27T02:01:06.105632",
       "pages_updated": 0
+    },
+    "Coursiv/AI Copywriting/Coursiv_AI_Copywriting_01_AI Copywriting Foundation.md": {
+      "ingested": "2026-09-28",
+      "sha256": 8108433648634765986,
+      "last_processed": "2026-09-28T02:01:35.682667",
+      "pages_updated": 1
+    },
+    "Coursiv/AI Copywriting/Coursiv_AI_Copywriting_02_Copywriter's Toolkit and Prompting.md": {
+      "ingested": "2026-09-28",
+      "sha256": 3746557600665237419,
+      "last_processed": "2026-09-28T02:01:35.685729",
+      "pages_updated": 3
+    },
+    "Coursiv/AI Copywriting/Coursiv_AI_Copywriting_03_Research and Audience.md": {
+      "ingested": "2026-09-28",
+      "sha256": 8361394637035234298,
+      "last_processed": "2026-09-28T02:01:35.688851",
+      "pages_updated": 2
+    },
+    "Coursiv/AI Copywriting/Coursiv_AI_Copywriting_04_Persuasive Frameworks and Clear Copy.md": {
+      "ingested": "2026-09-28",
+      "sha256": -5366886678962926355,
+      "last_processed": "2026-09-28T02:01:35.691365",
+      "pages_updated": 3
+    },
+    "Coursiv/AI Copywriting/Coursiv_AI_Copywriting_05_Editing & Iteration With AI.md": {
+      "ingested": "2026-09-28",
+      "sha256": 321980823424155077,
+      "last_processed": "2026-09-28T02:01:35.694223",
+      "pages_updated": 1
+    },
+    "Coursiv/AI Copywriting/Coursiv_AI_Copywriting_06_SEO and Headlines.md": {
+      "ingested": "2026-09-28",
+      "sha256": 8005139932520605841,
+      "last_processed": "2026-09-28T02:01:35.702635",
+      "pages_updated": 2
+    },
+    "Coursiv/AI Copywriting/Coursiv_AI_Copywriting_07_Web and Landing Page Copy.md": {
+      "ingested": "2026-09-28",
+      "sha256": 6844576432730428410,
+      "last_processed": "2026-09-28T02:01:35.704001",
+      "pages_updated": 1
+    },
+    "Coursiv/AI Copywriting/Coursiv_AI_Copywriting_08_Product Pages.md": {
+      "ingested": "2026-09-28",
+      "sha256": -9186445224214065973,
+      "last_processed": "2026-09-28T02:01:35.706039",
+      "pages_updated": 1
+    },
+    "Coursiv/AI Copywriting/Coursiv_AI_Copywriting_09_Email and Social Media Copy.md": {
+      "ingested": "2026-09-28",
+      "sha256": -8070996644194548838,
+      "last_processed": "2026-09-28T02:01:35.710103",
+      "pages_updated": 1
+    },
+    "Coursiv/AI Copywriting/Coursiv_AI_Copywriting_10_Ad Copy.md": {
+      "ingested": "2026-09-28",
+      "sha256": -861008487511568921,
+      "last_processed": "2026-09-28T02:01:35.712603",
+      "pages_updated": 1
+    },
+    "Coursiv/AI Copywriting/Coursiv_AI_Copywriting_11_Long Form Content.md": {
+      "ingested": "2026-09-28",
+      "sha256": 912135339382289699,
+      "last_processed": "2026-09-28T02:01:35.715320",
+      "pages_updated": 2
+    },
+    "Coursiv/AI Copywriting/Coursiv_AI_Copywriting_12_Your AI Copywriting Business.md": {
+      "ingested": "2026-09-28",
+      "sha256": 2516300228293255631,
+      "last_processed": "2026-09-28T02:01:35.718577",
+      "pages_updated": 1
+    },
+    "Coursiv/AI for Business Operations/Coursiv_AI_for_Business_Operations_01_The Power of AI for Management.md": {
+      "ingested": "2026-09-28",
+      "sha256": 2676368641395467776,
+      "last_processed": "2026-09-28T02:01:35.720589",
+      "pages_updated": 1
+    },
+    "Coursiv/AI for Business Operations/Coursiv_AI_for_Business_Operations_02_AI For Research & Intelligence.md": {
+      "ingested": "2026-09-28",
+      "sha256": -3576147901944371700,
+      "last_processed": "2026-09-28T02:01:35.723782",
+      "pages_updated": 1
+    },
+    "Coursiv/AI for Business Operations/Coursiv_AI_for_Business_Operations_03_Data Driven Management.md": {
+      "ingested": "2026-09-28",
+      "sha256": 3512925258599714974,
+      "last_processed": "2026-09-28T02:01:35.726079",
+      "pages_updated": 1
+    },
+    "Coursiv/AI for Business Operations/Coursiv_AI_for_Business_Operations_04_Scenario Planning & Strategic Decision-Making.md": {
+      "ingested": "2026-09-28",
+      "sha256": -3444857976955152084,
+      "last_processed": "2026-09-28T02:01:35.728718",
+      "pages_updated": 1
+    },
+    "Coursiv/AI for Business Operations/Coursiv_AI_for_Business_Operations_05_AI In Meetings- From Talk To Action.md": {
+      "ingested": "2026-09-28",
+      "sha256": 272121228261813064,
+      "last_processed": "2026-09-28T02:01:35.730539",
+      "pages_updated": 2
+    },
+    "Coursiv/AI for Business Operations/Coursiv_AI_for_Business_Operations_06_Powerful Presentations & Storytelling.md": {
+      "ingested": "2026-09-28",
+      "sha256": -8445539594072731869,
+      "last_processed": "2026-09-28T02:01:35.732739",
+      "pages_updated": 0
+    },
+    "Coursiv/AI for Business Operations/Coursiv_AI_for_Business_Operations_07_High-Impact Communications.md": {
+      "ingested": "2026-09-28",
+      "sha256": -215226106506469520,
+      "last_processed": "2026-09-28T02:01:35.734798",
+      "pages_updated": 1
+    },
+    "Coursiv/AI for Business Operations/Coursiv_AI_for_Business_Operations_08_Ethical Leadership & Governance in an AI World.md": {
+      "ingested": "2026-09-28",
+      "sha256": -4790444109402717748,
+      "last_processed": "2026-09-28T02:01:35.736576",
+      "pages_updated": 1
+    },
+    "Coursiv/AI for Product Development/Coursiv_AI_for_Product_Development_01_From Personal Context to Initial Product Ideas.md": {
+      "ingested": "2026-09-28",
+      "sha256": 7526110715470076759,
+      "last_processed": "2026-09-28T02:01:35.738334",
+      "pages_updated": 3
+    },
+    "Coursiv/AI for Product Development/Coursiv_AI_for_Product_Development_02_Market Demand & Opportunity Validation.md": {
+      "ingested": "2026-09-28",
+      "sha256": 601959587383382649,
+      "last_processed": "2026-09-28T02:01:35.740718",
+      "pages_updated": 3
+    },
+    "Coursiv/AI for Product Development/Coursiv_AI_for_Product_Development_03_Analyzing Competetive Landscape.md": {
+      "ingested": "2026-09-28",
+      "sha256": -2795000829628912934,
+      "last_processed": "2026-09-28T02:01:35.742792",
+      "pages_updated": 2
+    },
+    "Coursiv/AI for Product Development/Coursiv_AI_for_Product_Development_04_Target Audience Discovery.md": {
+      "ingested": "2026-09-28",
+      "sha256": -4842160292999134495,
+      "last_processed": "2026-09-28T02:01:35.745321",
+      "pages_updated": 3
+    },
+    "Coursiv/AI for Product Development/Coursiv_AI_for_Product_Development_05_Product Purpose and Mission.md": {
+      "ingested": "2026-09-28",
+      "sha256": -823742287329883988,
+      "last_processed": "2026-09-28T02:01:35.749263",
+      "pages_updated": 3
+    },
+    "Coursiv/AI for Product Development/Coursiv_AI_for_Product_Development_06_Strategic Positioning and USP.md": {
+      "ingested": "2026-09-28",
+      "sha256": -2934097874686038689,
+      "last_processed": "2026-09-28T02:01:35.751751",
+      "pages_updated": 3
+    },
+    "Coursiv/AI for Product Development/Coursiv_AI_for_Product_Development_07_Monetization Models & Pricing.md": {
+      "ingested": "2026-09-28",
+      "sha256": 6448696561607497887,
+      "last_processed": "2026-09-28T02:01:35.753952",
+      "pages_updated": 2
+    },
+    "Coursiv/AI for Product Development/Coursiv_AI_for_Product_Development_08_Business Model Validation.md": {
+      "ingested": "2026-09-28",
+      "sha256": -5620342495367549242,
+      "last_processed": "2026-09-28T02:01:35.755520",
+      "pages_updated": 2
+    },
+    "Coursiv/AI-Powered Creative Income/Coursiv_AI-Powered_Creative_Income_01_Product Images.md": {
+      "ingested": "2026-09-28",
+      "sha256": 279914953852195916,
+      "last_processed": "2026-09-28T02:01:35.760198",
+      "pages_updated": 1
+    },
+    "Coursiv/AI-Powered Creative Income/Coursiv_AI-Powered_Creative_Income_02_Client Design.md": {
+      "ingested": "2026-09-28",
+      "sha256": -8988920340390350439,
+      "last_processed": "2026-09-28T02:01:35.761489",
+      "pages_updated": 1
+    },
+    "Coursiv/AI-Powered Creative Income/Coursiv_AI-Powered_Creative_Income_03_Writing Books.md": {
+      "ingested": "2026-09-28",
+      "sha256": 3525814854772839015,
+      "last_processed": "2026-09-28T02:01:35.770626",
+      "pages_updated": 2
+    },
+    "Coursiv/AI-Powered Creative Income/Coursiv_AI-Powered_Creative_Income_04_Video Workflows.md": {
+      "ingested": "2026-09-28",
+      "sha256": 4519236989276838224,
+      "last_processed": "2026-09-28T02:01:35.772211",
+      "pages_updated": 1
+    },
+    "Coursiv/AI-Powered Creative Income/Coursiv_AI-Powered_Creative_Income_05_Audio Workflows.md": {
+      "ingested": "2026-09-28",
+      "sha256": -8120622085655947701,
+      "last_processed": "2026-09-28T02:01:35.773360",
+      "pages_updated": 2
+    },
+    "Coursiv/AI-Powered Creative Income/Coursiv_AI-Powered_Creative_Income_06_Impressive Presentations.md": {
+      "ingested": "2026-09-28",
+      "sha256": -6794507954398999251,
+      "last_processed": "2026-09-28T02:01:35.774712",
+      "pages_updated": 0
+    },
+    "Coursiv/AI-Powered Creative Income/Coursiv_AI-Powered_Creative_Income_07_Creative Project-Management.md": {
+      "ingested": "2026-09-28",
+      "sha256": -3709726143118454518,
+      "last_processed": "2026-09-28T02:01:35.776466",
+      "pages_updated": 3
+    },
+    "Coursiv/AI-Powered Creative Income/Coursiv_AI-Powered_Creative_Income_08_Finding and Comunication with Clients.md": {
+      "ingested": "2026-09-28",
+      "sha256": 5135215132134192711,
+      "last_processed": "2026-09-28T02:01:35.777783",
+      "pages_updated": 2
     }
   },
   "last_batch": null,
