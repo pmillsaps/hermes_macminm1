@@ -19652,6 +19652,108 @@
       "sha256": 5135215132134192711,
       "last_processed": "2026-09-28T02:01:35.777783",
       "pages_updated": 2
+    },
+    "Coursiv/AI in Design/Coursiv_AI_in_Design_01_What AI Can Do for Your Designs.md": {
+      "ingested": "2026-09-29",
+      "sha256": -6695964128697078847,
+      "last_processed": "2026-09-29T02:01:12.379447",
+      "pages_updated": 0
+    },
+    "Coursiv/AI in Design/Coursiv_AI_in_Design_02_Prompting for Design.md": {
+      "ingested": "2026-09-29",
+      "sha256": 8810496867431714121,
+      "last_processed": "2026-09-29T02:01:12.391983",
+      "pages_updated": 1
+    },
+    "Coursiv/AI in Design/Coursiv_AI_in_Design_03_Moodboards With AI.md": {
+      "ingested": "2026-09-29",
+      "sha256": -6878979523139520061,
+      "last_processed": "2026-09-29T02:01:12.417646",
+      "pages_updated": 0
+    },
+    "Coursiv/AI in Design/Coursiv_AI_in_Design_04_Visual Brand Idenity.md": {
+      "ingested": "2026-09-29",
+      "sha256": -6633395907972355729,
+      "last_processed": "2026-09-29T02:01:12.420524",
+      "pages_updated": 1
+    },
+    "Coursiv/AI in Design/Coursiv_AI_in_Design_05_Editing and Enhancing Images.md": {
+      "ingested": "2026-09-29",
+      "sha256": 4832578452035943613,
+      "last_processed": "2026-09-29T02:01:12.421648",
+      "pages_updated": 0
+    },
+    "Coursiv/AI in Design/Coursiv_AI_in_Design_06_Social Media Graphics With AI.md": {
+      "ingested": "2026-09-29",
+      "sha256": 9102362171955462232,
+      "last_processed": "2026-09-29T02:01:12.435264",
+      "pages_updated": 1
+    },
+    "Coursiv/AI in Design/Coursiv_AI_in_Design_07_UI Screens.md": {
+      "ingested": "2026-09-29",
+      "sha256": 6735582055126268481,
+      "last_processed": "2026-09-29T02:01:12.436485",
+      "pages_updated": 1
+    },
+    "Coursiv/AI in Design/Coursiv_AI_in_Design_08_AI Feedback and Iteration.md": {
+      "ingested": "2026-09-29",
+      "sha256": -1831081135088869765,
+      "last_processed": "2026-09-29T02:01:12.438645",
+      "pages_updated": 1
+    },
+    "Coursiv/AI in Design/Coursiv_AI_in_Design_09_AI Design Workflow.md": {
+      "ingested": "2026-09-29",
+      "sha256": 1807849075051446788,
+      "last_processed": "2026-09-29T02:01:12.440880",
+      "pages_updated": 1
+    },
+    "Coursiv/Boost Your Sales with AI/Coursiv_Boost_Your_Sales_with_AI_01_Why AI is Your Sales Superpower.md": {
+      "ingested": "2026-09-29",
+      "sha256": -7600919724257930542,
+      "last_processed": "2026-09-29T02:01:12.443270",
+      "pages_updated": 1
+    },
+    "Coursiv/Boost Your Sales with AI/Coursiv_Boost_Your_Sales_with_AI_02_Write Better Emails in 60 Seconds.md": {
+      "ingested": "2026-09-29",
+      "sha256": -4369298631722120086,
+      "last_processed": "2026-09-29T02:01:12.444934",
+      "pages_updated": 1
+    },
+    "Coursiv/Boost Your Sales with AI/Coursiv_Boost_Your_Sales_with_AI_03_Find Customers Who Will Actually Buy.md": {
+      "ingested": "2026-09-29",
+      "sha256": 8848161420016630223,
+      "last_processed": "2026-09-29T02:01:12.446543",
+      "pages_updated": 0
+    },
+    "Coursiv/Boost Your Sales with AI/Coursiv_Boost_Your_Sales_with_AI_04_Never Forget a Follow-Up Again.md": {
+      "ingested": "2026-09-29",
+      "sha256": -1390703029606950471,
+      "last_processed": "2026-09-29T02:01:12.448197",
+      "pages_updated": 1
+    },
+    "Coursiv/Boost Your Sales with AI/Coursiv_Boost_Your_Sales_with_AI_05_Turn Objections into Closed Deals.md": {
+      "ingested": "2026-09-29",
+      "sha256": -2806131763336984707,
+      "last_processed": "2026-09-29T02:01:12.450767",
+      "pages_updated": 1
+    },
+    "Coursiv/Boost Your Sales with AI/Coursiv_Boost_Your_Sales_with_AI_06_Let A Chatbot Answer Questions.md": {
+      "ingested": "2026-09-29",
+      "sha256": -1448952294968376638,
+      "last_processed": "2026-09-29T02:01:12.452426",
+      "pages_updated": 1
+    },
+    "Coursiv/Boost Your Sales with AI/Coursiv_Boost_Your_Sales_with_AI_07_Analyze and Learn From Your Calls.md": {
+      "ingested": "2026-09-29",
+      "sha256": -5504531345672591197,
+      "last_processed": "2026-09-29T02:01:12.454117",
+      "pages_updated": 1
+    },
+    "Coursiv/Boost Your Sales with AI/Coursiv_Boost_Your_Sales_with_AI_08_From Learning to Doing- Your Action Plan.md": {
+      "ingested": "2026-09-29",
+      "sha256": -6404853915372739791,
+      "last_processed": "2026-09-29T02:01:12.454740",
+      "pages_updated": 0
     }
   },
   "last_batch": null,
