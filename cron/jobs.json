@@ -80,15 +80,15 @@
       "schedule_display": "0 2 * * *",
       "repeat": {
         "times": null,
-        "completed": 11
+        "completed": 12
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-19T04:56:31.069460-05:00",
-      "next_run_at": "2026-09-30T02:00:00-05:00",
-      "last_run_at": "2026-09-29T02:03:59.146776-05:00",
+      "next_run_at": "2026-10-01T02:00:00-05:00",
+      "last_run_at": "2026-09-30T02:02:02.806369-05:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -99,9 +99,9 @@
       "enabled_toolsets": null,
       "workdir": "/Users/paulmillsaps/Documents/_Obsidian/wiki",
       "last_dispatch": {
-        "scheduled_at": "2026-09-29T02:00:00-05:00",
-        "dispatched_at": "2026-09-29T02:00:54.271430-05:00",
-        "lateness_seconds": 54.3,
+        "scheduled_at": "2026-09-30T02:00:00-05:00",
+        "dispatched_at": "2026-09-30T02:00:00.796132-05:00",
+        "lateness_seconds": 0.8,
         "kind": "on_time"
       },
       "fire_claim": null
@@ -131,15 +131,15 @@
       "schedule_display": "0 3 * * *",
       "repeat": {
         "times": null,
-        "completed": 10
+        "completed": 11
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-19T06:54:41.235908-05:00",
-      "next_run_at": "2026-09-30T03:00:00-05:00",
-      "last_run_at": "2026-09-28T03:00:55.964092-05:00",
+      "next_run_at": "2026-10-01T03:00:00-05:00",
+      "last_run_at": "2026-09-29T03:00:56.345899-05:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -150,14 +150,14 @@
       "enabled_toolsets": null,
       "workdir": "/Users/paulmillsaps/.hermes-backup-repo",
       "last_dispatch": {
-        "scheduled_at": "2026-09-29T03:00:00-05:00",
-        "dispatched_at": "2026-09-29T03:00:54.312465-05:00",
-        "lateness_seconds": 54.3,
+        "scheduled_at": "2026-09-30T03:00:00-05:00",
+        "dispatched_at": "2026-09-30T03:00:00.710534-05:00",
+        "lateness_seconds": 0.7,
         "kind": "on_time"
       },
       "fire_claim": {
-        "at": "2026-09-29T03:00:54.334170-05:00",
-        "by": "Vera.home.local:28378:2a6190471f3248c089ea0014768390b3"
+        "at": "2026-09-30T03:00:00.759232-05:00",
+        "by": "Vera.home.local:1501:98ca4fe8201d49ea82271210ddfce3d1"
       }
     },
     {
@@ -185,15 +185,15 @@
       "schedule_display": "0 4 * * *",
       "repeat": {
         "times": null,
-        "completed": 11
+        "completed": 12
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-19T07:02:30.939492-05:00",
-      "next_run_at": "2026-09-29T04:00:00-05:00",
-      "last_run_at": "2026-09-28T04:02:16.583205-05:00",
+      "next_run_at": "2026-09-30T04:00:00-05:00",
+      "last_run_at": "2026-09-29T04:06:00.835930-05:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -204,13 +204,13 @@
       "enabled_toolsets": null,
       "workdir": null,
       "last_dispatch": {
-        "scheduled_at": "2026-09-28T04:00:00-05:00",
-        "dispatched_at": "2026-09-28T04:00:53.999938-05:00",
-        "lateness_seconds": 54.0,
+        "scheduled_at": "2026-09-29T04:00:00-05:00",
+        "dispatched_at": "2026-09-29T04:00:54.377252-05:00",
+        "lateness_seconds": 54.4,
         "kind": "on_time"
       },
       "fire_claim": null
     }
   ],
-  "updated_at": "2026-09-29T03:00:54.334362-05:00"
+  "updated_at": "2026-09-30T03:00:00.759965-05:00"
 }
