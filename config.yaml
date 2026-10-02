@@ -1,5 +1,5 @@
 model:
-  default: upstage/solar-pro4:free
+  default: poolside/laguna-s-2.1:free
   provider: nous
   base_url: https://inference-api.nousresearch.com/v1
   api_mode: chat_completions

@@ -19754,6 +19754,510 @@
       "sha256": -6404853915372739791,
       "last_processed": "2026-09-29T02:01:12.454740",
       "pages_updated": 0
+    },
+    "Programming/Development/SDD/SDD, Kent Beck, and Martin Fowler Why Spec-Anchored Development Wins 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:06.941673",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Harnesses/Harnesses Eager vs. Just-in-Time 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:06.941673",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Anatomy of an Excellent OpenCode Skill Lessons from cloudflare-skill 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Build and Connect Your First MCP Server to OpenCode on Windows 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Building a Complete Personal Harness LLM Wiki + Developer\u2019s Second Brain in Obsidian 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Copilot vs OpenCode on a Real FIDO2 Server 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Do These 5 Things First After Installing Hermes Agent 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Generate HTML First, Then Export to PDF 1 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Git for Agent Memory Why You Should Treat Hermes Skills Like Code 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/GitLab\u2019s Official MCP Server One Config Line, One Hidden Gate 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes + Open Router as replacement for GitHub Copilot 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes AI Assistant Skills \u2014 for Real Production Setups 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes AI Assistant \u2014 Install, Setup, Workflow, and Troubleshooting 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Agent + Ollama FASTEST Way to Install Locally 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Agent + Polymarket \u2014 how i built self-learning weather trading bot $100 \u2192 $5,000 ( guide ) 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Agent Advanced self-evolving skills, MCP, subagents, and production 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Agent CLI cheat sheet \u2014 commands, flags, and slash shortcuts 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Agent Desktop A Step-by-Step Settings Guide for Real Workflows 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Agent Just Beat Claude Code on GitHub. But the Agent on My Server Already Does What Hermes Promises 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Agent Memory System How Persistent AI Memory Actually Works 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Agent Official Desktop Launch Zero-Configuration Across All Platforms, Seamless Migration for OpenClaw Users 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Agent Setup + Capturing Your Dev Patterns via OpenCode 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Agent Skill Authoring \u2014 SKILL.md Structure and Best Practices 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Agent Starter Under 10 Minutes Zero-to-GitOps Workflow 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Agent The Hype, The Reality, and Who Should Actually Use It 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Agent When the AI Lives on a Server Instead of in Our Editor 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Agent for Beginners Install and First Run (Part -1) 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Agent for Workflow Automation Everything You Need to Know 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Agent in 2026 Install It Once, Then Let It Run Your Work 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Agent the first AI agent that keeps what it learns 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Agent\u2019s goal Command Makes AI Stop Quitting Halfway Through the Job 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Skill Prompts/Hermes AI Assistant Skills for Real Production Setups 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:06.941673",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Skill Prompts/I Open-Sourced the Skills That Run My AI Fleet 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:06.941673",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Skill Prompts/I Used AI to Make My Own Daily Newspaper & Honestly It Has Changed My Life 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:06.941673",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Skill Prompts/Obsidian x Hermes Agent Is So Good I\u2019m Actively Deleting Day-to-Day Apps 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:06.941673",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Skill Prompts/Skill - Complaint Scout \u2014 Daily Micro-Product Opportunity Finder 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:06.941673",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Skill Prompts/The one where AI for Product Managers is actually good 1 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:06.941673",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes Skill Prompts/Three Insights for Building Great Claude Skills 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:06.941673",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Hermes vs OpenClaw The First Real Rival in the Autonomous AI Agent Race 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/How The Hermes Agent Memory Really Works 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/How to Play with SOUL.md in Hermes Agent 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/How to Port an Existing Skill from Hermes Agent to OpenCode 1 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/How to Port an Existing Skill from Hermes Agent to OpenCode 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/I Built an AI Second Brain to cure my information overload. And here is how 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/I Connected Hermes Agent to ON Compute MCP - Now My Agent Can Run Real GPU Jobs 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/I Let Hermes Agent Process My Obsidian Vault Overnight 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Introducing Hermes IDE An AI-Native Terminal That Actually Understands Your Projects 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Introducing Kai (Kyberneees AI) A Universal Brain for OpenCode 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Introducing ncoder 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Migrating from chatbots to agents how Claude Code + Hermes helps teams ship 25% more PRs 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Most Hermes Skills Are Broken \u2014 Here\u2019s Why 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/My Current Obsidian x Hermes Agent Setup (Full Configuration Breakdown) 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/My Journey in OpenCode'19 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:06.941673",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/OpenCode Support in RexIDE from v2026.02.0106 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Opencode 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Opencode, an AI coding agent, built for the terminal 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/Turn Your Skills into a Fleet of Subagents \u2014 Then Run Them All at Once 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/What Is Hermes Agent and Why Is Everyone Talking About It 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/\ud83d\ude80 OpenCode When the Terminal Becomes the Real IDE 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Use Cases/15 OpenClaw Use Cases What Actually Works in 2027.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:06.941673",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Tools/Free Inference/8 Free Ways to Access GLM-5.2 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:06.941673",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Money Making/I Tracked Every Prompt I Used for 30 Days. Only 4 Categories Actually Made Money 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:06.941673",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Video/How to Build an AI Animation Factory That Runs 248.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:06.941673",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "0-ToDo/AI Profile 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:06.941673",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Obsidian/Obsidian CLI How the Command Line Will Change Note\u2011Taking 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:06.941673",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Obsidian/obsidian-skills Teaches Your Agent to Drive Obsidian, Not Just Read It 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:06.941673",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Models/NVIDIA Just Dropped the Most Efficient Reasoning Model of 2027.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:06.941673",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Agents/Hermes/My Journey in OpenCode\u201919 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault (ls/stat) but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Business/How to Test Demand for Your Idea. Do This Before You Launch 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Books/Humble Tech Book Bundle AI in Production Governance, Reliability, and Application by Manning 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Books/The All-Inclusive Codex, Claude Code & Python Automation Bundle 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "OKF/Google\u2019s Open Knowledge Format (OKF) 2.md": {
+      "ingested": "2026-10-01",
+      "sha256": "deadlock_unreadable_sparse_file_blocks0",
+      "last_processed": "2026-10-01T05:53:59.141783",
+      "pages_updated": 0,
+      "note": "File exists in vault but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
     }
   },
   "last_batch": null,
