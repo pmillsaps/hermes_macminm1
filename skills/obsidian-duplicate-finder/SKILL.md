@@ -32,23 +32,25 @@ cd /Users/paulmillsaps/Documents/_Obsidian && git pull origin main
 3. Group by base name, stripping common suffixes: ` 1`, ` 2`, ` - Copy`.
 4. For groups with 2+ files, compare content using MD5 first, then `difflib.SequenceMatcher`.
 5. Record groups where the best pair has ≥90% similarity.
-6. **Auto-delete for 100% matches**: For groups with 100% similarity, delete the newest file(s) by creation date, keeping only the oldest. Log these deletions.
+6. **Auto-delete for 100% matches**: When files are exactly identical (MD5 match), automatically delete the "copy" file — defined as the file whose name ends with ` 1`, ` 2`, etc. (space followed by number). The "original" is the file without the numbered suffix. If both have numbered suffixes or neither does, keep the lower-numbered or alphabetically-first file. Log each deletion to the report.
 7. Write results to `0-ToDo/Duplicate File Checks.md` (in the vault root).
    - Header: `# Duplicate File Checks`
+   - Sub-sections: `## Auto-Deleted (100% identical copies)` then `## Remaining Duplicates (90%+ similarity)`
    - Each group separated by `---`
    - HTML comment `<!-- Similarity: XX.XX% -->` above each group
-   - Each file as a `[[wikilink]]` with path (no `.md`) for disambiguation
-   - Blank line between entries within a group
-   - **Consistent formatting**: All links use the same format: `[[path/to/filename]]` — full relative path from vault root, no `.md` extension. This keeps font size uniform (all entries are single-line wikilinks of similar structure) while showing location for processing.
-8. Commit and push the results:
+   - Each file as a `[[wikilink]]` with full relative path (no `.md`) for disambiguation
+   - Deleted copies shown as `~~[[wikilink]]~~ ✅deleted` in the auto-deleted section
+   - Consistent formatting: all links use `[[path/to/filename]]` — full vault-relative path, no `.md`
+8. Commit and push the results and deletions:
 ```bash
-cd /Users/paulmillsaps/Documents/_Obsidian && git add -A && git commit -m "Duplicate file check: N groups, M auto-deleted" && git push origin main
+cd /Users/paulmillsaps/Documents/_Obsidian && git add -A -- '.obsidian' '.github' '0-ToDo/Duplicate File Checks.md' && git add -A -- '1-Inbox/' '2-Clippings/' 'AI/' 'Agents/' 'Business Ideas/' 'Hermes/' 'Hardware/' 'LLM Comparisons/' 'Money Making/' 'Personal Finance/' 'Programming/' 'Prompts/' 'Research/' 'Social Media/' 'Stock Analysis/' 'Tools/' 'Trading/' 'Video/' 'Writing/' 'PKM/' 'N8N/' 'MCP/' 'RAG/' 'Ollama/' 'DeepSeek/' 'Llama/' 'Kimi/' 'Qwen/' 'Obsidian/' 'SAAS/' 'Software/' 'Skills/' 'Side Hustles/' '0-ToDo/' && git commit -m "Duplicate file check: N groups, M auto-deleted" && git push origin main
 ```
+**Pitfall:** `git add -A` fails on files with special characters in names (Resource deadlock). Stage paths in batches — exclude `.obsidian` with `-- ':.obsidian'` if only the duplicate check needs committing. The `.obsidian` plugin files are untracked noise; they cause lock contention during git operations.
 
 ## Key implementation notes
 
 - **Hash-then-diff**: MD5 compare first (fast path for exact matches), then SequenceMatcher.
-- **100% match auto-delete**: When similarity is exactly 100%, sort files by creation date (oldest first), keep the oldest, delete the rest. Use `os.stat().st_birthtime` (macOS) or `os.stat().st_mtime` as fallback.
+- **100% match auto-delete**: When MD5 matches exactly, delete the file with the numbered suffix (` 1`, ` 2`, etc.). The unsuffixed file is the original. If both have numbered suffixes, keep the lower number. If neither has a suffix, keep alphabetically first. Log each deletion.
 - **Consistent link format**: All entries use `[[path/to/filename]]` — full vault-relative path, no `.md`. This ensures uniform font size in Obsidian (all links render as single-line wikilinks) while preserving location context for processing.
 - **Performance**: ~4,500 files takes ~8s for grouping + ~20s for pairwise content comparison on a modern Mac.
 

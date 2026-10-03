@@ -20258,6 +20258,126 @@
       "last_processed": "2026-10-01T05:53:59.141783",
       "pages_updated": 0,
       "note": "File exists in vault but is a sparse file with blocks=0; cannot be read (EDEADLK). Untracked by git."
+    },
+    "Prompts/The Bouncer.md": {
+      "ingested": "2026-10-03",
+      "sha256": -3327700224906689667,
+      "last_processed": "2026-10-03T02:00:30.913753",
+      "pages_updated": 0
+    },
+    "Prompts/Where teams and agents work together.md": {
+      "ingested": "2026-10-03",
+      "sha256": -8026934732061571182,
+      "last_processed": "2026-10-03T02:00:30.913926",
+      "pages_updated": 0
+    },
+    "Coursiv/AI Social Influence & Blogging/Coursiv_AI_Social_Influence_&_Blogging_01_Your First Steps.md": {
+      "ingested": "2026-10-03",
+      "sha256": -3821511527921197034,
+      "last_processed": "2026-10-03T02:00:30.934912",
+      "pages_updated": 0
+    },
+    "Coursiv/AI Social Influence & Blogging/Coursiv_AI_Social_Influence_&_Blogging_02_AI Influencers and When They Win.md": {
+      "ingested": "2026-10-03",
+      "sha256": -1331885870188959293,
+      "last_processed": "2026-10-03T02:00:30.937315",
+      "pages_updated": 1
+    },
+    "Coursiv/AI Social Influence & Blogging/Coursiv_AI_Social_Influence_&_Blogging_03_Influencer Brand Identity.md": {
+      "ingested": "2026-10-03",
+      "sha256": 1254277913018514419,
+      "last_processed": "2026-10-03T02:00:30.945232",
+      "pages_updated": 3
+    },
+    "Coursiv/AI Social Influence & Blogging/Coursiv_AI_Social_Influence_&_Blogging_04_Connecting With Your Audience.md": {
+      "ingested": "2026-10-03",
+      "sha256": -1137409193030323593,
+      "last_processed": "2026-10-03T02:00:30.947382",
+      "pages_updated": 3
+    },
+    "Coursiv/AI Social Influence & Blogging/Coursiv_AI_Social_Influence_&_Blogging_05_Content Strategy and Creation.md": {
+      "ingested": "2026-10-03",
+      "sha256": -4600808203210426429,
+      "last_processed": "2026-10-03T02:00:30.960654",
+      "pages_updated": 2
+    },
+    "Coursiv/AI Social Influence & Blogging/Coursiv_AI_Social_Influence_&_Blogging_06_Video Content.md": {
+      "ingested": "2026-10-03",
+      "sha256": -2064509260476629402,
+      "last_processed": "2026-10-03T02:00:30.962151",
+      "pages_updated": 2
+    },
+    "Coursiv/AI Social Influence & Blogging/Coursiv_AI_Social_Influence_&_Blogging_07_Platforms and Profiles.md": {
+      "ingested": "2026-10-03",
+      "sha256": 250066661876983460,
+      "last_processed": "2026-10-03T02:00:30.963799",
+      "pages_updated": 1
+    },
+    "Coursiv/AI Social Influence & Blogging/Coursiv_AI_Social_Influence_&_Blogging_08_Brand and Peer Collaborations.md": {
+      "ingested": "2026-10-03",
+      "sha256": -5527519566768602370,
+      "last_processed": "2026-10-03T02:00:30.970049",
+      "pages_updated": 1
+    },
+    "Coursiv/AI Social Influence & Blogging/Coursiv_AI_Social_Influence_&_Blogging_09_Measuriung What Matters.md": {
+      "ingested": "2026-10-03",
+      "sha256": 4142512801133312672,
+      "last_processed": "2026-10-03T02:00:30.970965",
+      "pages_updated": 1
+    },
+    "Coursiv/AI Social Influence & Blogging/Coursiv_AI_Social_Influence_&_Blogging_10_Monetization.md": {
+      "ingested": "2026-10-03",
+      "sha256": -4880976505620038429,
+      "last_processed": "2026-10-03T02:00:30.971997",
+      "pages_updated": 1
+    },
+    "Coursiv/Marketing_Your_Business_with_AI/Coursiv_Marketing_Your_Business_with_AI_01_How AI Changes Modern Marketing.md": {
+      "ingested": "2026-10-03",
+      "sha256": 821460534816798643,
+      "last_processed": "2026-10-03T02:00:30.974206",
+      "pages_updated": 0
+    },
+    "Coursiv/Marketing_Your_Business_with_AI/Coursiv_Marketing_Your_Business_with_AI_02_Discover What Makes Your Business Special.md": {
+      "ingested": "2026-10-03",
+      "sha256": 859065645174387630,
+      "last_processed": "2026-10-03T02:00:30.976047",
+      "pages_updated": 1
+    },
+    "Coursiv/Marketing_Your_Business_with_AI/Coursiv_Marketing_Your_Business_with_AI_03_Write Words That Sell.md": {
+      "ingested": "2026-10-03",
+      "sha256": 4475357183905227040,
+      "last_processed": "2026-10-03T02:00:30.978221",
+      "pages_updated": 0
+    },
+    "Coursiv/Marketing_Your_Business_with_AI/Coursiv_Marketing_Your_Business_with_AI_04_Design Scroll-Stopping Visuals.md": {
+      "ingested": "2026-10-03",
+      "sha256": 8043255095348390375,
+      "last_processed": "2026-10-03T02:00:30.997186",
+      "pages_updated": 0
+    },
+    "Coursiv/Marketing_Your_Business_with_AI/Coursiv_Marketing_Your_Business_with_AI_05_Make AI Your Social Media Assistant.md": {
+      "ingested": "2026-10-03",
+      "sha256": -1059391341542925515,
+      "last_processed": "2026-10-03T02:00:31.006265",
+      "pages_updated": 1
+    },
+    "Coursiv/Marketing_Your_Business_with_AI/Coursiv_Marketing_Your_Business_with_AI_06_Turn Customer Queries Into Content.md": {
+      "ingested": "2026-10-03",
+      "sha256": -6451247193587687502,
+      "last_processed": "2026-10-03T02:00:31.007823",
+      "pages_updated": 1
+    },
+    "Coursiv/Marketing_Your_Business_with_AI/Coursiv_Marketing_Your_Business_with_AI_07_Measure Your Marketing Effectively.md": {
+      "ingested": "2026-10-03",
+      "sha256": 6301788968492984909,
+      "last_processed": "2026-10-03T02:00:31.008894",
+      "pages_updated": 2
+    },
+    "Coursiv/Marketing_Your_Business_with_AI/Coursiv_Marketing_Your_Business_with_AI_08_Build Your 30-Day Marketing Plan.md": {
+      "ingested": "2026-10-03",
+      "sha256": 3018068303998947676,
+      "last_processed": "2026-10-03T02:00:31.010219",
+      "pages_updated": 0
     }
   },
   "last_batch": null,

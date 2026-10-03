@@ -490,6 +490,11 @@ vault in Obsidian on your laptop/phone — changes appear within seconds.
   first, then use them.
 - **Keep pages scannable** — a wiki page should be readable in 30 seconds. Split pages over
   200 lines. Move detailed analysis to dedicated deep-dive pages.
+- **Use mechanical scripts for bulk vault-to-wiki sync** — per-file LLM reasoning on large
+  vault batches consumes the entire token budget without producing a useful answer. When
+  re-ingesting many files against an existing wiki, use a hash-based script that bumps
+  `updated` dates and adds source references, not one LLM turn per file. Reserve LLM
+  reasoning for the first ingest of a source or when genuinely new entities are detected.
 - **Ask before mass-updating** — if an ingest would touch 10+ existing pages, confirm
   the scope with the user first.
 - **Rotate the log** — when log.md exceeds 500 entries, rename it `log-YYYY.md` and start fresh.
