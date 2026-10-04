@@ -133,7 +133,7 @@ lines.append(f"## Auto-Deleted (100% identical copies)")
 lines.append(f"**{deleted}** copies were deleted (name ended with ` 1`, ` 2`, etc.):")
 lines.append("")
 for dl in deletion_log:
-    rel = Path(dl).relative_to(VAULT_ROOT).as_posix().replace('.md', '')
+    rel = Path(dl).as_posix().replace('.md', '')
     lines.append(f"~~[[{rel}]]~~ ✅deleted")
 lines.append("")
 lines.append("---")

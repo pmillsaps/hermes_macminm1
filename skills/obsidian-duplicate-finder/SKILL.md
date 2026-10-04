@@ -53,6 +53,7 @@ cd /Users/paulmillsaps/Documents/_Obsidian && git add -A -- '.obsidian' '.github
 - **100% match auto-delete**: When MD5 matches exactly, delete the file with the numbered suffix (` 1`, ` 2`, etc.). The unsuffixed file is the original. If both have numbered suffixes, keep the lower number. If neither has a suffix, keep alphabetically first. Log each deletion.
 - **Consistent link format**: All entries use `[[path/to/filename]]` — full vault-relative path, no `.md`. This ensures uniform font size in Obsidian (all links render as single-line wikilinks) while preserving location context for processing.
 - **Performance**: ~4,500 files takes ~8s for grouping + ~20s for pairwise content comparison on a modern Mac.
+- **Script pitfall**: The scan script at `~/.hermes/scripts/obsidian-duplicate-scan.py` may crash on the `deletion_log` output loop if `deletion_log` stores relative paths but line 136 re-calls `.relative_to(VAULT_ROOT)` on them. Fix: use `Path(dl).as_posix().replace('.md', '')` instead of `Path(dl).relative_to(VAULT_ROOT).as_posix().replace('.md', '')`. Also, `git add -A` can fail with "Resource deadlock" on files with spaces/special chars — stage deletions with `git add -u '1-Inbox/'` and the output file separately before committing.
 
 ## Output format example
 
