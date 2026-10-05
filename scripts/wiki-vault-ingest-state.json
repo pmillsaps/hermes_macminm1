@@ -20378,6 +20378,66 @@
       "sha256": 3018068303998947676,
       "last_processed": "2026-10-03T02:00:31.010219",
       "pages_updated": 0
+    },
+    "Coursiv/AI in SMM/Coursiv_AI_in_SMM_01_AI-Powered SMM.md": {
+      "ingested": "2026-10-05",
+      "sha256": 8476880838905430547,
+      "last_processed": "2026-10-05T02:01:03.476354",
+      "pages_updated": 2
+    },
+    "Coursiv/AI in SMM/Coursiv_AI_in_SMM_02_Understanding Your Audience.md": {
+      "ingested": "2026-10-05",
+      "sha256": -8658105619636861445,
+      "last_processed": "2026-10-05T02:01:03.478023",
+      "pages_updated": 2
+    },
+    "Coursiv/AI in SMM/Coursiv_AI_in_SMM_03_Content Strategy.md": {
+      "ingested": "2026-10-05",
+      "sha256": -6497008182571140099,
+      "last_processed": "2026-10-05T02:01:03.480820",
+      "pages_updated": 2
+    },
+    "Coursiv/AI in SMM/Coursiv_AI_in_SMM_04_Instagram Growth System.md": {
+      "ingested": "2026-10-05",
+      "sha256": -2787243735471488802,
+      "last_processed": "2026-10-05T02:01:03.483069",
+      "pages_updated": 2
+    },
+    "Coursiv/AI in SMM/Coursiv_AI_in_SMM_05_Mastering Instagram Reach.md": {
+      "ingested": "2026-10-05",
+      "sha256": 2710575669008336731,
+      "last_processed": "2026-10-05T02:01:03.498854",
+      "pages_updated": 2
+    },
+    "Coursiv/AI in SMM/Coursiv_AI_in_SMM_06_How TikTok Algorithm Works.md": {
+      "ingested": "2026-10-05",
+      "sha256": -3078323095555195777,
+      "last_processed": "2026-10-05T02:01:03.502108",
+      "pages_updated": 3
+    },
+    "Coursiv/AI in SMM/Coursiv_AI_in_SMM_07_Multi-Platform Strategy.md": {
+      "ingested": "2026-10-05",
+      "sha256": -2104655726654501060,
+      "last_processed": "2026-10-05T02:01:03.504432",
+      "pages_updated": 1
+    },
+    "Coursiv/AI in SMM/Coursiv_AI_in_SMM_08_Interpreting Marketing Data.md": {
+      "ingested": "2026-10-05",
+      "sha256": -925869177199793422,
+      "last_processed": "2026-10-05T02:01:03.506226",
+      "pages_updated": 3
+    },
+    "Coursiv/AI in SMM/Coursiv_AI_in_SMM_09_Client Acquisition Strategies.md": {
+      "ingested": "2026-10-05",
+      "sha256": -6194533082874782719,
+      "last_processed": "2026-10-05T02:01:03.508279",
+      "pages_updated": 2
+    },
+    "Coursiv/AI in SMM/Coursiv_AI_in_SMM_10_Managing SMM Clients.md": {
+      "ingested": "2026-10-05",
+      "sha256": -4329218410653710932,
+      "last_processed": "2026-10-05T02:01:03.510495",
+      "pages_updated": 4
     }
   },
   "last_batch": null,

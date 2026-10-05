@@ -222,3 +222,16 @@ moa:
   degraded_reference_policy: loud
   fanout: user_turn
   enabled: true
+known_plugin_toolsets:
+  acp:
+    - homeassistant
+  webhook:
+    - homeassistant
+_left_core_scoped:
+  - homeassistant
+plugins:
+  enabled:
+    - homeassistant
+  disabled: []
+_left_core_installed:
+  - homeassistant
