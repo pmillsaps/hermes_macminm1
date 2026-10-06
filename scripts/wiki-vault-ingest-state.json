@@ -20438,6 +20438,396 @@
       "sha256": -4329218410653710932,
       "last_processed": "2026-10-05T02:01:03.510495",
       "pages_updated": 4
+    },
+    "AI/10 AI Infrastructure Patterns Every AI Engineer Should Know.md": {
+      "ingested": "2026-10-06",
+      "sha256": -8598102801464831388,
+      "last_processed": "2026-10-06T02:03:50.527633",
+      "pages_updated": 0
+    },
+    "Programming/10 AI Coding Workflows That Save Me Hours Every Week.md": {
+      "ingested": "2026-10-06",
+      "sha256": 7482111174220416660,
+      "last_processed": "2026-10-06T02:03:50.528196",
+      "pages_updated": 0
+    },
+    "Programming/10 CLI Tools That Make the Terminal Feel Like a Superpower.md": {
+      "ingested": "2026-10-06",
+      "sha256": 277444791358357505,
+      "last_processed": "2026-10-06T02:03:50.528917",
+      "pages_updated": 0
+    },
+    "Programming/10 Codex Hacks That Make Coding Way Easier.md": {
+      "ingested": "2026-10-06",
+      "sha256": -6291578090221681960,
+      "last_processed": "2026-10-06T02:03:50.529431",
+      "pages_updated": 0
+    },
+    "Programming/10 Coding Problems AI Can Solve in Seconds.md": {
+      "ingested": "2026-10-06",
+      "sha256": 2780490633346948486,
+      "last_processed": "2026-10-06T02:03:50.530051",
+      "pages_updated": 0
+    },
+    "Programming/10 Free AI Tools Every Python Developer Should Know.md": {
+      "ingested": "2026-10-06",
+      "sha256": -7569960223621591116,
+      "last_processed": "2026-10-06T02:03:50.530506",
+      "pages_updated": 0
+    },
+    "Programming/10 GitHub Repos and Claude MCP Servers You Can Use Without Writing Code!.md": {
+      "ingested": "2026-10-06",
+      "sha256": 6952464067340764916,
+      "last_processed": "2026-10-06T02:03:50.531000",
+      "pages_updated": 0
+    },
+    "Programming/11 AWS Tools Every Developer Will Be Forced to Learn by 2026.md": {
+      "ingested": "2026-10-06",
+      "sha256": 644736969857975356,
+      "last_processed": "2026-10-06T02:03:50.531401",
+      "pages_updated": 0
+    },
+    "Programming/12 AI Tools Every Developer Should Know in 2026.md": {
+      "ingested": "2026-10-06",
+      "sha256": -7523670541359489755,
+      "last_processed": "2026-10-06T02:03:50.532415",
+      "pages_updated": 0
+    },
+    "Programming/12 Major Announcements from Google IO 2026 That Every Developer Should Know.md": {
+      "ingested": "2026-10-06",
+      "sha256": -2910372948261656596,
+      "last_processed": "2026-10-06T02:03:50.533353",
+      "pages_updated": 1
+    },
+    "Programming/12 Modern Open-Source Tools Developers Should Try in 2026 1.md": {
+      "ingested": "2026-10-06",
+      "sha256": -545487150126986600,
+      "last_processed": "2026-10-06T02:03:50.534506",
+      "pages_updated": 1
+    },
+    "Programming/12 Modern Open-Source Tools Developers Should Try in 2026.md": {
+      "ingested": "2026-10-06",
+      "sha256": -545487150126986600,
+      "last_processed": "2026-10-06T02:03:50.535404",
+      "pages_updated": 1
+    },
+    "Programming/13 Best AI Testing Tools I Tried and Evaluated in 2026.md": {
+      "ingested": "2026-10-06",
+      "sha256": 576954132014568475,
+      "last_processed": "2026-10-06T02:03:50.538130",
+      "pages_updated": 2
+    },
+    "Programming/13 Claude Tools No \u201cBest Of\u201d List Has Covered Yet.md": {
+      "ingested": "2026-10-06",
+      "sha256": -993500794396175987,
+      "last_processed": "2026-10-06T02:03:50.538649",
+      "pages_updated": 0
+    },
+    "Programming/7 AI Code Review Tools I\u2019d Actually Use in a Real Development Workflow.md": {
+      "ingested": "2026-10-06",
+      "sha256": 8845949436864968857,
+      "last_processed": "2026-10-06T02:03:50.540157",
+      "pages_updated": 1
+    },
+    "Programming/AI Coding Tips/AI Coding Tip 033 \u2014 Protect Yourself Against AI Cheating 1.md": {
+      "ingested": "2026-10-06",
+      "sha256": 4311199369596497341,
+      "last_processed": "2026-10-06T02:03:50.540979",
+      "pages_updated": 0
+    },
+    "Programming/AI Coding Tips/AI Coding Tip 036 \u2014 Grant AI the Least Privilege Possible.md": {
+      "ingested": "2026-10-06",
+      "sha256": 8222332859261282411,
+      "last_processed": "2026-10-06T02:03:50.542045",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/$20 Claude Code no more. Replace with $5 OpenCode + Go models.md": {
+      "ingested": "2026-10-06",
+      "sha256": 4620802684750329859,
+      "last_processed": "2026-10-06T02:03:50.542307",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/10 Anthropic Prompting Tricks That Make Claude Code Much More Powerful 1.md": {
+      "ingested": "2026-10-06",
+      "sha256": 7510361599489117478,
+      "last_processed": "2026-10-06T02:03:50.542617",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/10 Anthropic Prompting Tricks That Make Claude Code Much More Powerful.md": {
+      "ingested": "2026-10-06",
+      "sha256": -1283701103245256316,
+      "last_processed": "2026-10-06T02:03:50.543045",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/10 Claude Code Features I Actually Use.md": {
+      "ingested": "2026-10-06",
+      "sha256": -1808299257707408801,
+      "last_processed": "2026-10-06T02:03:50.544084",
+      "pages_updated": 1
+    },
+    "Programming/Claude Code/10 Claude Code Features That Shipped (Most Devs Haven\u2019t Found Yet).md": {
+      "ingested": "2026-10-06",
+      "sha256": -7444852720991131095,
+      "last_processed": "2026-10-06T02:03:50.544669",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/10 Claude Code Features You Might Be Missing.md": {
+      "ingested": "2026-10-06",
+      "sha256": 1217988508562076060,
+      "last_processed": "2026-10-06T02:03:50.545077",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/10 Claude Code Plugins That Make Coding Easier.md": {
+      "ingested": "2026-10-06",
+      "sha256": 4239924482010657044,
+      "last_processed": "2026-10-06T02:03:50.545441",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/10 Claude Code plugins every developer should install in 2026 2.md": {
+      "ingested": "2026-10-06",
+      "sha256": -216749645433507253,
+      "last_processed": "2026-10-06T02:03:50.545889",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/10 Claude Code plugins every developer should install in 2026.md": {
+      "ingested": "2026-10-06",
+      "sha256": -7523326020638154365,
+      "last_processed": "2026-10-06T02:03:50.546402",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/10 Custom Commands & Scripts Every Developer Should Add to Their AI Setup.md": {
+      "ingested": "2026-10-06",
+      "sha256": -1955505485463852229,
+      "last_processed": "2026-10-06T02:03:50.546842",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/6 Claude Prompt Techniques That Make Me Better Than 99% of People Using AI.md": {
+      "ingested": "2026-10-06",
+      "sha256": -3228134001959547296,
+      "last_processed": "2026-10-06T02:03:50.549138",
+      "pages_updated": 3
+    },
+    "Programming/Coding Agents/AI Coding Agents Why Shared Understanding Beats Plan Mode.md": {
+      "ingested": "2026-10-06",
+      "sha256": 6445100028403946615,
+      "last_processed": "2026-10-06T02:03:50.549683",
+      "pages_updated": 0
+    },
+    "Programming/Coding Agents/AI Replaced Coding by Hand \u2014 Now It\u2019s Replacing Code Reviews 1.md": {
+      "ingested": "2026-10-06",
+      "sha256": -2541544241957466671,
+      "last_processed": "2026-10-06T02:03:50.550799",
+      "pages_updated": 1
+    },
+    "Programming/Coding Agents/AI Replaced Coding by Hand \u2014 Now It\u2019s Replacing Code Reviews.md": {
+      "ingested": "2026-10-06",
+      "sha256": -6037233390405077686,
+      "last_processed": "2026-10-06T02:03:50.551498",
+      "pages_updated": 1
+    },
+    "Programming/Coding Agents/AI coding agents are shipping new problems alongside new code.md": {
+      "ingested": "2026-10-06",
+      "sha256": -8846727416261638599,
+      "last_processed": "2026-10-06T02:03:50.551748",
+      "pages_updated": 0
+    },
+    "Agents/Harnesses/AI Harness is dead!.md": {
+      "ingested": "2026-10-06",
+      "sha256": 3996173758790859353,
+      "last_processed": "2026-10-06T02:03:50.552623",
+      "pages_updated": 1
+    },
+    "Prompts/10 AI prompts that actually solve everyday problems (with real examples + prompt code).md": {
+      "ingested": "2026-10-06",
+      "sha256": 2558093377554290533,
+      "last_processed": "2026-10-06T02:03:50.553050",
+      "pages_updated": 0
+    },
+    "Hermes/10 Hermes Agent Skills That Can Make Your AI Agent Far More Capable 1.md": {
+      "ingested": "2026-10-06",
+      "sha256": 7426005280146607645,
+      "last_processed": "2026-10-06T02:03:50.555452",
+      "pages_updated": 4
+    },
+    "Hermes/10 Hermes Agent Skills That Can Make Your AI Agent Far More Capable 2.md": {
+      "ingested": "2026-10-06",
+      "sha256": 6235406836010292342,
+      "last_processed": "2026-10-06T02:03:50.557318",
+      "pages_updated": 4
+    },
+    "Hermes/10 Hermes Agent Skills That Can Make Your AI Agent Far More Capable.md": {
+      "ingested": "2026-10-06",
+      "sha256": 7442580839160732905,
+      "last_processed": "2026-10-06T02:03:50.558961",
+      "pages_updated": 3
+    },
+    "Money Making/$500 with Claude A 14-Day Freelance Plan.md": {
+      "ingested": "2026-10-06",
+      "sha256": 4502959886851432574,
+      "last_processed": "2026-10-06T02:03:50.559379",
+      "pages_updated": 1
+    },
+    "Money Making/10 AI Side Hustles That Actually Pay in 2026.md": {
+      "ingested": "2026-10-06",
+      "sha256": -70099133108149484,
+      "last_processed": "2026-10-06T02:03:50.561445",
+      "pages_updated": 5
+    },
+    "Money Making/10 Best Claude Prompts To Create a Quick $5 Ebook in Mins.md": {
+      "ingested": "2026-10-06",
+      "sha256": -6759004849154993094,
+      "last_processed": "2026-10-06T02:03:50.561837",
+      "pages_updated": 0
+    },
+    "Money Making/100+ Places to Launch Your Startup and Actually Get Noticed in 2026.md": {
+      "ingested": "2026-10-06",
+      "sha256": -421565457691025648,
+      "last_processed": "2026-10-06T02:03:50.562303",
+      "pages_updated": 0
+    },
+    "Money Making/11 Easy Ways to Make Extra Money Full-Time Job in the USA.md": {
+      "ingested": "2026-10-06",
+      "sha256": 1222613482084280460,
+      "last_processed": "2026-10-06T02:03:50.562682",
+      "pages_updated": 0
+    },
+    "Money Making/3 Sure-Shot Ways to Make Real Money With Free AI Tools.md": {
+      "ingested": "2026-10-06",
+      "sha256": -2640619890023604604,
+      "last_processed": "2026-10-06T02:03:50.562944",
+      "pages_updated": 0
+    },
+    "Money Making/5 Micro-SaaS Ideas Real Estate Agents Will Actually Pay For.md": {
+      "ingested": "2026-10-06",
+      "sha256": 304010076264329323,
+      "last_processed": "2026-10-06T02:03:50.563337",
+      "pages_updated": 0
+    },
+    "Personal Finance/12 Things Not Worth Your Money Anymore in 2026.md": {
+      "ingested": "2026-10-06",
+      "sha256": 1205873510775803044,
+      "last_processed": "2026-10-06T02:03:50.564099",
+      "pages_updated": 0
+    },
+    "Personal Finance/12 Things That Are Actually Worth Your Money in 2026.md": {
+      "ingested": "2026-10-06",
+      "sha256": -2760050211984616539,
+      "last_processed": "2026-10-06T02:03:50.564746",
+      "pages_updated": 0
+    },
+    "AI Apps/10 AI Tools Everyone Will Be Using in Six Months, But Almost Nobody\u2019s Found Yet.md": {
+      "ingested": "2026-10-06",
+      "sha256": -4105469029916280525,
+      "last_processed": "2026-10-06T02:03:50.565130",
+      "pages_updated": 0
+    },
+    "AI Apps/10 Best AI Apps for Business  Best AI Tools.md": {
+      "ingested": "2026-10-06",
+      "sha256": 8180665954388386520,
+      "last_processed": "2026-10-06T02:03:50.567668",
+      "pages_updated": 5
+    },
+    "AI Apps/10 Best Design Tools How I 10x My Design Workflow in 2026.md": {
+      "ingested": "2026-10-06",
+      "sha256": -157084459854914049,
+      "last_processed": "2026-10-06T02:03:50.572316",
+      "pages_updated": 9
+    },
+    "AI Apps/10 Best Free Google AI Tools for Students (2026).md": {
+      "ingested": "2026-10-06",
+      "sha256": -6423744930611997208,
+      "last_processed": "2026-10-06T02:03:50.572819",
+      "pages_updated": 0
+    },
+    "AI Apps/10 Free AI Tools Every Content Creator Should Use in 2026 1.md": {
+      "ingested": "2026-10-06",
+      "sha256": -7500506900705300422,
+      "last_processed": "2026-10-06T02:03:50.573098",
+      "pages_updated": 0
+    },
+    "AI Apps/10 Free AI Tools Every Content Creator Should Use in 2026.md": {
+      "ingested": "2026-10-06",
+      "sha256": -7500506900705300422,
+      "last_processed": "2026-10-06T02:03:50.573366",
+      "pages_updated": 0
+    },
+    "0-ToDo/index.md": {
+      "ingested": "2026-10-06",
+      "sha256": -5595200756227836520,
+      "last_processed": "2026-10-06T02:03:50.573734",
+      "pages_updated": 0
+    },
+    "Research/11 AI SaaS Ideas Worth Building in 2026.md": {
+      "ingested": "2026-10-06",
+      "sha256": 4568855619549453473,
+      "last_processed": "2026-10-06T02:03:50.574195",
+      "pages_updated": 0
+    },
+    "Research/11 graph databases to evaluate for low-latency GraphRAG in 2026.md": {
+      "ingested": "2026-10-06",
+      "sha256": 3563621800410321545,
+      "last_processed": "2026-10-06T02:03:50.575079",
+      "pages_updated": 0
+    },
+    "Research/12 Things You Didn\u2019t Know Markdown Could Do.md": {
+      "ingested": "2026-10-06",
+      "sha256": -2473373337218792606,
+      "last_processed": "2026-10-06T02:03:50.575439",
+      "pages_updated": 0
+    },
+    "Software/10 AI Prompts That Actually Solve Everyday Problems (With Real Examples + Prompt Code)\u2026.md": {
+      "ingested": "2026-10-06",
+      "sha256": -3374205948436466812,
+      "last_processed": "2026-10-06T02:03:50.575874",
+      "pages_updated": 0
+    },
+    "Software/10 Apps I LOVE using on macOS.md": {
+      "ingested": "2026-10-06",
+      "sha256": -4102861483882554298,
+      "last_processed": "2026-10-06T02:03:50.576308",
+      "pages_updated": 0
+    },
+    "Software/10 Books Every Software Engineer Should Read.md": {
+      "ingested": "2026-10-06",
+      "sha256": -3283521581314269033,
+      "last_processed": "2026-10-06T02:03:50.576562",
+      "pages_updated": 0
+    },
+    "Software/11 Best E-commerce Micro-SaaS Ideas 2026.md": {
+      "ingested": "2026-10-06",
+      "sha256": -160492635376494596,
+      "last_processed": "2026-10-06T02:03:50.577025",
+      "pages_updated": 0
+    },
+    "Software/11 iPhone Apps I Use Every Day That Actually Make My Life Easier and More Productive.md": {
+      "ingested": "2026-10-06",
+      "sha256": 78103460006854415,
+      "last_processed": "2026-10-06T02:03:50.578938",
+      "pages_updated": 2
+    },
+    "Software/12 AI Services You Can Sell to Local Businesses This Month.md": {
+      "ingested": "2026-10-06",
+      "sha256": -3105646716835437085,
+      "last_processed": "2026-10-06T02:03:50.579356",
+      "pages_updated": 0
+    },
+    "Software/12 UI Patterns Designers Copy From Top SaaS Products.md": {
+      "ingested": "2026-10-06",
+      "sha256": -6429805944133059291,
+      "last_processed": "2026-10-06T02:03:50.579902",
+      "pages_updated": 0
+    },
+    "Obsidian/100% Obsidian, 0% Mouse.md": {
+      "ingested": "2026-10-06",
+      "sha256": -4971865982040868098,
+      "last_processed": "2026-10-06T02:03:50.580377",
+      "pages_updated": 0
+    },
+    "Models/10 Best Use Cases of Kimi K3 (The Model That Made US Stocks Fall Yesterday).md": {
+      "ingested": "2026-10-06",
+      "sha256": 8632157936670881162,
+      "last_processed": "2026-10-06T02:03:50.581049",
+      "pages_updated": 1
     }
   },
   "last_batch": null,
