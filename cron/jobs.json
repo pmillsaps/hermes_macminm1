@@ -80,15 +80,15 @@
       "schedule_display": "0 2 * * *",
       "repeat": {
         "times": null,
-        "completed": 19
+        "completed": 20
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-19T04:56:31.069460-05:00",
-      "next_run_at": "2026-10-07T02:00:00-05:00",
-      "last_run_at": "2026-10-06T02:11:12.307407-05:00",
+      "next_run_at": "2026-10-08T02:00:00-05:00",
+      "last_run_at": "2026-10-07T02:09:03.316451-05:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -99,9 +99,9 @@
       "enabled_toolsets": null,
       "workdir": "/Users/paulmillsaps/Documents/_Obsidian/wiki",
       "last_dispatch": {
-        "scheduled_at": "2026-10-06T02:00:00-05:00",
-        "dispatched_at": "2026-10-06T02:00:40.761063-05:00",
-        "lateness_seconds": 40.8,
+        "scheduled_at": "2026-10-07T02:00:00-05:00",
+        "dispatched_at": "2026-10-07T02:00:40.895126-05:00",
+        "lateness_seconds": 40.9,
         "kind": "on_time"
       },
       "fire_claim": null
@@ -131,15 +131,15 @@
       "schedule_display": "0 3 * * *",
       "repeat": {
         "times": null,
-        "completed": 17
+        "completed": 18
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-19T06:54:41.235908-05:00",
-      "next_run_at": "2026-10-07T03:00:00-05:00",
-      "last_run_at": "2026-10-05T03:00:36.855542-05:00",
+      "next_run_at": "2026-10-08T03:00:00-05:00",
+      "last_run_at": "2026-10-06T03:00:43.035451-05:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -150,67 +150,16 @@
       "enabled_toolsets": null,
       "workdir": "/Users/paulmillsaps/.hermes-backup-repo",
       "last_dispatch": {
-        "scheduled_at": "2026-10-06T03:00:00-05:00",
-        "dispatched_at": "2026-10-06T03:00:40.789736-05:00",
-        "lateness_seconds": 40.8,
+        "scheduled_at": "2026-10-07T03:00:00-05:00",
+        "dispatched_at": "2026-10-07T03:00:40.887377-05:00",
+        "lateness_seconds": 40.9,
         "kind": "on_time"
       },
       "fire_claim": {
-        "at": "2026-10-06T03:00:40.835159-05:00",
-        "by": "Vera.home.local:709:bb0dc74271644491885a1c3da1de366a"
+        "at": "2026-10-07T03:00:40.930754-05:00",
+        "by": "Vera.home.local:709:f4aea098e2a94ca39061e509a17d5140"
       }
-    },
-    {
-      "id": "0bb2b18eb2bd",
-      "name": "Run the obsidian-duplicate-finder skill: scan ~/Do",
-      "prompt": "Run the obsidian-duplicate-finder skill: scan ~/Documents/_Obsidian for duplicate markdown files and write results to 0-ToDo/Duplicate File Checks.md. Pull the latest from git first, then run the scan script at ~/.hermes/scripts/obsidian-duplicate-scan.py, then commit and push the results.",
-      "skills": [],
-      "skill": null,
-      "model": null,
-      "provider": null,
-      "provider_snapshot": "nous",
-      "model_snapshot": "meituan/longcat-2.0:free",
-      "base_url": null,
-      "script": null,
-      "no_agent": false,
-      "monitor_script": null,
-      "monitor_url": null,
-      "monitor_state": null,
-      "context_from": null,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 4 * * *",
-        "display": "0 4 * * *"
-      },
-      "schedule_display": "0 4 * * *",
-      "repeat": {
-        "times": null,
-        "completed": 20
-      },
-      "enabled": true,
-      "state": "scheduled",
-      "paused_at": null,
-      "paused_reason": null,
-      "created_at": "2026-09-19T07:02:30.939492-05:00",
-      "next_run_at": "2026-10-06T04:00:00-05:00",
-      "last_run_at": "2026-10-05T04:01:32.348257-05:00",
-      "last_status": "ok",
-      "last_error": null,
-      "last_delivery_error": null,
-      "last_delivery_unverified": null,
-      "failure_streak": 0,
-      "deliver": "telegram:8624831548",
-      "origin": null,
-      "enabled_toolsets": null,
-      "workdir": null,
-      "last_dispatch": {
-        "scheduled_at": "2026-10-05T04:00:00-05:00",
-        "dispatched_at": "2026-10-05T04:00:34.812122-05:00",
-        "lateness_seconds": 34.8,
-        "kind": "on_time"
-      },
-      "fire_claim": null
     }
   ],
-  "updated_at": "2026-10-06T03:00:40.835711-05:00"
+  "updated_at": "2026-10-07T03:00:40.931291-05:00"
 }
