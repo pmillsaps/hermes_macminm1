@@ -27266,6 +27266,36 @@
       "sha256": -4036672479853966837,
       "last_processed": "2026-10-07T02:05:58.530563",
       "pages_updated": 0
+    },
+    "Agents/Harnesses/Most Powerful Deep Research Harness for Claude Code and Codex.md": {
+      "ingested": "2026-10-08",
+      "sha256": -4965174229000490057,
+      "last_processed": "2026-10-08T02:01:38.170582",
+      "pages_updated": 0
+    },
+    "0-ToDo/Medium/Medium-2026-10-06.md": {
+      "ingested": "2026-10-08",
+      "sha256": -6658352741113957717,
+      "last_processed": "2026-10-08T02:01:38.171412",
+      "pages_updated": 1
+    },
+    "0-ToDo/Medium/Medium-2026-10-07.md": {
+      "ingested": "2026-10-08",
+      "sha256": -8575930135304943455,
+      "last_processed": "2026-10-08T02:01:38.171480",
+      "pages_updated": 0
+    },
+    "0-ToDo/skills/obsidian-duplicate-finder.md": {
+      "ingested": "2026-10-08",
+      "sha256": -1694994051989682478,
+      "last_processed": "2026-10-08T02:01:38.171643",
+      "pages_updated": 0
+    },
+    "0-ToDo/skills/obsidian-inbox-classification.md": {
+      "ingested": "2026-10-08",
+      "sha256": -2123188391509097709,
+      "last_processed": "2026-10-08T02:01:38.171883",
+      "pages_updated": 0
     }
   },
   "last_batch": null,
