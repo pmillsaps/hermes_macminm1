@@ -27296,6 +27296,990 @@
       "sha256": -2123188391509097709,
       "last_processed": "2026-10-08T02:01:38.171883",
       "pages_updated": 0
+    },
+    "AI/Nobody\u2019s Actually Reviewing the Code Your AI Agent Just Shipped.md": {
+      "ingested": "2026-10-09",
+      "sha256": 2658856430260359266,
+      "last_processed": "2026-10-09T02:03:34.495742",
+      "pages_updated": 0
+    },
+    "AI/Reproducing \u2018Attention Is All You Need\u2019.md": {
+      "ingested": "2026-10-09",
+      "sha256": -3842272510359503511,
+      "last_processed": "2026-10-09T02:03:34.497431",
+      "pages_updated": 1
+    },
+    "Programming/Claude Code/Most Developers Ignore CLAUDE.md. That\u2019s a Mistake.md": {
+      "ingested": "2026-10-09",
+      "sha256": -2236130621495906828,
+      "last_processed": "2026-10-09T02:03:34.498478",
+      "pages_updated": 1
+    },
+    "Programming/Claude Code/Muse vs Claude Where Does Muse Actually Win.md": {
+      "ingested": "2026-10-09",
+      "sha256": 4363793466766237694,
+      "last_processed": "2026-10-09T02:03:34.499049",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/My AI Coder Forgets Everything When I Switch Machines. So I Built It a Memory.md": {
+      "ingested": "2026-10-09",
+      "sha256": -6463916087218731276,
+      "last_processed": "2026-10-09T02:03:34.499651",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/My AI Programming Full Stack Ghostty, Lazygit, Yazi, and the Art of Parallel Development.md": {
+      "ingested": "2026-10-09",
+      "sha256": 235701653179930880,
+      "last_processed": "2026-10-09T02:03:34.500363",
+      "pages_updated": 1
+    },
+    "Programming/Claude Code/My Brain Is a Markdown File How I Use Obsidian + Claude as a Second Mind.md": {
+      "ingested": "2026-10-09",
+      "sha256": 1646337478458281227,
+      "last_processed": "2026-10-09T02:03:34.500777",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/My Obsidian Plugins Built One Free Kiro Credit At A Time.md": {
+      "ingested": "2026-10-09",
+      "sha256": 8096700011084390982,
+      "last_processed": "2026-10-09T02:03:34.501349",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/My Senior Engineering Career Changed Forever When I Stopped Coding and Started Directing Agents.md": {
+      "ingested": "2026-10-09",
+      "sha256": 6403296738653362460,
+      "last_processed": "2026-10-09T02:03:34.502050",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/Name your Claude Code sessions before you run more than one.md": {
+      "ingested": "2026-10-09",
+      "sha256": 637564551151958831,
+      "last_processed": "2026-10-09T02:03:34.502389",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/No Plugins Needed, I Built a Fully Automated Coding Loop in OpenCode.md": {
+      "ingested": "2026-10-09",
+      "sha256": 1303077786824844771,
+      "last_processed": "2026-10-09T02:03:34.503066",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/Now Is Awesome Moment to Start With Rust in AI.md": {
+      "ingested": "2026-10-09",
+      "sha256": -3550781588702856658,
+      "last_processed": "2026-10-09T02:03:34.503380",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/Obsidian Was Open. Claude Code Still Said \u2018Connection Refused.\u2019.md": {
+      "ingested": "2026-10-09",
+      "sha256": -3262783010050598502,
+      "last_processed": "2026-10-09T02:03:34.503734",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/Obsidian as Your AI\u2019s Operating System A Technical Setup Guide with Claude Code.md": {
+      "ingested": "2026-10-09",
+      "sha256": 3028047844753294298,
+      "last_processed": "2026-10-09T02:03:34.504527",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/Obsidian for beginners a graph knowledge base that works with AI.md": {
+      "ingested": "2026-10-09",
+      "sha256": -4644773769188608172,
+      "last_processed": "2026-10-09T02:03:34.506794",
+      "pages_updated": 4
+    },
+    "Programming/Claude Code/Obsidian \u2014 Your AI second brain isn\u2019t memory \u2014 and here\u2019s the architecture that actually is.md": {
+      "ingested": "2026-10-09",
+      "sha256": -585857390892739965,
+      "last_processed": "2026-10-09T02:03:34.507619",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/Obsidian\u2019s CEO Just Open-Sourced the Claude Code Skills He Uses on His Own Vault.md": {
+      "ingested": "2026-10-09",
+      "sha256": -6560947171289388315,
+      "last_processed": "2026-10-09T02:03:34.508134",
+      "pages_updated": 1
+    },
+    "Programming/Claude Code/Ollama launch with Claude Code , Codex,Droid, Opencode.md": {
+      "ingested": "2026-10-09",
+      "sha256": 1368188931733222126,
+      "last_processed": "2026-10-09T02:03:34.509731",
+      "pages_updated": 3
+    },
+    "Programming/Claude Code/Open-Source AI Agent Framework on GitHub Actions.md": {
+      "ingested": "2026-10-09",
+      "sha256": 1496683312782042412,
+      "last_processed": "2026-10-09T02:03:34.510095",
+      "pages_updated": 0
+    },
+    "Programming/Claude Code/Open-Source AI Coding on Local.md": {
+      "ingested": "2026-10-09",
+      "sha256": -3196477934075726403,
+      "last_processed": "2026-10-09T02:03:34.510638",
+      "pages_updated": 1
+    },
+    "Programming/Claude Code/OpenAI\u2019s DevDay Drops 20+ Products Including \u201co\u201d, the Always-On Agent \u2014 Top 10 AI & Flutter News September 29, 2026.md": {
+      "ingested": "2026-10-09",
+      "sha256": -2563390693652463616,
+      "last_processed": "2026-10-09T02:03:34.511457",
+      "pages_updated": 1
+    },
+    "Programming/Claude Code/OpenSpec + Superpower Infusing Engineering Thinking into the AI Coding Workflow.md": {
+      "ingested": "2026-10-09",
+      "sha256": -4171600550497019999,
+      "last_processed": "2026-10-09T02:03:34.512102",
+      "pages_updated": 1
+    },
+    "Programming/Development/SDD/My Experience with AI-First Spec-Driven Development.md": {
+      "ingested": "2026-10-09",
+      "sha256": -8049261541542186458,
+      "last_processed": "2026-10-09T02:03:34.512352",
+      "pages_updated": 0
+    },
+    "Programming/No Code AI Automation.md": {
+      "ingested": "2026-10-09",
+      "sha256": 5893879324355230481,
+      "last_processed": "2026-10-09T02:03:34.512562",
+      "pages_updated": 0
+    },
+    "Programming/OpenCode/Multi-Agent AutoResearch Automating ML Optimization and Beyond with Open-Source AI.md": {
+      "ingested": "2026-10-09",
+      "sha256": -921923179580858670,
+      "last_processed": "2026-10-09T02:03:34.513356",
+      "pages_updated": 2
+    },
+    "Programming/OpenCode/My AI Skill Setup for Claude Code and OpenCode.md": {
+      "ingested": "2026-10-09",
+      "sha256": -1305002348443874548,
+      "last_processed": "2026-10-09T02:03:34.514372",
+      "pages_updated": 2
+    },
+    "Programming/OpenCode/My Weekend Experiment How AI Finally Made Vim Accessible (And Why I Can Now Debug From My Phone).md": {
+      "ingested": "2026-10-09",
+      "sha256": 1604089236837414255,
+      "last_processed": "2026-10-09T02:03:34.515686",
+      "pages_updated": 2
+    },
+    "Programming/OpenCode/Near-Astra Performance for Free For The Next Days On Opencode And Openrouter!.md": {
+      "ingested": "2026-10-09",
+      "sha256": -1767713997892164835,
+      "last_processed": "2026-10-09T02:03:34.516133",
+      "pages_updated": 0
+    },
+    "Programming/OpenCode/Oh My Opencode QuickStart for OpenCode Install, Configure, Run.md": {
+      "ingested": "2026-10-09",
+      "sha256": -3200717541321312270,
+      "last_processed": "2026-10-09T02:03:34.517597",
+      "pages_updated": 2
+    },
+    "Programming/OpenCode/Oh My Opencode Specialised Agents Deep Dive and Model Guide 1.md": {
+      "ingested": "2026-10-09",
+      "sha256": 1657734590204825775,
+      "last_processed": "2026-10-09T02:03:34.519069",
+      "pages_updated": 2
+    },
+    "Programming/OpenCode/Ollama on Steroids with OpenCode A Headless Multi Agent Coding Workflow.md": {
+      "ingested": "2026-10-09",
+      "sha256": -8871090441452831951,
+      "last_processed": "2026-10-09T02:03:34.519598",
+      "pages_updated": 0
+    },
+    "Programming/OpenCode/One Prompt, Three AI Coding Systems What Survives Real Engineering.md": {
+      "ingested": "2026-10-09",
+      "sha256": -3660869394898440612,
+      "last_processed": "2026-10-09T02:03:34.519835",
+      "pages_updated": 0
+    },
+    "Programming/OpenCode/One Reviewer, Three Lenses Building a Multi-Agent Code Review System with OpenCode.md": {
+      "ingested": "2026-10-09",
+      "sha256": -8209235761724735151,
+      "last_processed": "2026-10-09T02:03:34.521646",
+      "pages_updated": 3
+    },
+    "Programming/OpenCode/OpenCode + AI Gateway Building the Enterprise AI Control Plane.md": {
+      "ingested": "2026-10-09",
+      "sha256": 7033075964967521844,
+      "last_processed": "2026-10-09T02:03:34.522294",
+      "pages_updated": 1
+    },
+    "Programming/OpenCode/OpenCode + Antigravity oAuth Solves Anthropic\u2019s OpenCode Block From Claude Models.md": {
+      "ingested": "2026-10-09",
+      "sha256": 3588492556370343313,
+      "last_processed": "2026-10-09T02:03:34.523441",
+      "pages_updated": 0
+    },
+    "Programming/OpenCode/OpenCode + Git The Underrated Duo.md": {
+      "ingested": "2026-10-09",
+      "sha256": 7370185322618639725,
+      "last_processed": "2026-10-09T02:03:34.524532",
+      "pages_updated": 2
+    },
+    "Programming/OpenCode/OpenCode - The Free, Open-Source Alternative to Claude Code.md": {
+      "ingested": "2026-10-09",
+      "sha256": -5372757682560721986,
+      "last_processed": "2026-10-09T02:03:34.525499",
+      "pages_updated": 2
+    },
+    "Programming/OpenCode/OpenCode AGENTS.md + opencode.jsonc \u2014 architecture, precedence and workflow 1.md": {
+      "ingested": "2026-10-09",
+      "sha256": -4599512905396739561,
+      "last_processed": "2026-10-09T02:03:34.526054",
+      "pages_updated": 1
+    },
+    "Programming/OpenCode/OpenCode AI + Cloudflare + Kimi The Ultimate Pentesting Automation Stack \ud83d\udd25.md": {
+      "ingested": "2026-10-09",
+      "sha256": 663586049236883766,
+      "last_processed": "2026-10-09T02:03:34.526458",
+      "pages_updated": 0
+    },
+    "Programming/OpenCode/OpenCode AI The Open-Source Coding Agent Revolutionising AI-Assisted Development.md": {
+      "ingested": "2026-10-09",
+      "sha256": -7464474923380122017,
+      "last_processed": "2026-10-09T02:03:34.526884",
+      "pages_updated": 0
+    },
+    "Programming/OpenCode/OpenCode Alternative in Rust How Zap Fixes Context Bloat with Measured Data.md": {
+      "ingested": "2026-10-09",
+      "sha256": -5420591532977182753,
+      "last_processed": "2026-10-09T02:03:34.527259",
+      "pages_updated": 0
+    },
+    "Programming/OpenCode/OpenCode An Open-Source Alternative to Claude Code.md": {
+      "ingested": "2026-10-09",
+      "sha256": -2997885912139728466,
+      "last_processed": "2026-10-09T02:03:34.528109",
+      "pages_updated": 2
+    },
+    "Programming/OpenCode/OpenCode CLI in Practice Workflows, Automation, and Pitfalls.md": {
+      "ingested": "2026-10-09",
+      "sha256": -7954607233670242106,
+      "last_processed": "2026-10-09T02:03:34.529031",
+      "pages_updated": 1
+    },
+    "Programming/OpenCode/OpenCode Doesn\u2019t Send Prompts. It Assembles Context.md": {
+      "ingested": "2026-10-09",
+      "sha256": 4422694355390482811,
+      "last_processed": "2026-10-09T02:03:34.529632",
+      "pages_updated": 1
+    },
+    "Programming/OpenCode/OpenCode Go gives you three frontier models for $10 a month.md": {
+      "ingested": "2026-10-09",
+      "sha256": -1616864074134038599,
+      "last_processed": "2026-10-09T02:03:34.530350",
+      "pages_updated": 0
+    },
+    "Programming/OpenCode/OpenCode IDE Adjusting Context Limits and Reasoning Levels for Custom API Providers.md": {
+      "ingested": "2026-10-09",
+      "sha256": 2864182421933905124,
+      "last_processed": "2026-10-09T02:03:34.530665",
+      "pages_updated": 0
+    },
+    "Programming/OpenCode/OpenCode Is Powerful. That\u2019s Exactly the Problem 1.md": {
+      "ingested": "2026-10-09",
+      "sha256": -1578769198627922384,
+      "last_processed": "2026-10-09T02:03:34.531268",
+      "pages_updated": 0
+    },
+    "Programming/OpenCode/OpenCode Just Dethroned Claude Code With 172,000 Stars \u2014 I Ran Both and It's 78% Slower.md": {
+      "ingested": "2026-10-09",
+      "sha256": 4321062581491612155,
+      "last_processed": "2026-10-09T02:03:34.532312",
+      "pages_updated": 2
+    },
+    "Programming/OpenCode/OpenCode Outperforms Claude Code in Agentic Benchmarks for 2026 ML Pipelines.md": {
+      "ingested": "2026-10-09",
+      "sha256": -4091340204854595738,
+      "last_processed": "2026-10-09T02:03:34.532728",
+      "pages_updated": 0
+    },
+    "Programming/OpenCode/OpenCode The Best Claude Code Alternative.md": {
+      "ingested": "2026-10-09",
+      "sha256": 3360101832110586576,
+      "last_processed": "2026-10-09T02:03:34.533290",
+      "pages_updated": 0
+    },
+    "Programming/OpenCode/OpenCode The Leading Open-Source AI Coding Agent Taking the Developer World by Storm.md": {
+      "ingested": "2026-10-09",
+      "sha256": 789638668315910420,
+      "last_processed": "2026-10-09T02:03:34.533953",
+      "pages_updated": 1
+    },
+    "Programming/OpenCode/OpenCode The Open-Source AI Coding Agent You Can Run in Your Terminal.md": {
+      "ingested": "2026-10-09",
+      "sha256": 2999453231101810902,
+      "last_processed": "2026-10-09T02:03:34.534347",
+      "pages_updated": 0
+    },
+    "Programming/OpenCode/OpenCode The Swiss Army Knife for AI Coding That Won\u2019t Make You Pull Your Hair Out.md": {
+      "ingested": "2026-10-09",
+      "sha256": 1839347546567372892,
+      "last_processed": "2026-10-09T02:03:34.535299",
+      "pages_updated": 1
+    },
+    "Programming/OpenCode/OpenCode and Zed for Building Products.md": {
+      "ingested": "2026-10-09",
+      "sha256": 1056450361638130122,
+      "last_processed": "2026-10-09T02:03:34.535813",
+      "pages_updated": 1
+    },
+    "Programming/OpenCode/OpenCode is Best for Me.md": {
+      "ingested": "2026-10-09",
+      "sha256": -5654345692397568750,
+      "last_processed": "2026-10-09T02:03:34.536950",
+      "pages_updated": 3
+    },
+    "Programming/OpenCode/OpenCode vs Claude Code We Tested Both on a Production Codebase \u2014 One Created More Tech Debt.md": {
+      "ingested": "2026-10-09",
+      "sha256": 7039434816993908335,
+      "last_processed": "2026-10-09T02:03:34.537346",
+      "pages_updated": 0
+    },
+    "Programming/OpenCode/OpenCode vs Codex Open Source vs Proprietary in the Terminal.md": {
+      "ingested": "2026-10-09",
+      "sha256": 8417917828182936702,
+      "last_processed": "2026-10-09T02:03:34.538903",
+      "pages_updated": 3
+    },
+    "Programming/OpenCode/OpenCode vs. Grok Build vs. Claude Code which open coding agent should you actually build on.md": {
+      "ingested": "2026-10-09",
+      "sha256": 3935331476276221367,
+      "last_processed": "2026-10-09T02:03:34.540172",
+      "pages_updated": 1
+    },
+    "Programming/OpenCode/OpenCode with Ollama Model Hosting.md": {
+      "ingested": "2026-10-09",
+      "sha256": 5037175381528531999,
+      "last_processed": "2026-10-09T02:03:34.541089",
+      "pages_updated": 2
+    },
+    "Programming/OpenCode/OpenCode \u2014 Harden Your opencode.json.md": {
+      "ingested": "2026-10-09",
+      "sha256": -5507862948459279678,
+      "last_processed": "2026-10-09T02:03:34.542915",
+      "pages_updated": 1
+    },
+    "Programming/OpenCode/OpenCode, and how it helped me be a developer.md": {
+      "ingested": "2026-10-09",
+      "sha256": -9189763719802099241,
+      "last_processed": "2026-10-09T02:03:34.543244",
+      "pages_updated": 0
+    },
+    "Programming/OpenCode/OpenCode\u2019s creator on model freedom, Anthropic blocks, and the \u201cdouble miracle\u201d of open source.md": {
+      "ingested": "2026-10-09",
+      "sha256": 1350413434414310182,
+      "last_processed": "2026-10-09T02:03:34.543746",
+      "pages_updated": 0
+    },
+    "Programming/OpenCode/OpenRouter turned free AI into a routing layer.md": {
+      "ingested": "2026-10-09",
+      "sha256": 4942191541405716786,
+      "last_processed": "2026-10-09T02:03:34.544572",
+      "pages_updated": 0
+    },
+    "Programming/Vibe Coding/Nine Rules for Vibe Validation of Vibe-Coded Algorithms.md": {
+      "ingested": "2026-10-09",
+      "sha256": 5265858333856173554,
+      "last_processed": "2026-10-09T02:03:34.546719",
+      "pages_updated": 1
+    },
+    "Agents/Most people building AI agents make the same mistake they create one powerful agent, connect every available tool to it, write a long system prompt, and expect it to handle everything.md": {
+      "ingested": "2026-10-09",
+      "sha256": -2274240003527851607,
+      "last_processed": "2026-10-09T02:03:34.547037",
+      "pages_updated": 0
+    },
+    "Agents/Next.js Gave Its AI Agent a Browser. It Can Now See Your App and Fix Issues.md": {
+      "ingested": "2026-10-09",
+      "sha256": -6715286240984245815,
+      "last_processed": "2026-10-09T02:03:34.547530",
+      "pages_updated": 0
+    },
+    "Agents/OpenClaw Alternative 2026 Hosted AI Agent with 1,000+ MCP Apps, No Install (vMira).md": {
+      "ingested": "2026-10-09",
+      "sha256": -171453212452399112,
+      "last_processed": "2026-10-09T02:03:34.547765",
+      "pages_updated": 0
+    },
+    "Agents/OpenClaw is powerful but token costs are killing it \u2014 Here\u2019s how I use it cheaply.md": {
+      "ingested": "2026-10-09",
+      "sha256": 4167815430478427948,
+      "last_processed": "2026-10-09T02:03:34.547975",
+      "pages_updated": 0
+    },
+    "Agents/OpenClaw v2026.9.5 One AI Writes. Another Checks.md": {
+      "ingested": "2026-10-09",
+      "sha256": -3926663353968850042,
+      "last_processed": "2026-10-09T02:03:34.548204",
+      "pages_updated": 0
+    },
+    "Agents/OpenClaw vs Hermes Agent Which AI Agent Fits Your Workflow.md": {
+      "ingested": "2026-10-09",
+      "sha256": 7832198587117514440,
+      "last_processed": "2026-10-09T02:03:34.549179",
+      "pages_updated": 2
+    },
+    "Agents/Orchestrating 30+ Agents Without Chaos Planner, Queue, and Containment Patterns for Multi-Agent Pipelines.md": {
+      "ingested": "2026-10-09",
+      "sha256": 4921898992624522312,
+      "last_processed": "2026-10-09T02:03:34.549651",
+      "pages_updated": 0
+    },
+    "Tools/NVIDIA ModelOpt Stop Paying BF16 Prices for Every Layer.md": {
+      "ingested": "2026-10-09",
+      "sha256": 7498780556528403567,
+      "last_processed": "2026-10-09T02:03:34.550549",
+      "pages_updated": 1
+    },
+    "Tools/Nginx vs Caddy vs Traefik in 2026 \u2014 I Ran All Three Under Real Production Load.md": {
+      "ingested": "2026-10-09",
+      "sha256": -6982834052356095063,
+      "last_processed": "2026-10-09T02:03:34.552120",
+      "pages_updated": 3
+    },
+    "Tools/OmniRoute The AI Gateway That Transformed My Development Workflow.md": {
+      "ingested": "2026-10-09",
+      "sha256": 7412311317570882582,
+      "last_processed": "2026-10-09T02:03:34.552611",
+      "pages_updated": 0
+    },
+    "Tools/Only One HTML File He Handcrafted a Stunning 3D Physics Flip Book.md": {
+      "ingested": "2026-10-09",
+      "sha256": -1677492225729222019,
+      "last_processed": "2026-10-09T02:03:34.553091",
+      "pages_updated": 1
+    },
+    "Money Making/My Friend Makes $4,300 a Month Working 3 Hours a Day; She Has No Boss.md": {
+      "ingested": "2026-10-09",
+      "sha256": 6029421714112649780,
+      "last_processed": "2026-10-09T02:03:34.553314",
+      "pages_updated": 0
+    },
+    "Money Making/My Lazy Way to Make $100 a Day With Just My Phone.md": {
+      "ingested": "2026-10-09",
+      "sha256": -4895872223992200610,
+      "last_processed": "2026-10-09T02:03:34.553544",
+      "pages_updated": 0
+    },
+    "Money Making/My first side hustle flopped hard. Now I run several that make thousands per month.md": {
+      "ingested": "2026-10-09",
+      "sha256": -6680703904172480262,
+      "last_processed": "2026-10-09T02:03:34.553813",
+      "pages_updated": 0
+    },
+    "Money Making/Nobody Has Ever Asked Where I\u2019m Calling From. That\u2019s Exactly Why This Works.md": {
+      "ingested": "2026-10-09",
+      "sha256": -3245368308705941127,
+      "last_processed": "2026-10-09T02:03:34.553973",
+      "pages_updated": 0
+    },
+    "Money Making/One of the Most Successful Indie Hackers Says AI Killed the Playbook.md": {
+      "ingested": "2026-10-09",
+      "sha256": -951161125594389574,
+      "last_processed": "2026-10-09T02:03:34.554213",
+      "pages_updated": 0
+    },
+    "Money Making/Online Solopreneurship After 50 How to Avoid Burnout and Build Sustainable Income.md": {
+      "ingested": "2026-10-09",
+      "sha256": 1690477060818945328,
+      "last_processed": "2026-10-09T02:03:34.554560",
+      "pages_updated": 0
+    },
+    "Productivity/My daily quest to be a writing maximalist.md": {
+      "ingested": "2026-10-09",
+      "sha256": 2394866827227129731,
+      "last_processed": "2026-10-09T02:03:34.554760",
+      "pages_updated": 0
+    },
+    "Productivity/Nobody Wants Your Newsletter. You Should Write it Anyway.md": {
+      "ingested": "2026-10-09",
+      "sha256": -3264504372485053607,
+      "last_processed": "2026-10-09T02:03:34.555107",
+      "pages_updated": 0
+    },
+    "Productivity/One Codebase, Eight Apps The Architecture Behind Mini Notes.md": {
+      "ingested": "2026-10-09",
+      "sha256": -8347848307016869581,
+      "last_processed": "2026-10-09T02:03:34.555475",
+      "pages_updated": 0
+    },
+    "Productivity/One Must Have Agent for Any AI Ecosystem.md": {
+      "ingested": "2026-10-09",
+      "sha256": -1317393112748341599,
+      "last_processed": "2026-10-09T02:03:34.555701",
+      "pages_updated": 0
+    },
+    "N8N/Stop Reading n8n Workflows Node by Node. There\u2019s a Better Way.md": {
+      "ingested": "2026-10-09",
+      "sha256": -8776205401878494431,
+      "last_processed": "2026-10-09T02:03:34.556179",
+      "pages_updated": 0
+    },
+    "RAG/My RAG API Never Signs Tokens or Sees Passwords.md": {
+      "ingested": "2026-10-09",
+      "sha256": 2013140738265019725,
+      "last_processed": "2026-10-09T02:03:34.556455",
+      "pages_updated": 0
+    },
+    "RAG/OKF + RAG Why Your AI Agent Needs Two Memories, Not One.md": {
+      "ingested": "2026-10-09",
+      "sha256": -2443042915950534137,
+      "last_processed": "2026-10-09T02:03:34.556893",
+      "pages_updated": 0
+    },
+    "RAG/Ontologies, Knowledge Graphs, and a Semantic Layer The Architecture That Makes AI Stop Guessing.md": {
+      "ingested": "2026-10-09",
+      "sha256": 5307272873247029369,
+      "last_processed": "2026-10-09T02:03:34.557372",
+      "pages_updated": 0
+    },
+    "RAG/Open WebUI RAG How to Train Your Own Documents on Local AI.md": {
+      "ingested": "2026-10-09",
+      "sha256": -2480567347764619989,
+      "last_processed": "2026-10-09T02:03:34.557714",
+      "pages_updated": 0
+    },
+    "Local AI Setup/My Local-First AI Agent Stack What Runs on My Mac, What Goes to the Cloud, and Why.md": {
+      "ingested": "2026-10-09",
+      "sha256": 248605478457175620,
+      "last_processed": "2026-10-09T02:03:34.558093",
+      "pages_updated": 0
+    },
+    "Local AI Setup/My Private Tech Stack\u200a\u2014\u200aSeptember 2026.md": {
+      "ingested": "2026-10-09",
+      "sha256": -6717711726629331336,
+      "last_processed": "2026-10-09T02:03:34.558556",
+      "pages_updated": 0
+    },
+    "Local AI Setup/Needle 2 The 14MB Foundation Model That Puts AI on Tiny Devices.md": {
+      "ingested": "2026-10-09",
+      "sha256": -6629031056711975190,
+      "last_processed": "2026-10-09T02:03:34.559430",
+      "pages_updated": 1
+    },
+    "Local AI Setup/New Quantized Qwen3.8\u201327B 1-bit Runs on Just 8GB of Memory, Retains 77% Original Accuracy.md": {
+      "ingested": "2026-10-09",
+      "sha256": 7980249616648970719,
+      "last_processed": "2026-10-09T02:03:34.560066",
+      "pages_updated": 1
+    },
+    "Local AI Setup/Ollama Alternatives in 2026 What to Move To, and What Breaks When You Do.md": {
+      "ingested": "2026-10-09",
+      "sha256": 755730716631995595,
+      "last_processed": "2026-10-09T02:03:34.560875",
+      "pages_updated": 2
+    },
+    "Local AI Setup/Ollama Local LLM 2026 Fix the 4096-Token Trap Killing Your Agent.md": {
+      "ingested": "2026-10-09",
+      "sha256": -7573328252752464228,
+      "last_processed": "2026-10-09T02:03:34.561447",
+      "pages_updated": 0
+    },
+    "Local AI Setup/Ollama to vLLM When to Migrate Your Local LLM Server.md": {
+      "ingested": "2026-10-09",
+      "sha256": -7176859977858015629,
+      "last_processed": "2026-10-09T02:03:34.562639",
+      "pages_updated": 2
+    },
+    "Local AI Setup/Open-Source AI in 2026 Models, Licenses, and Research Risks.md": {
+      "ingested": "2026-10-09",
+      "sha256": 2245151104888367217,
+      "last_processed": "2026-10-09T02:03:34.563164",
+      "pages_updated": 0
+    },
+    "Local AI Setup/Open-Weight AI Has a Hardware Problem Nobody Talks About.md": {
+      "ingested": "2026-10-09",
+      "sha256": 7621502467586705661,
+      "last_processed": "2026-10-09T02:03:34.563598",
+      "pages_updated": 0
+    },
+    "Automation/OpenAI\u2019s Live Demo of \u201cDots\u201d Flopped and the Internet Was Brutal.md": {
+      "ingested": "2026-10-09",
+      "sha256": 5407078265540365747,
+      "last_processed": "2026-10-09T02:03:34.564188",
+      "pages_updated": 1
+    },
+    "Automation/OpenFang operating system for autonomous AI agents.md": {
+      "ingested": "2026-10-09",
+      "sha256": -1496337903231488876,
+      "last_processed": "2026-10-09T02:03:34.595030",
+      "pages_updated": 0
+    },
+    "Trading/My AI Builds Trading Bots. Here Are the 5 Rules It Isn\u2019t Allowed to Break.md": {
+      "ingested": "2026-10-09",
+      "sha256": -7417241616236284440,
+      "last_processed": "2026-10-09T02:03:34.595553",
+      "pages_updated": 0
+    },
+    "Writing/My Senior Engineer Deleted 3,000 Lines of AI-Generated Code on Friday. His Reason Was Better Than the Code.md": {
+      "ingested": "2026-10-09",
+      "sha256": 6853903090927037104,
+      "last_processed": "2026-10-09T02:03:34.596237",
+      "pages_updated": 0
+    },
+    "Writing/My Weekly Review Writes Itself Git Commits + Vault Tasks Into a Finished Weekly Note.md": {
+      "ingested": "2026-10-09",
+      "sha256": -6744513404288264265,
+      "last_processed": "2026-10-09T02:03:34.597864",
+      "pages_updated": 3
+    },
+    "Work/Not Everything Needs AI.md": {
+      "ingested": "2026-10-09",
+      "sha256": 6582055361521426225,
+      "last_processed": "2026-10-09T02:03:34.598409",
+      "pages_updated": 1
+    },
+    "OpenClaw/My Experience with OpenClaw - Part II.md": {
+      "ingested": "2026-10-09",
+      "sha256": -8058846146441259245,
+      "last_processed": "2026-10-09T02:03:34.598634",
+      "pages_updated": 0
+    },
+    "0-ToDo/Medium/Medium-2026-10-08.md": {
+      "ingested": "2026-10-09",
+      "sha256": 8987454618434666436,
+      "last_processed": "2026-10-09T02:03:34.599315",
+      "pages_updated": 1
+    },
+    "Research/Most note-taking is spending. Zettelkasten is investing.md": {
+      "ingested": "2026-10-09",
+      "sha256": 6863589722625573408,
+      "last_processed": "2026-10-09T02:03:34.599732",
+      "pages_updated": 0
+    },
+    "Research/My Top 4 Open Source Markdown Editors.md": {
+      "ingested": "2026-10-09",
+      "sha256": 217820006692560329,
+      "last_processed": "2026-10-09T02:03:34.600020",
+      "pages_updated": 0
+    },
+    "Software/Most Claude Advice Online Is Written for Developers. Here\u2019s Claude AI for Beginners Like Me!.md": {
+      "ingested": "2026-10-09",
+      "sha256": 2537831764089783479,
+      "last_processed": "2026-10-09T02:03:34.600428",
+      "pages_updated": 0
+    },
+    "Software/My Best Engineer Refused to Use AI. Six Months Later, He Was No Longer My Best Engineer.md": {
+      "ingested": "2026-10-09",
+      "sha256": -7417042316214499080,
+      "last_processed": "2026-10-09T02:03:34.601055",
+      "pages_updated": 0
+    },
+    "Software/My Best Senior Engineer Quit. I Thought AI Had Made Her More Valuable. I Was Wrong.md": {
+      "ingested": "2026-10-09",
+      "sha256": -1772256702778320174,
+      "last_processed": "2026-10-09T02:03:34.601692",
+      "pages_updated": 0
+    },
+    "Software/My Manager Uses AI to Write All Our Code Now. I Am Still on the Team. I Don\u2019t Know What I Am.md": {
+      "ingested": "2026-10-09",
+      "sha256": -8368044007884894853,
+      "last_processed": "2026-10-09T02:03:34.601971",
+      "pages_updated": 0
+    },
+    "Software/My New Way of Building With AI From One Big Prompt to a Team of Specialized Agents.md": {
+      "ingested": "2026-10-09",
+      "sha256": 8663766973599381439,
+      "last_processed": "2026-10-09T02:03:34.602243",
+      "pages_updated": 0
+    },
+    "Software/My Senior Engineer Deleted 3,000 Lines of AI-Generated Code on Friday. His Reason Was Better Than the Code 1.md": {
+      "ingested": "2026-10-09",
+      "sha256": 7864752289141896803,
+      "last_processed": "2026-10-09T02:03:34.602954",
+      "pages_updated": 0
+    },
+    "Software/My Terminal Was Fine. These Tools Make It More Useful.md": {
+      "ingested": "2026-10-09",
+      "sha256": -9115621128895684554,
+      "last_processed": "2026-10-09T02:03:34.603388",
+      "pages_updated": 0
+    },
+    "Software/One ZIP File Changed How I Use AI Forever.md": {
+      "ingested": "2026-10-09",
+      "sha256": 1311051009114794702,
+      "last_processed": "2026-10-09T02:03:34.603647",
+      "pages_updated": 0
+    },
+    "Photography/No Studio. No Photographer. I Created Product Photos in 5 Minutes With AI.md": {
+      "ingested": "2026-10-09",
+      "sha256": 4690727355210595504,
+      "last_processed": "2026-10-09T02:03:34.604248",
+      "pages_updated": 0
+    },
+    "Obsidian/More Data Made My Obsidian Model Worse.md": {
+      "ingested": "2026-10-09",
+      "sha256": -3655133114085317246,
+      "last_processed": "2026-10-09T02:03:34.604741",
+      "pages_updated": 0
+    },
+    "Obsidian/My AI Agent Lives in My Notes App.md": {
+      "ingested": "2026-10-09",
+      "sha256": 7482917054902889483,
+      "last_processed": "2026-10-09T02:03:34.605098",
+      "pages_updated": 0
+    },
+    "Obsidian/My Brain Is Full, Crew An Open Source Team of AI Agents That Manages an Obsidian Vault Through Conversation.md": {
+      "ingested": "2026-10-09",
+      "sha256": 5878039737214421944,
+      "last_processed": "2026-10-09T02:03:34.605833",
+      "pages_updated": 0
+    },
+    "Obsidian/My Current Obsidian x Hermes Agent Setup (Full Configuration Breakdown).md": {
+      "ingested": "2026-10-09",
+      "sha256": 5510927210269935160,
+      "last_processed": "2026-10-09T02:03:34.606298",
+      "pages_updated": 0
+    },
+    "Obsidian/My Journey Through The World Of Note-Taking Apps (so far).md": {
+      "ingested": "2026-10-09",
+      "sha256": 204700167110956856,
+      "last_processed": "2026-10-09T02:03:34.606754",
+      "pages_updated": 1
+    },
+    "Obsidian/My Karpathy-Style Knowledge Stack Why Hermes, MiniMax M3, and Obsidian Are My Core AI Tools.md": {
+      "ingested": "2026-10-09",
+      "sha256": -2243914586328383656,
+      "last_processed": "2026-10-09T02:03:34.607383",
+      "pages_updated": 0
+    },
+    "Obsidian/My Obsidian Vault Structure for AI Agent Memory.md": {
+      "ingested": "2026-10-09",
+      "sha256": 3315059663578630485,
+      "last_processed": "2026-10-09T02:03:34.607662",
+      "pages_updated": 0
+    },
+    "Obsidian/My PKM Took Off When I Started Using Periodic Notes in Obsidian.md": {
+      "ingested": "2026-10-09",
+      "sha256": 1179166537477364849,
+      "last_processed": "2026-10-09T02:03:34.608012",
+      "pages_updated": 0
+    },
+    "Obsidian/My Second Brain Went Through Three Phases Before It Actually Worked (Obsidian + Rowboat + Codex + Ponytail).md": {
+      "ingested": "2026-10-09",
+      "sha256": -775783508472030508,
+      "last_processed": "2026-10-09T02:03:34.609057",
+      "pages_updated": 3
+    },
+    "Obsidian/My simple Obsidian setup to manage the notes of my PKM \u2014 Day 2.md": {
+      "ingested": "2026-10-09",
+      "sha256": 1040455647186767223,
+      "last_processed": "2026-10-09T02:03:34.609436",
+      "pages_updated": 1
+    },
+    "Obsidian/My weekly Automated Workflow for Scientific Literature Review with ChatGPT and Obsidian.md": {
+      "ingested": "2026-10-09",
+      "sha256": 2393570024718524774,
+      "last_processed": "2026-10-09T02:03:34.610249",
+      "pages_updated": 0
+    },
+    "Obsidian/No App Lets You Handwrite Anywhere. Now Obsidian Does.md": {
+      "ingested": "2026-10-09",
+      "sha256": -1645697577601281567,
+      "last_processed": "2026-10-09T02:03:34.610603",
+      "pages_updated": 0
+    },
+    "Obsidian/No More Screenshots Obsidian Plugin Mermaid Exporter \u2014 Export High-Res Diagrams in One Click.md": {
+      "ingested": "2026-10-09",
+      "sha256": 5876245142651878713,
+      "last_processed": "2026-10-09T02:03:34.610882",
+      "pages_updated": 0
+    },
+    "Obsidian/No Plugins, No AI Deterministic Task and Note Discovery in Core Obsidian.md": {
+      "ingested": "2026-10-09",
+      "sha256": 8381230708437808055,
+      "last_processed": "2026-10-09T02:03:34.611413",
+      "pages_updated": 0
+    },
+    "Obsidian/Notion, Obsidian, OmniFocus, and Paper 10 Years of Trying Everything. Here\u2019s What Survived.md": {
+      "ingested": "2026-10-09",
+      "sha256": -8433988714204288284,
+      "last_processed": "2026-10-09T02:03:34.611727",
+      "pages_updated": 0
+    },
+    "Obsidian/Notion, Obsidian, and Coda One of Them Doesn\u2019t Exist Anymore, and That\u2019s the Whole Lesson.md": {
+      "ingested": "2026-10-09",
+      "sha256": 5847598961266667925,
+      "last_processed": "2026-10-09T02:03:34.611928",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian 1.13 Finally Lets You Find Your Settings.md": {
+      "ingested": "2026-10-09",
+      "sha256": 1673427424282823128,
+      "last_processed": "2026-10-09T02:03:34.612212",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian 101 The Guide I Wish I Had.md": {
+      "ingested": "2026-10-09",
+      "sha256": -4646062409161984937,
+      "last_processed": "2026-10-09T02:03:34.613222",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian Attachments Take Control of Where Your Files Actually Go.md": {
+      "ingested": "2026-10-09",
+      "sha256": 4687688515944876229,
+      "last_processed": "2026-10-09T02:03:34.613463",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian Bookmarks The Core Plugin That Replaces Your Dashboard Note.md": {
+      "ingested": "2026-10-09",
+      "sha256": 7414393289559804725,
+      "last_processed": "2026-10-09T02:03:34.613653",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian Dropbox Sync A Setup Guide.md": {
+      "ingested": "2026-10-09",
+      "sha256": 8402360665642322254,
+      "last_processed": "2026-10-09T02:03:34.614124",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian Git Sync in 2026 What Actually Works on Mobile.md": {
+      "ingested": "2026-10-09",
+      "sha256": -1022557264777902718,
+      "last_processed": "2026-10-09T02:03:34.614683",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian Is Amazing, But Stop Using Plug-Ins.md": {
+      "ingested": "2026-10-09",
+      "sha256": 9034073600945410326,
+      "last_processed": "2026-10-09T02:03:34.614896",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian Is Brilliant. I Use It as a Finder.md": {
+      "ingested": "2026-10-09",
+      "sha256": -2197447160165120660,
+      "last_processed": "2026-10-09T02:03:34.615156",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian Is Great at Notes. But Life Doesn\u2019t Arrive as Notes.md": {
+      "ingested": "2026-10-09",
+      "sha256": 2259664831416278798,
+      "last_processed": "2026-10-09T02:03:34.615370",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian Is Quietly Becoming the Linux of Note-Taking.md": {
+      "ingested": "2026-10-09",
+      "sha256": -2798881188571350786,
+      "last_processed": "2026-10-09T02:03:34.615685",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian Notes Multi Platform Sync.md": {
+      "ingested": "2026-10-09",
+      "sha256": 5258321281265757338,
+      "last_processed": "2026-10-09T02:03:34.615920",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian Notes for Beginners A Complete, Actionable Tutorial.md": {
+      "ingested": "2026-10-09",
+      "sha256": -2694015018782696605,
+      "last_processed": "2026-10-09T02:03:34.617519",
+      "pages_updated": 3
+    },
+    "Obsidian/Obsidian Peaked. Here\u2019s What I\u2019m Watching Instead.md": {
+      "ingested": "2026-10-09",
+      "sha256": 3507569745828271827,
+      "last_processed": "2026-10-09T02:03:34.618592",
+      "pages_updated": 1
+    },
+    "Obsidian/Obsidian Programmer Setup Checklist.md": {
+      "ingested": "2026-10-09",
+      "sha256": 7717134878344229245,
+      "last_processed": "2026-10-09T02:03:34.618866",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian TUI Reader A Terminal for Thoughts.md": {
+      "ingested": "2026-10-09",
+      "sha256": 6035714989261363561,
+      "last_processed": "2026-10-09T02:03:34.619021",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian Tasks Community Plugin Series, Part 8 \u2014 Building Your Task Management System.md": {
+      "ingested": "2026-10-09",
+      "sha256": -616661888414077044,
+      "last_processed": "2026-10-09T02:03:34.619460",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian URI Your Vault Has an API You\u2019re Not Using 1.md": {
+      "ingested": "2026-10-09",
+      "sha256": 6606466618722116582,
+      "last_processed": "2026-10-09T02:03:34.619651",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian URI Your Vault Has an API You\u2019re Not Using.md": {
+      "ingested": "2026-10-09",
+      "sha256": 7196089110279255520,
+      "last_processed": "2026-10-09T02:03:34.619831",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian Unlinked Mentions The Half of the Backlinks Pane You Ignore.md": {
+      "ingested": "2026-10-09",
+      "sha256": 8029250813737125744,
+      "last_processed": "2026-10-09T02:03:34.620053",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian Was the Right First Step. Then Emacs Changed My Life.md": {
+      "ingested": "2026-10-09",
+      "sha256": -3417355129037472738,
+      "last_processed": "2026-10-09T02:03:34.620403",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian and Claude Made Me Say Goodbye (Kinda) to My Journal.md": {
+      "ingested": "2026-10-09",
+      "sha256": -5366500392037694481,
+      "last_processed": "2026-10-09T02:03:34.620739",
+      "pages_updated": 1
+    },
+    "Obsidian/Obsidian and Notion Gave You a Second Brain. This Free Film Gives It Tools.md": {
+      "ingested": "2026-10-09",
+      "sha256": -5363024998806222403,
+      "last_processed": "2026-10-09T02:03:34.621200",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian for AI Engineers How We Turn Scattered Research Into a Durable Knowledge System.md": {
+      "ingested": "2026-10-09",
+      "sha256": 7776869590606906868,
+      "last_processed": "2026-10-09T02:03:34.621641",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian iCloud Sync in 2026, Including the Windows Problem.md": {
+      "ingested": "2026-10-09",
+      "sha256": -3780290971844507244,
+      "last_processed": "2026-10-09T02:03:34.622393",
+      "pages_updated": 1
+    },
+    "Obsidian/Obsidian x Hermes Agent Is So Good I\u2019m Actively Deleting Day-to-Day Apps.md": {
+      "ingested": "2026-10-09",
+      "sha256": -4187708820984082921,
+      "last_processed": "2026-10-09T02:03:34.622704",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian\u2019s New Age (AI x PKM) A Complete Guide (August 2026).md": {
+      "ingested": "2026-10-09",
+      "sha256": -4793342724184448811,
+      "last_processed": "2026-10-09T02:03:34.623299",
+      "pages_updated": 0
+    },
+    "Obsidian/Obsidian\u2019s Note Composer Refactor Your Notes Without Copy-Paste.md": {
+      "ingested": "2026-10-09",
+      "sha256": -5555500553691215640,
+      "last_processed": "2026-10-09T02:03:34.623528",
+      "pages_updated": 0
+    },
+    "Obsidian/One Step Closer, Well\u2026 Give or Take a Few.md": {
+      "ingested": "2026-10-09",
+      "sha256": -5607490446163648020,
+      "last_processed": "2026-10-09T02:03:34.623861",
+      "pages_updated": 0
+    },
+    "Models/More Reasoning Is Not Free. Less Isn\u2019t Automatically Cheaper.md": {
+      "ingested": "2026-10-09",
+      "sha256": 3255521130780445194,
+      "last_processed": "2026-10-09T02:03:34.625051",
+      "pages_updated": 1
+    },
+    "Models/One Startup\u2019s Test Left the Internet On, and AI Agents From Four Labs Hacked Real Companies.md": {
+      "ingested": "2026-10-09",
+      "sha256": -6177700730666170300,
+      "last_processed": "2026-10-09T02:03:34.625381",
+      "pages_updated": 0
     }
   },
   "last_batch": null,
