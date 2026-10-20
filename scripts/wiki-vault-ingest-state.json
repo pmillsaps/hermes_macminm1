@@ -33227,6 +33227,42 @@
       "sha256": -5777439334201623819,
       "last_processed": "2026-10-19T02:04:07.183492",
       "pages_updated": 1
+    },
+    "AI/Three Microsoft Agent Framework Posts, One Working App RAG, a Custom Agent, and a Workflow Graph Wired Together.md": {
+      "ingested": "2026-10-20",
+      "sha256": 1403044846442197183,
+      "last_processed": "2026-10-20T02:01:00.615944",
+      "pages_updated": 0
+    },
+    "Agents/Agents/The AI Agent That Changed the Model It Was Running.md": {
+      "ingested": "2026-10-20",
+      "sha256": 7151063091435680597,
+      "last_processed": "2026-10-20T02:01:00.616161",
+      "pages_updated": 0
+    },
+    "Agents/Agents/This cute AI companion will end humanity.md": {
+      "ingested": "2026-10-20",
+      "sha256": -9015826940681017317,
+      "last_processed": "2026-10-20T02:01:00.616364",
+      "pages_updated": 0
+    },
+    "Agents/Hermes/Testing an AI Agent \u2014 Hermes Agent with Promptfoo.md": {
+      "ingested": "2026-10-20",
+      "sha256": 1194568671863420748,
+      "last_processed": "2026-10-20T02:01:00.618073",
+      "pages_updated": 3
+    },
+    "AI News/The AI Productivity Paradox Why Developers Feel Faster and Are More Burned Out Than Ever.md": {
+      "ingested": "2026-10-20",
+      "sha256": -1911342795812845593,
+      "last_processed": "2026-10-20T02:01:00.618310",
+      "pages_updated": 0
+    },
+    "Coursiv/Marketing_Your_Business_with_AI/The Best AI Image Generators of 2026 I Tested 8 Models With the Exact Same Prompt.md": {
+      "ingested": "2026-10-20",
+      "sha256": -803177622695424596,
+      "last_processed": "2026-10-20T02:01:00.618968",
+      "pages_updated": 0
     }
   },
   "timing": {
