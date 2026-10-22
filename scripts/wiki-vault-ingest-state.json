@@ -33479,6 +33479,84 @@
       "sha256": 4838797080872537811,
       "last_processed": "2026-10-21T02:01:01.459518",
       "pages_updated": 0
+    },
+    "Agents/Harnesses/6 AI Agent Harness Decisions That Separate Reliable Agents From Broken Ones.md": {
+      "ingested": "2026-10-22",
+      "sha256": -1729115196408912750,
+      "last_processed": "2026-10-22T02:05:52.454938",
+      "pages_updated": 0
+    },
+    "Agents/Hermes/5 Open-Source Internal Tools to Use with Hermes Agent.md": {
+      "ingested": "2026-10-22",
+      "sha256": 1659133716727244878,
+      "last_processed": "2026-10-22T02:05:52.455422",
+      "pages_updated": 0
+    },
+    "Agents/Hermes/7 Hermes Agent Pitfalls Nobody Warns You About (From Real Setup Experience).md": {
+      "ingested": "2026-10-22",
+      "sha256": -6738804790456506400,
+      "last_processed": "2026-10-22T02:05:52.455812",
+      "pages_updated": 0
+    },
+    "Personal Finance/10 Unwritten Retirement Rules of Being Retired in 2026.md": {
+      "ingested": "2026-10-22",
+      "sha256": 4467871212897871742,
+      "last_processed": "2026-10-22T02:05:52.456143",
+      "pages_updated": 0
+    },
+    "Business Ideas/5 Crazy Micro-SaaS Ideas 2026 From Facebook.md": {
+      "ingested": "2026-10-22",
+      "sha256": 9025530299056399018,
+      "last_processed": "2026-10-22T02:05:52.456469",
+      "pages_updated": 0
+    },
+    "Business Ideas/8 Cool Things People Use GPT-6 Astra For.md": {
+      "ingested": "2026-10-22",
+      "sha256": 4138634408595724778,
+      "last_processed": "2026-10-22T02:05:52.457251",
+      "pages_updated": 1
+    },
+    "Education/5 AI Tools That Help You Actually Retain What You Study.md": {
+      "ingested": "2026-10-22",
+      "sha256": 7422743510328568370,
+      "last_processed": "2026-10-22T02:05:52.459710",
+      "pages_updated": 6
+    },
+    "Education/8 Free Claude AI Courses and Guides to Learn Claude From Zero!.md": {
+      "ingested": "2026-10-22",
+      "sha256": 2502950431552553151,
+      "last_processed": "2026-10-22T02:05:52.460038",
+      "pages_updated": 0
+    },
+    "Work/5 High Paying Remote Jobs With Low Competition (Some Pay $5,000+Month).md": {
+      "ingested": "2026-10-22",
+      "sha256": -3505317560508360984,
+      "last_processed": "2026-10-22T02:05:52.460430",
+      "pages_updated": 0
+    },
+    "OCR/5 Best AI Document Processing Tools in 2026 (Compared).md": {
+      "ingested": "2026-10-22",
+      "sha256": 6925889759800787934,
+      "last_processed": "2026-10-22T02:05:52.460783",
+      "pages_updated": 0
+    },
+    "0-ToDo/AI_Hustle/20261021_Turn-Your-Podcasts-into-Licensing-Revenue-for-AI.md": {
+      "ingested": "2026-10-22",
+      "sha256": -2514868026991931956,
+      "last_processed": "2026-10-22T02:05:52.460976",
+      "pages_updated": 0
+    },
+    "0-ToDo/Daily-Briefs/2026-07-25.md": {
+      "ingested": "2026-10-22",
+      "sha256": -7370831798136419422,
+      "last_processed": "2026-10-22T02:05:52.461025",
+      "pages_updated": 0
+    },
+    "0-ToDo/Medium/Medium-2026-10-21.md": {
+      "ingested": "2026-10-22",
+      "sha256": -5615710629342412723,
+      "last_processed": "2026-10-22T02:05:52.461694",
+      "pages_updated": 1
     }
   },
   "timing": {
