@@ -85,34 +85,34 @@
       "schedule_display": "0 2 * * *",
       "repeat": {
         "times": null,
-        "completed": 51
+        "completed": 52
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-19T04:56:31.069460-05:00",
-      "next_run_at": "2026-11-08T02:00:00-06:00",
-      "last_run_at": "2026-11-07T02:00:41.761155-06:00",
+      "next_run_at": "2026-11-09T02:00:00-06:00",
+      "last_run_at": "2026-11-08T02:00:41.670837-06:00",
       "last_status": "blocked_config",
       "last_error": "[blocked_config:silent] provider credential missing: No access token found for Nous Portal login. [profile 'default', HERMES_HOME /Users/paulmillsaps/.hermes]. Set the provider API key in .env (or `hermes setup`) for that home, or pin a working provider via `hermes cron edit 1da953f915bb --provider <p>`.",
       "last_delivery_error": null,
       "last_delivery_unverified": null,
-      "failure_streak": 15,
+      "failure_streak": 16,
       "deliver": "telegram:8624831548",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": "/Users/paulmillsaps/Documents/_Obsidian/wiki",
       "last_dispatch": {
-        "scheduled_at": "2026-11-07T02:00:00-06:00",
-        "dispatched_at": "2026-11-07T02:00:41.548893-06:00",
-        "lateness_seconds": 41.5,
+        "scheduled_at": "2026-11-08T02:00:00-06:00",
+        "dispatched_at": "2026-11-08T02:00:41.424281-06:00",
+        "lateness_seconds": 41.4,
         "kind": "on_time"
       },
       "fire_claim": null,
       "preflight_alerted": true,
       "last_failure": {
-        "at": "2026-11-07T02:00:41.761155-06:00",
+        "at": "2026-11-08T02:00:41.670837-06:00",
         "detail": "[blocked_config:silent] provider credential missing: No access token found for Nous Portal login. [profile 'default', HERMES_HOME /Users/paulmillsaps/.hermes]. Set the provider API key in .env (or `hermes setup`) for that home, or pin a working provider via `hermes cron edit 1da953f915bb --provider <p>`."
       }
     },
@@ -141,15 +141,15 @@
       "schedule_display": "0 3 * * *",
       "repeat": {
         "times": null,
-        "completed": 49
+        "completed": 50
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-19T06:54:41.235908-05:00",
-      "next_run_at": "2026-11-08T03:00:00-06:00",
-      "last_run_at": "2026-11-06T03:00:43.791371-06:00",
+      "next_run_at": "2026-11-09T03:00:00-06:00",
+      "last_run_at": "2026-11-07T03:00:43.423062-06:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -160,16 +160,16 @@
       "enabled_toolsets": null,
       "workdir": "/Users/paulmillsaps/.hermes-backup-repo",
       "last_dispatch": {
-        "scheduled_at": "2026-11-07T03:00:00-06:00",
-        "dispatched_at": "2026-11-07T03:00:41.533723-06:00",
-        "lateness_seconds": 41.5,
+        "scheduled_at": "2026-11-08T03:00:00-06:00",
+        "dispatched_at": "2026-11-08T03:00:41.407395-06:00",
+        "lateness_seconds": 41.4,
         "kind": "on_time"
       },
       "fire_claim": {
-        "at": "2026-11-07T03:00:41.580110-06:00",
-        "by": "Vera.home.local:709:5cfd948f4a984ff18f30a6209737b18a"
+        "at": "2026-11-08T03:00:41.454079-06:00",
+        "by": "Vera.home.local:709:e9028f3f89d442628bd3567896870eaa"
       }
     }
   ],
-  "updated_at": "2026-11-07T03:00:41.580719-06:00"
+  "updated_at": "2026-11-08T03:00:41.454623-06:00"
 }
