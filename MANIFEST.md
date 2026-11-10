@@ -1,6 +1,6 @@
 # Hermes Backup Manifest
 
-**Generated:** 2026-11-09 03:00:41
+**Generated:** 2026-11-10 03:00:12
 **Host:** Vera
 **Source:** `/Users/paulmillsaps/.hermes`
 

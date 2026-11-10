@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "installed": {
+    "opencode": {
+      "source": "official",
+      "identifier": "official/autonomous-ai-agents/opencode",
+      "trust_level": "builtin",
+      "scan_verdict": "backfilled",
+      "content_hash": "sha256:c0273d8266b0cdb9",
+      "install_path": "autonomous-ai-agents/opencode",
+      "files": [
+        "SKILL.md"
+      ],
+      "metadata": {
+        "backfilled_from": "optional-skills"
+      },
+      "installed_at": "2026-11-09T14:00:50.246866+00:00",
+      "updated_at": "2026-11-09T14:00:50.246866+00:00"
+    },
+    "design-md": {
+      "source": "official",
+      "identifier": "official/creative/design-md",
+      "trust_level": "builtin",
+      "scan_verdict": "backfilled",
+      "content_hash": "sha256:4a0a7a757630dc24",
+      "install_path": "creative/design-md",
+      "files": [
+        "SKILL.md",
+        "templates/starter.md"
+      ],
+      "metadata": {
+        "backfilled_from": "optional-skills"
+      },
+      "installed_at": "2026-11-09T14:00:50.266611+00:00",
+      "updated_at": "2026-11-09T14:00:50.266611+00:00"
+    },
+    "gif-search": {
+      "source": "official",
+      "identifier": "official/media/gif-search",
+      "trust_level": "builtin",
+      "scan_verdict": "backfilled",
+      "content_hash": "sha256:c52e93aa81099829",
+      "install_path": "media/gif-search",
+      "files": [
+        "SKILL.md"
+      ],
+      "metadata": {
+        "backfilled_from": "optional-skills"
+      },
+      "installed_at": "2026-11-09T14:00:50.268597+00:00",
+      "updated_at": "2026-11-09T14:00:50.268597+00:00"
+    },
+    "songsee": {
+      "source": "official",
+      "identifier": "official/media/songsee",
+      "trust_level": "builtin",
+      "scan_verdict": "backfilled",
+      "content_hash": "sha256:2cb6f1b3d64e8141",
+      "install_path": "media/songsee",
+      "files": [
+        "SKILL.md"
+      ],
+      "metadata": {
+        "backfilled_from": "optional-skills"
+      },
+      "installed_at": "2026-11-09T14:00:50.269063+00:00",
+      "updated_at": "2026-11-09T14:00:50.269063+00:00"
+    },
+    "box": {
+      "source": "official",
+      "identifier": "official/productivity/box",
+      "trust_level": "builtin",
+      "scan_verdict": "backfilled",
+      "content_hash": "sha256:de13336d7d0c5056",
+      "install_path": "productivity/box",
+      "files": [
+        "SKILL.md",
+        "references/bulk-operations.md",
+        "references/cli-guide.md",
+        "references/content-workflows.md",
+        "references/hubs.md",
+        "references/oauth-setup.md",
+        "references/rest-api.md",
+        "references/sdk-development.md",
+        "references/search-and-ai.md",
+        "references/troubleshooting.md",
+        "references/webhooks-and-events.md"
+      ],
+      "metadata": {
+        "backfilled_from": "optional-skills"
+      },
+      "installed_at": "2026-11-09T14:00:50.274269+00:00",
+      "updated_at": "2026-11-09T14:00:50.274269+00:00"
+    },
+    "python-debugpy": {
+      "source": "official",
+      "identifier": "official/software-development/python-debugpy",
+      "trust_level": "builtin",
+      "scan_verdict": "backfilled",
+      "content_hash": "sha256:1e283d7ac51a1d8a",
+      "install_path": "software-development/python-debugpy",
+      "files": [
+        "SKILL.md"
+      ],
+      "metadata": {
+        "backfilled_from": "optional-skills"
+      },
+      "installed_at": "2026-11-09T14:00:50.278001+00:00",
+      "updated_at": "2026-11-09T14:00:50.278001+00:00"
+    }
+  }
+}

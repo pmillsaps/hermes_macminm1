@@ -27,36 +27,39 @@
       "schedule_display": "every monday 9am",
       "repeat": {
         "times": null,
-        "completed": 7
+        "completed": 8
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-19T04:43:35.444198-05:00",
-      "next_run_at": "2026-11-09T09:00:00-06:00",
-      "last_run_at": "2026-11-02T09:00:41.985124-06:00",
+      "next_run_at": "2026-11-16T09:00:00-06:00",
+      "last_run_at": "2026-11-09T09:00:13.109650-06:00",
       "last_status": "blocked_config",
       "last_error": "[blocked_config:silent] provider credential missing: No access token found for Nous Portal login. [profile 'default', HERMES_HOME /Users/paulmillsaps/.hermes]. Set the provider API key in .env (or `hermes setup`) for that home, or pin a working provider via `hermes cron edit 435fa92323c0 --provider <p>`.",
       "last_delivery_error": null,
       "last_delivery_unverified": null,
-      "failure_streak": 2,
+      "failure_streak": 3,
       "deliver": "telegram:8624831548",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": "/Users/paulmillsaps/Documents/_Obsidian/wiki",
       "last_dispatch": {
-        "scheduled_at": "2026-11-02T09:00:00-06:00",
-        "dispatched_at": "2026-11-02T09:00:41.780064-06:00",
-        "lateness_seconds": 41.8,
+        "scheduled_at": "2026-11-09T09:00:00-06:00",
+        "dispatched_at": "2026-11-09T09:00:12.639438-06:00",
+        "lateness_seconds": 12.6,
         "kind": "on_time"
       },
       "fire_claim": null,
       "preflight_alerted": true,
       "last_failure": {
-        "at": "2026-11-02T09:00:41.985124-06:00",
+        "at": "2026-11-09T09:00:13.109650-06:00",
         "detail": "[blocked_config:silent] provider credential missing: No access token found for Nous Portal login. [profile 'default', HERMES_HOME /Users/paulmillsaps/.hermes]. Set the provider API key in .env (or `hermes setup`) for that home, or pin a working provider via `hermes cron edit 435fa92323c0 --provider <p>`."
-      }
+      },
+      "canonical_completions": [
+        "d1fa2a73fe5c4b73946ae669e59d87e8"
+      ]
     },
     {
       "id": "1da953f915bb",
@@ -85,36 +88,39 @@
       "schedule_display": "0 2 * * *",
       "repeat": {
         "times": null,
-        "completed": 53
+        "completed": 54
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-19T04:56:31.069460-05:00",
-      "next_run_at": "2026-11-10T02:00:00-06:00",
-      "last_run_at": "2026-11-09T02:00:41.511985-06:00",
+      "next_run_at": "2026-11-11T02:00:00-06:00",
+      "last_run_at": "2026-11-10T02:00:12.973638-06:00",
       "last_status": "blocked_config",
       "last_error": "[blocked_config:silent] provider credential missing: No access token found for Nous Portal login. [profile 'default', HERMES_HOME /Users/paulmillsaps/.hermes]. Set the provider API key in .env (or `hermes setup`) for that home, or pin a working provider via `hermes cron edit 1da953f915bb --provider <p>`.",
       "last_delivery_error": null,
       "last_delivery_unverified": null,
-      "failure_streak": 17,
+      "failure_streak": 18,
       "deliver": "telegram:8624831548",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": "/Users/paulmillsaps/Documents/_Obsidian/wiki",
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T02:00:00-06:00",
-        "dispatched_at": "2026-11-09T02:00:41.286625-06:00",
-        "lateness_seconds": 41.3,
+        "scheduled_at": "2026-11-10T02:00:00-06:00",
+        "dispatched_at": "2026-11-10T02:00:12.553406-06:00",
+        "lateness_seconds": 12.6,
         "kind": "on_time"
       },
       "fire_claim": null,
       "preflight_alerted": true,
       "last_failure": {
-        "at": "2026-11-09T02:00:41.511985-06:00",
+        "at": "2026-11-10T02:00:12.973638-06:00",
         "detail": "[blocked_config:silent] provider credential missing: No access token found for Nous Portal login. [profile 'default', HERMES_HOME /Users/paulmillsaps/.hermes]. Set the provider API key in .env (or `hermes setup`) for that home, or pin a working provider via `hermes cron edit 1da953f915bb --provider <p>`."
-      }
+      },
+      "canonical_completions": [
+        "7ca5143cdda244fd9d3290da0c836b75"
+      ]
     },
     {
       "id": "52f7947599a3",
@@ -141,15 +147,15 @@
       "schedule_display": "0 3 * * *",
       "repeat": {
         "times": null,
-        "completed": 51
+        "completed": 52
       },
       "enabled": true,
       "state": "scheduled",
       "paused_at": null,
       "paused_reason": null,
       "created_at": "2026-09-19T06:54:41.235908-05:00",
-      "next_run_at": "2026-11-10T03:00:00-06:00",
-      "last_run_at": "2026-11-08T03:00:43.459933-06:00",
+      "next_run_at": "2026-11-11T03:00:00-06:00",
+      "last_run_at": "2026-11-09T03:00:43.562545-06:00",
       "last_status": "ok",
       "last_error": null,
       "last_delivery_error": null,
@@ -160,16 +166,16 @@
       "enabled_toolsets": null,
       "workdir": "/Users/paulmillsaps/.hermes-backup-repo",
       "last_dispatch": {
-        "scheduled_at": "2026-11-09T03:00:00-06:00",
-        "dispatched_at": "2026-11-09T03:00:41.280395-06:00",
-        "lateness_seconds": 41.3,
+        "scheduled_at": "2026-11-10T03:00:00-06:00",
+        "dispatched_at": "2026-11-10T03:00:12.548463-06:00",
+        "lateness_seconds": 12.5,
         "kind": "on_time"
       },
       "fire_claim": {
-        "at": "2026-11-09T03:00:41.326841-06:00",
-        "by": "Vera.home.local:709:e98cf9e7871046e693eb6c9aa49c3a76"
+        "at": "2026-11-10T03:00:12.587813-06:00",
+        "by": "Vera.home.local:11981:ec979c300f2148728053af6da4b8a424"
       }
     }
   ],
-  "updated_at": "2026-11-09T03:00:41.327377-06:00"
+  "updated_at": "2026-11-10T03:00:12.588258-06:00"
 }

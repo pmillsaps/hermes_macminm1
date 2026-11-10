@@ -30,8 +30,6 @@ web:
 browser:
   inactivity_timeout: 120
   use_real_profile: true
-  extension_control:
-    enabled: false
   cloud_provider: nous
 tool_loop_guardrails:
   warnings_enabled: true
@@ -79,6 +77,8 @@ display:
   cleanup_progress: false
   long_running_notifications: true
   busy_ack_detail: true
+  in_app_tips: false
+  in_app_tours: false
 tts:
   provider: nous
 stt:
@@ -157,7 +157,7 @@ updates:
   pre_update_backup: false
   backup_keep: 5
   non_interactive_local_changes: stash
-_config_version: 49
+_config_version: 53
 group_sessions_per_user: true
 platform_toolsets:
   cli:
